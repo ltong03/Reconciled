@@ -5,7 +5,8 @@ public class playerMovement : MonoBehaviour
     public Transform orientation;
     CharacterController controller;
 
-    public float SPEED;
+    public float SPEED = 4;
+    public float GRAVITY = 9.81f;
 
     float rotationY;
     float rotationX;
@@ -31,9 +32,10 @@ public class playerMovement : MonoBehaviour
         float inputHoriz = Input.GetAxis("Horizontal");
         float inputVert  = Input.GetAxis("Vertical");
 
-        Vector3 direction = orientation.forward * inputVert + orientation.right * inputHoriz;
+        Vector3 direction = (orientation.forward * inputVert + orientation.right * inputHoriz) * SPEED;
+        direction.y = -GRAVITY;
 
-        controller.Move(direction * Time.deltaTime * SPEED);
+        controller.Move(direction * Time.deltaTime);
     }
 
     void rotateCamera()
