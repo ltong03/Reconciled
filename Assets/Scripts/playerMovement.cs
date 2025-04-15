@@ -3,6 +3,9 @@ using UnityEngine;
 public class playerMovement : MonoBehaviour
 {
     public Transform orientation;
+    CharacterController controller;
+
+    public float SPEED;
 
     float rotationY;
     float rotationX;
@@ -10,12 +13,30 @@ public class playerMovement : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
+        controller = gameObject.GetComponent<CharacterController>();
+
         // Dont display mouse cursor when gaem is being played
         Cursor.lockState = CursorLockMode.Locked;
     }
 
     // Update is called once per frame
     void Update()
+    {
+        rotateCamera();
+        moveBody();
+    }
+
+    void moveBody()
+    {
+        float inputHoriz = Input.GetAxis("Horizontal");
+        float inputVert  = Input.GetAxis("Vertical");
+
+        Vector3 direction = orientation.forward * inputVert + orientation.right * inputHoriz;
+
+        controller.Move(direction * Time.deltaTime * SPEED);
+    }
+
+    void rotateCamera()
     {
         // get mouse input
         float lookX = Input.GetAxis("Mouse X");
