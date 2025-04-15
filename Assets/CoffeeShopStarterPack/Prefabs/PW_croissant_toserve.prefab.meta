@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b4ed931ca91f741b6a600b8a20639eed
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 160914
+  packageName: CoffeeShop Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/CoffeeShopStarterPack/Prefabs/PW_croissant_toserve.prefab
+  uploadId: 361463

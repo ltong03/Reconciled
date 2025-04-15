@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d69ebb5455c17482da6677eadea7a231
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 160914
+  packageName: CoffeeShop Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/CoffeeShopStarterPack/Prefabs/PW_frenchtoast_egg.prefab
+  uploadId: 361463

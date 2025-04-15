@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 340d47ae895ab4f1cb1c63107c57ff7f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 160914
+  packageName: CoffeeShop Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/CoffeeShopStarterPack/Prefabs/PW_frenchtoast_olives.prefab
+  uploadId: 361463

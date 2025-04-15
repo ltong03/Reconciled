@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c1bb14943d45a455a89a21f987e875f5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 160914
+  packageName: CoffeeShop Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/CoffeeShopStarterPack/Materials/coffee_particle.mat
+  uploadId: 361463

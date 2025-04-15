@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c6167ac61824c4c73860f8713902993c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 160914
+  packageName: CoffeeShop Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/CoffeeShopStarterPack/Animations/dummy_animation_target_filling.anim
+  uploadId: 361463

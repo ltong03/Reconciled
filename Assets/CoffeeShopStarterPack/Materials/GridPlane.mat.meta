@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9a6e5c255d5684847a52f3498c9496f2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 160914
+  packageName: CoffeeShop Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/CoffeeShopStarterPack/Materials/GridPlane.mat
+  uploadId: 361463

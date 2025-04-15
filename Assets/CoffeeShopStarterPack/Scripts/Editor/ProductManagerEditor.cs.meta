@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 960e3fc330bc741b8a5843512ce2edbe
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 160914
+  packageName: CoffeeShop Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/CoffeeShopStarterPack/Scripts/Editor/ProductManagerEditor.cs
+  uploadId: 361463

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cf0ed742d48ee45b491cb0d38bf431be
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 160914
+  packageName: CoffeeShop Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/CoffeeShopStarterPack/Scenes/PostProcessProfiles/ScreenshotProfile.asset
+  uploadId: 361463

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6c1d3adc7bce3495290af7254342cc38
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 160914
+  packageName: CoffeeShop Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/CoffeeShopStarterPack/Prefabs/Gameplay/Products/PW_orangejuice_type2.prefab
+  uploadId: 361463

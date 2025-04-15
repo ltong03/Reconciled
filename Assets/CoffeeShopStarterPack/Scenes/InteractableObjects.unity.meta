@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7f488add6216047ba9cedbecc145fac2
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 160914
+  packageName: CoffeeShop Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/CoffeeShopStarterPack/Scenes/InteractableObjects.unity
+  uploadId: 361463

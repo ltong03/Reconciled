@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fbbf1aaff00e94748a4a8f9d6a37714d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 160914
+  packageName: CoffeeShop Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/CoffeeShopStarterPack/Prefabs/PW_display01.prefab
+  uploadId: 361463

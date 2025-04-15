@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f54232aba16bf4b04ac8377906f459e6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 160914
+  packageName: CoffeeShop Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/CoffeeShopStarterPack/Materials/basic_plant.mat
+  uploadId: 361463

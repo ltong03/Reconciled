@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 80b8d62454dc44cf2984af37c98f941e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 160914
+  packageName: CoffeeShop Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/CoffeeShopStarterPack/Prefabs/PW_doughnut_blackNwhite.prefab
+  uploadId: 361463
