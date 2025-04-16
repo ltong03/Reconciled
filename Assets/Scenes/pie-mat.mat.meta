@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e075dba594ceb124e9318559b66150cb
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 159277
+  packageName: Realistic Pie
+  packageVersion: 1.0
+  assetPath: Assets/Scenes/pie-mat.mat
+  uploadId: 342973

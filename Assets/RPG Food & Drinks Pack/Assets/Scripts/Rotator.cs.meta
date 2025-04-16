@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: d04f90983040f0846a0e9ec03aff2b5f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 121067
+  packageName: RPG Food & Drinks Pack
+  packageVersion: 1.0
+  assetPath: Assets/RPG Food & Drinks Pack/Assets/Scripts/Rotator.cs
+  uploadId: 253540

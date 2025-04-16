@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bf1067ac4cce904429196bd5902ef4c2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 121067
+  packageName: RPG Food & Drinks Pack
+  packageVersion: 1.0
+  assetPath: Assets/RPG Food & Drinks Pack/Assets/Prefabs/PotionSmall.prefab
+  uploadId: 253540
