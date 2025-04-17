@@ -1234,6 +1234,18 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2094655649320282860, guid: 6122ad3fed8c19f4798310804ccb428d, type: 3}
+      propertyPath: SPEED
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 2094655649320282860, guid: 6122ad3fed8c19f4798310804ccb428d, type: 3}
+      propertyPath: XSensitivity
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2094655649320282860, guid: 6122ad3fed8c19f4798310804ccb428d, type: 3}
+      propertyPath: YSensitivity
+      value: 1.5
+      objectReference: {fileID: 0}
     - target: {fileID: 3335721924253866364, guid: 6122ad3fed8c19f4798310804ccb428d, type: 3}
       propertyPath: m_Name
       value: Player

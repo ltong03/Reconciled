@@ -7,6 +7,8 @@ public class playerMovement : MonoBehaviour
 
     public float SPEED = 4;
     public float GRAVITY = 9.81f;
+    public float YSensitivity = 1;
+    public float XSensitivity = 1;
 
     float rotationY;
     float rotationX;
@@ -47,8 +49,8 @@ public class playerMovement : MonoBehaviour
         float lookY = Input.GetAxis("Mouse Y");
 
         // adust rotation based on mouse input
-        rotationY += lookX;
-        rotationX -= lookY;
+        rotationY += lookX * XSensitivity;
+        rotationX -= lookY * YSensitivity;
         // prevent up/down rotation from going past 90 degrees in either direction
         rotationX = Mathf.Clamp(rotationX, -90f, 90f);
 
