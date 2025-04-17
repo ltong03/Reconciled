@@ -5,11 +5,13 @@ public class playerMovement : MonoBehaviour
     public Transform orientation;
     CharacterController controller;
 
-    public float SPEED = 4;
+    public float defaultSpeed = 3;
+    float realSpeed;
     public float GRAVITY = 9.81f;
-    public float YSensitivity = 1;
-    public float XSensitivity = 1;
+    public float YSensitivity = 1.5f;
+    public float XSensitivity = 2;
     public float crouchHeight = 0.5f;
+    public float crouchSpeed = 0.5f;
 
     float rotationY;
     float rotationX;
@@ -17,10 +19,14 @@ public class playerMovement : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
+        // get character controller
         controller = gameObject.GetComponent<CharacterController>();
 
         // Dont display mouse cursor when gaem is being played
         Cursor.lockState = CursorLockMode.Locked;
+
+        // set real speed
+        realSpeed = defaultSpeed;
     }
 
     // Update is called once per frame
@@ -38,7 +44,7 @@ public class playerMovement : MonoBehaviour
         float inputVert  = Input.GetAxis("Vertical");
 
         // construct Vector3 with camera orientation as "forward" direction
-        Vector3 direction = (orientation.forward * inputVert + orientation.right * inputHoriz) * SPEED;
+        Vector3 direction = (orientation.forward * inputVert + orientation.right * inputHoriz) * realSpeed;
         direction.y = -GRAVITY;
 
         controller.Move(direction * Time.deltaTime);
@@ -51,6 +57,9 @@ public class playerMovement : MonoBehaviour
 
         //change scale
         transform.localScale = new Vector3(1 ,1 - crouchInput*crouchHeight, 1);
+
+        //change speed
+        realSpeed = defaultSpeed * (1-crouchInput*crouchSpeed);
     }
 
     void rotateCamera()
@@ -66,6 +75,6 @@ public class playerMovement : MonoBehaviour
         rotationX = Mathf.Clamp(rotationX, -90f, 90f);
 
         // set the rotation
-        transform.rotation = Quaternion.Euler(rotationX, rotationY, 0);
+        orientation.rotation = Quaternion.Euler(rotationX, rotationY, 0);
     }
 }

@@ -1239,12 +1239,20 @@ PrefabInstance:
       value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 2094655649320282860, guid: 6122ad3fed8c19f4798310804ccb428d, type: 3}
+      propertyPath: crouchSpeed
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2094655649320282860, guid: 6122ad3fed8c19f4798310804ccb428d, type: 3}
       propertyPath: XSensitivity
       value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 2094655649320282860, guid: 6122ad3fed8c19f4798310804ccb428d, type: 3}
       propertyPath: YSensitivity
       value: 1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2094655649320282860, guid: 6122ad3fed8c19f4798310804ccb428d, type: 3}
+      propertyPath: defaultSpeed
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 3335721924253866364, guid: 6122ad3fed8c19f4798310804ccb428d, type: 3}
       propertyPath: m_Name
