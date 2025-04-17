@@ -29,9 +29,11 @@ public class playerMovement : MonoBehaviour
 
     void moveBody()
     {
+        // get keyboard input
         float inputHoriz = Input.GetAxis("Horizontal");
         float inputVert  = Input.GetAxis("Vertical");
 
+        // construct Vector3 with camera orientation as "forward" direction
         Vector3 direction = (orientation.forward * inputVert + orientation.right * inputHoriz) * SPEED;
         direction.y = -GRAVITY;
 
