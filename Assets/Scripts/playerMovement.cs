@@ -9,6 +9,7 @@ public class playerMovement : MonoBehaviour
     public float GRAVITY = 9.81f;
     public float YSensitivity = 1;
     public float XSensitivity = 1;
+    public float crouchHeight = 0.5f;
 
     float rotationY;
     float rotationX;
@@ -27,6 +28,7 @@ public class playerMovement : MonoBehaviour
     {
         rotateCamera();
         moveBody();
+        crouch();
     }
 
     void moveBody()
@@ -40,6 +42,15 @@ public class playerMovement : MonoBehaviour
         direction.y = -GRAVITY;
 
         controller.Move(direction * Time.deltaTime);
+    }
+
+    void crouch()
+    {
+        // get keyboard input
+        float crouchInput = Input.GetAxis("Crouch");
+
+        //change scale
+        transform.localScale = new Vector3(1 ,1 - crouchInput*crouchHeight, 1);
     }
 
     void rotateCamera()
