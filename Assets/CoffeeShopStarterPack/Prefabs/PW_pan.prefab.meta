@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f3e44870c7d004aa3a92cdfabc5207bc
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 160914
+  packageName: CoffeeShop Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/CoffeeShopStarterPack/Prefabs/PW_pan.prefab
+  uploadId: 361463

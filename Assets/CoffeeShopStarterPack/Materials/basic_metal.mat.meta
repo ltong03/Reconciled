@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d7001360c93874980a7a04139e88396f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 160914
+  packageName: CoffeeShop Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/CoffeeShopStarterPack/Materials/basic_metal.mat
+  uploadId: 361463

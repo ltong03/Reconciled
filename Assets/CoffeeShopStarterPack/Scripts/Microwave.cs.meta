@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 32e83abeec1304beea76326848a1b253
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 160914
+  packageName: CoffeeShop Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/CoffeeShopStarterPack/Scripts/Microwave.cs
+  uploadId: 361463

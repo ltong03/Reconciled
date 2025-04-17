@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bbfd91b99086b4acb9d41d225cf41bb2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 160914
+  packageName: CoffeeShop Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/CoffeeShopStarterPack/Prefabs/PW_mochapot.prefab
+  uploadId: 361463

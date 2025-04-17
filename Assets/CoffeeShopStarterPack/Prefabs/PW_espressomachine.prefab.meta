@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a0634ab2a98bd4b78af017c116badda5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 160914
+  packageName: CoffeeShop Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/CoffeeShopStarterPack/Prefabs/PW_espressomachine.prefab
+  uploadId: 361463

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 67b6bd8afc16f482b8cdff490a857fa8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 160914
+  packageName: CoffeeShop Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/CoffeeShopStarterPack/Prefabs/PW_microwave.prefab
+  uploadId: 361463

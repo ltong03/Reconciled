@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0683ba921c1a542ea8dae92b271c1e18
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 160914
+  packageName: CoffeeShop Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/CoffeeShopStarterPack/Prefabs/PW_doughnut_pink.prefab
+  uploadId: 361463

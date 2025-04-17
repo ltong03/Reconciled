@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f56ff24a2af354590b97f667eac6cc56
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 160914
+  packageName: CoffeeShop Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/CoffeeShopStarterPack/Scripts/Editor/BewerageMakerEditor.cs
+  uploadId: 361463

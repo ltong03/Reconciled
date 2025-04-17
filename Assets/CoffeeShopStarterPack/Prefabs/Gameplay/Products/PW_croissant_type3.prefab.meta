@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fc1c715930c3942a4b6230c59db45ddc
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 160914
+  packageName: CoffeeShop Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/CoffeeShopStarterPack/Prefabs/Gameplay/Products/PW_croissant_type3.prefab
+  uploadId: 361463

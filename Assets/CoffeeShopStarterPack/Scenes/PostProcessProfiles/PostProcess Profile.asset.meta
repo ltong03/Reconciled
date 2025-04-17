@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: edcb9bd89c56a480f9579957dc1a4727
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 160914
+  packageName: CoffeeShop Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/CoffeeShopStarterPack/Scenes/PostProcessProfiles/PostProcess
+    Profile.asset
+  uploadId: 361463

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a1f504b250f85472aa056582a234d53f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 160914
+  packageName: CoffeeShop Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/CoffeeShopStarterPack/Prefabs/Gameplay/OrderRepresentation.prefab
+  uploadId: 361463

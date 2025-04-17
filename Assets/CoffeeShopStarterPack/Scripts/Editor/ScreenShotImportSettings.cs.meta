@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c82718b444dc74a98b504c6d239bcaa2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 160914
+  packageName: CoffeeShop Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/CoffeeShopStarterPack/Scripts/Editor/ScreenShotImportSettings.cs
+  uploadId: 361463

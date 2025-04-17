@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7989684eaf7d44a699019d7be7625a2d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 160914
+  packageName: CoffeeShop Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/CoffeeShopStarterPack/Prefabs/PW_cheesecake_lime.prefab
+  uploadId: 361463

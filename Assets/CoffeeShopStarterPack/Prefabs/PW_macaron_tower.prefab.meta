@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7afe7aeeef6f6423085b55ce10305c15
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 160914
+  packageName: CoffeeShop Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/CoffeeShopStarterPack/Prefabs/PW_macaron_tower.prefab
+  uploadId: 361463

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 712bb278659f44938ada3e91dbb4c0f9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 160914
+  packageName: CoffeeShop Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/CoffeeShopStarterPack/Prefabs/PW_cup02.prefab
+  uploadId: 361463

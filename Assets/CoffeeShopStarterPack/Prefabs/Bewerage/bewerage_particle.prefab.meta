@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 24b576300b1c842b4acd7a3755cae2d9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 160914
+  packageName: CoffeeShop Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/CoffeeShopStarterPack/Prefabs/Bewerage/bewerage_particle.prefab
+  uploadId: 361463

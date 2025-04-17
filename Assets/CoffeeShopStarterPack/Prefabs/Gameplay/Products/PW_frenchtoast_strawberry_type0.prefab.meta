@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5e6b51f587888488880ecf075a60bcb2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 160914
+  packageName: CoffeeShop Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/CoffeeShopStarterPack/Prefabs/Gameplay/Products/PW_frenchtoast_strawberry_type0.prefab
+  uploadId: 361463

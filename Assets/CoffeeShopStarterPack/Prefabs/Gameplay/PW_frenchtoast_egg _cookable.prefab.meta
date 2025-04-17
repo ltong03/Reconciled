@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 18b7cb44d2e1640768d8ac9469d450fc
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 160914
+  packageName: CoffeeShop Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/CoffeeShopStarterPack/Prefabs/Gameplay/PW_frenchtoast_egg _cookable.prefab
+  uploadId: 361463

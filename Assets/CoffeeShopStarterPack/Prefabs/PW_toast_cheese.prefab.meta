@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8ba0ff2adae60496aac6d2b5df996d23
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 160914
+  packageName: CoffeeShop Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/CoffeeShopStarterPack/Prefabs/PW_toast_cheese.prefab
+  uploadId: 361463

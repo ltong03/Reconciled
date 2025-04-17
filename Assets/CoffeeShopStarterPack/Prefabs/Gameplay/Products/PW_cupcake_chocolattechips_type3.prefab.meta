@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e366799c86fa84940b2b8a3cec70cca6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 160914
+  packageName: CoffeeShop Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/CoffeeShopStarterPack/Prefabs/Gameplay/Products/PW_cupcake_chocolattechips_type3.prefab
+  uploadId: 361463

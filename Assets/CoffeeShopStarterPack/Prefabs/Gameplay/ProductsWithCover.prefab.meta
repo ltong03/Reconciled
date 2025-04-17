@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2ce16be37490e43668dd14993489316e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 160914
+  packageName: CoffeeShop Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/CoffeeShopStarterPack/Prefabs/Gameplay/ProductsWithCover.prefab
+  uploadId: 361463
