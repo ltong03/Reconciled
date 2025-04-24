@@ -395,6 +395,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   orientation: {fileID: 71502320}
+  cursor: {fileID: 1013831807}
   interactDistance: 1
 --- !u!1001 &130901763
 PrefabInstance:
