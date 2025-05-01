@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: e3d1c710b96cf434f9d0cfd5d0cad307
+timeCreated: 1504987254
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 100080
+  packageName: Forest - Low Poly Toon Battle Arena / Tower Defense Pack
+  packageVersion: 1.1
+  assetPath: Assets/AurynSky/Forest Pack/Scripts/Rotator.cs
+  uploadId: 326328
