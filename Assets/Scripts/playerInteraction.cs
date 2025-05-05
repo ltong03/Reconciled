@@ -4,8 +4,11 @@ using UnityEngine.UI;
 public class playerInteraction : MonoBehaviour
 {
     public Transform orientation;       // where the player is and is looking
-    public Image cursor;                // the square on the center of the screen
+    public RawImage cursor;                // the square on the center of the screen
     public float interactDistance = 1f; // how far the player can be from something and interact with it
+
+    Color INVIS = new Color(0, 0, 0, 0);
+    Color TRANSPARENT = new Color(1, 1, 1, 0.2f);
 
     Ray lookRay; // a ray cast from the player camera forward.
 
@@ -28,14 +31,14 @@ public class playerInteraction : MonoBehaviour
         if(Physics.Raycast(lookRay.origin, lookRay.direction, interactDistance))
         {
             // cursor goes white and returns true
-            cursor.color = Color.white;
+            cursor.color = TRANSPARENT;
             return true;
         }
-        // if the look ray is not oclliding with anythgin
+        // if the look ray is not colliding with anything
         else
         {
             // cursor goes black and returns false
-            cursor.color = Color.black;
+            cursor.color = INVIS;
             return false;
         }
     }
