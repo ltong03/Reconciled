@@ -515,7 +515,7 @@ MonoBehaviour:
         ObjectType: 3
         guid: bd53933a2df9214bb6f26ee7394f6783
       Path: Events\Default Work Unit\Ambiences\water_run
-      maxAttenuation: 300
+      maxAttenuation: 15
       maxDuration: -1
       minDuration: -1
   RtpcWwu:
@@ -673,7 +673,7 @@ MonoBehaviour:
     m_lastTime: -8584549330153889978
     List: []
   ExpandedFileSystemItemIds: 
-  ExpandedWaapiItemIds: 050000000600000007000000
+  ExpandedWaapiItemIds: 0500000006000000070000000c0000000d000000
   AutoSyncSelection: 0
   autoPopulateEnabled: 1
   currentDataSource: 0
