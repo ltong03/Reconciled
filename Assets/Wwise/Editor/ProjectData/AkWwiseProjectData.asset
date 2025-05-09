@@ -24,7 +24,7 @@ MonoBehaviour:
     ParentPath: Virtual Acoustics\Default Work Unit
     guid: f807e24a444830428e93302346482a14
     GuidInternal: 
-    m_lastTime: -8584548554213537492
+    m_lastTime: -8584549330153889978
     List: []
   AuxBusWwu:
   - PhysicalPath: Master-Mixer Hierarchy\Default Work Unit.wwu
@@ -38,7 +38,7 @@ MonoBehaviour:
     ParentPath: Master-Mixer Hierarchy\Default Work Unit
     guid: 9271300e46d6e34c8f6ada18a139c27b
     GuidInternal: 
-    m_lastTime: -8584548554224196678
+    m_lastTime: -8584549330159870916
     List:
     - name: Ambiences
       guid: 6a24b9e76948e145bc8c77e8f2c18c4e
@@ -137,7 +137,7 @@ MonoBehaviour:
     ParentPath: SoundBanks\Default Work Unit
     guid: 455a18ce1cf01a4cabcf6fbc9621b04b
     GuidInternal: 
-    m_lastTime: -8584548554213587516
+    m_lastTime: -8584549330153912052
     List:
     - name: Main
       guid: 90bcb4add312df448196da5cd14bafa9
@@ -165,7 +165,7 @@ MonoBehaviour:
     ParentPath: Events\Default Work Unit
     guid: 8e47cbe8d49e254eaaac3dd5cc6ebc6a
     GuidInternal: 
-    m_lastTime: -8584548554230595638
+    m_lastTime: -8584549330163492342
     List:
     - name: amb_bed
       guid: 5f6832bf5c4bcf44b554fb9010a367ec
@@ -221,9 +221,9 @@ MonoBehaviour:
         ObjectType: 3
         guid: c84218451e03cc4e8ebda8c04223ed91
       Path: Events\Default Work Unit\Specifics\door_open
-      maxAttenuation: 0
-      maxDuration: -1
-      minDuration: -1
+      maxAttenuation: 40
+      maxDuration: 0.7511875
+      minDuration: 0.6501803
     - name: drink_sip
       guid: e5e9eacc06fa764b932b9eb53f5964c7
       id: 2637953892
@@ -241,9 +241,9 @@ MonoBehaviour:
         ObjectType: 3
         guid: e5e9eacc06fa764b932b9eb53f5964c7
       Path: Events\Default Work Unit\Player\drink_sip
-      maxAttenuation: 0
-      maxDuration: -1
-      minDuration: -1
+      maxAttenuation: 40
+      maxDuration: 0.48752844
+      minDuration: 0.36660394
     - name: item_spawn
       guid: b7d2733c338e4e48888491b02d79754d
       id: 3798161224
@@ -261,9 +261,9 @@ MonoBehaviour:
         ObjectType: 3
         guid: b7d2733c338e4e48888491b02d79754d
       Path: Events\Default Work Unit\Specifics\item_spawn
-      maxAttenuation: 0
-      maxDuration: -1
-      minDuration: -1
+      maxAttenuation: 40
+      maxDuration: 0.25
+      minDuration: 0.25
     - name: item_up
       guid: c6b313c39148374483369a54e443646d
       id: 1455535776
@@ -282,8 +282,8 @@ MonoBehaviour:
         guid: c6b313c39148374483369a54e443646d
       Path: Events\Default Work Unit\Player\item_up
       maxAttenuation: 0
-      maxDuration: -1
-      minDuration: -1
+      maxDuration: 0.21910712
+      minDuration: 0.16752875
     - name: mes_send
       guid: 7d67df945f9db94e8e7379de6505be84
       id: 4090627927
@@ -301,9 +301,9 @@ MonoBehaviour:
         ObjectType: 3
         guid: 7d67df945f9db94e8e7379de6505be84
       Path: Events\Default Work Unit\Specifics\mes_send
-      maxAttenuation: 0
-      maxDuration: -1
-      minDuration: -1
+      maxAttenuation: 40
+      maxDuration: 0.38045448
+      minDuration: 0.36962372
     - name: pc_footstep
       guid: 86ea848c50d28842a93226cf786e6336
       id: 979341015
@@ -322,8 +322,8 @@ MonoBehaviour:
         guid: 86ea848c50d28842a93226cf786e6336
       Path: Events\Default Work Unit\Player\pc_footstep
       maxAttenuation: 0
-      maxDuration: -1
-      minDuration: -1
+      maxDuration: 0.5297316
+      minDuration: 0.21941143
     - name: phone_pickup
       guid: c6018a8fb61d64499c47e616f26ae021
       id: 866644614
@@ -341,9 +341,9 @@ MonoBehaviour:
         ObjectType: 3
         guid: c6018a8fb61d64499c47e616f26ae021
       Path: Events\Default Work Unit\Specifics\phone_pickup
-      maxAttenuation: 0
-      maxDuration: -1
-      minDuration: -1
+      maxAttenuation: 40
+      maxDuration: 0.25941536
+      minDuration: 0.25941536
     - name: phone_ring
       guid: 2fb5f1e83728404298860e5cd4e26491
       id: 3401439988
@@ -361,7 +361,7 @@ MonoBehaviour:
         ObjectType: 3
         guid: 2fb5f1e83728404298860e5cd4e26491
       Path: Events\Default Work Unit\Specifics\phone_ring
-      maxAttenuation: 0
+      maxAttenuation: 40
       maxDuration: -1
       minDuration: -1
     - name: piano_play
@@ -381,9 +381,9 @@ MonoBehaviour:
         ObjectType: 3
         guid: 7960ff20858f3d498f6845b44205c89a
       Path: Events\Default Work Unit\Specifics\piano_play
-      maxAttenuation: 0
-      maxDuration: -1
-      minDuration: -1
+      maxAttenuation: 40
+      maxDuration: 43.885715
+      minDuration: 43.885715
     - name: pill_interact
       guid: 10ea4692f793bb4ba7c8f9dd4d419d5d
       id: 2391343273
@@ -401,9 +401,9 @@ MonoBehaviour:
         ObjectType: 3
         guid: 10ea4692f793bb4ba7c8f9dd4d419d5d
       Path: Events\Default Work Unit\Specifics\pill_interact
-      maxAttenuation: 0
-      maxDuration: -1
-      minDuration: -1
+      maxAttenuation: 40
+      maxDuration: 1.1741581
+      minDuration: 0.46698686
     - name: Player
       guid: c92c6974617b1c4a9bc5cd540e657af3
       id: 1069431850
@@ -455,9 +455,9 @@ MonoBehaviour:
         ObjectType: 3
         guid: 9fd2da997c3e524e8c4a37b1a4aef36c
       Path: Events\Default Work Unit\Specifics\timer_click
-      maxAttenuation: 0
-      maxDuration: -1
-      minDuration: -1
+      maxAttenuation: 40
+      maxDuration: 0.28964064
+      minDuration: 0.28964064
     - name: timer_ring
       guid: 89388058b0334544ae9d6426d8dcb581
       id: 2168748669
@@ -475,9 +475,9 @@ MonoBehaviour:
         ObjectType: 3
         guid: 89388058b0334544ae9d6426d8dcb581
       Path: Events\Default Work Unit\Specifics\timer_ring
-      maxAttenuation: 0
-      maxDuration: -1
-      minDuration: -1
+      maxAttenuation: 40
+      maxDuration: 0.7669317
+      minDuration: 0.6832585
     - name: timer_tick
       guid: 1d907a17bbe50e48b30134768a198614
       id: 796052088
@@ -495,7 +495,7 @@ MonoBehaviour:
         ObjectType: 3
         guid: 1d907a17bbe50e48b30134768a198614
       Path: Events\Default Work Unit\Specifics\timer_tick
-      maxAttenuation: 0
+      maxAttenuation: 40
       maxDuration: -1
       minDuration: -1
     - name: water_run
@@ -515,7 +515,7 @@ MonoBehaviour:
         ObjectType: 3
         guid: bd53933a2df9214bb6f26ee7394f6783
       Path: Events\Default Work Unit\Ambiences\water_run
-      maxAttenuation: 0
+      maxAttenuation: 40
       maxDuration: -1
       minDuration: -1
   RtpcWwu:
@@ -530,7 +530,7 @@ MonoBehaviour:
     ParentPath: Game Parameters\Default Work Unit
     guid: c4f644c376b1a042ac47edbd0b46b1a0
     GuidInternal: 
-    m_lastTime: -8584548554230589316
+    m_lastTime: -8584549330163492342
     List: []
   StateWwu:
   - PhysicalPath: States\Default Work Unit.wwu
@@ -544,8 +544,74 @@ MonoBehaviour:
     ParentPath: States\Default Work Unit
     guid: 210e9b11895325419ac94f8faa00e3da
     GuidInternal: 
-    m_lastTime: -8584548554213563116
-    List: []
+    m_lastTime: -8584548417494408486
+    List:
+    - name: Int_Ext
+      guid: b3607331a300ab41908aaea438c85f70
+      id: 3589756548
+      PathAndIcons:
+      - ElementName: States
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: 210e9b11895325419ac94f8faa00e3da
+      - ElementName: Int_Ext
+        ObjectType: 9
+        guid: b3607331a300ab41908aaea438c85f70
+      Path: States\Default Work Unit\Int_Ext
+      values:
+      - name: Exterior
+        guid: 298b5c27699d394090a4d662c431d039
+        id: 2213992659
+        PathAndIcons:
+        - ElementName: States
+          ObjectType: 5
+          guid: 00000000000000000000000000000000
+        - ElementName: Default Work Unit
+          ObjectType: 12
+          guid: 210e9b11895325419ac94f8faa00e3da
+        - ElementName: Int_Ext
+          ObjectType: 9
+          guid: b3607331a300ab41908aaea438c85f70
+        - ElementName: Exterior
+          ObjectType: 8
+          guid: 298b5c27699d394090a4d662c431d039
+      - name: Interior
+        guid: a074c91135767a41b41b1e6080971cb1
+        id: 1132214669
+        PathAndIcons:
+        - ElementName: States
+          ObjectType: 5
+          guid: 00000000000000000000000000000000
+        - ElementName: Default Work Unit
+          ObjectType: 12
+          guid: 210e9b11895325419ac94f8faa00e3da
+        - ElementName: Int_Ext
+          ObjectType: 9
+          guid: b3607331a300ab41908aaea438c85f70
+        - ElementName: Interior
+          ObjectType: 8
+          guid: a074c91135767a41b41b1e6080971cb1
+      - name: None
+        guid: 7f7059a69a54544fb17a4e304072a73f
+        id: 748895195
+        PathAndIcons:
+        - ElementName: States
+          ObjectType: 5
+          guid: 00000000000000000000000000000000
+        - ElementName: Default Work Unit
+          ObjectType: 12
+          guid: 210e9b11895325419ac94f8faa00e3da
+        - ElementName: Int_Ext
+          ObjectType: 9
+          guid: b3607331a300ab41908aaea438c85f70
+        - ElementName: None
+          ObjectType: 8
+          guid: 7f7059a69a54544fb17a4e304072a73f
+      ValueGuids: []
+      ValueIcons: []
+      valuesInternal: []
   SwitchWwu:
   - PhysicalPath: Switches\Default Work Unit.wwu
     PathAndIcons:
@@ -558,7 +624,7 @@ MonoBehaviour:
     ParentPath: Switches\Default Work Unit
     guid: adb05593017a7144a61abc89c6266ef6
     GuidInternal: 
-    m_lastTime: -8584548554213552815
+    m_lastTime: -8584549330153889978
     List:
     - name: Floor_Material
       guid: cc7b3ea43a6de748a1e9d1506a02d96a
@@ -670,10 +736,10 @@ MonoBehaviour:
     ParentPath: Triggers\Default Work Unit
     guid: d5403210ef541547bf1f57bde343f520
     GuidInternal: 
-    m_lastTime: -8584548554213547597
+    m_lastTime: -8584549330153889978
     List: []
   ExpandedFileSystemItemIds: 
-  ExpandedWaapiItemIds: 
+  ExpandedWaapiItemIds: 0e0000000f000000
   AutoSyncSelection: 0
   autoPopulateEnabled: 1
   currentDataSource: 0

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectInfo>
+	<Project Name="Reconciled" GUID="{050A546C-B922-4EBA-B743-7DBE494D5066}" Generator="2023.1.7.8574"/>
+	<CacheRoot>../../../../../../../Audio/Wwise Reconciled/Reconciled-Wwise-Project/.cache</CacheRoot>
+	<Platforms>
+		<Platform Name="Windows" GUID="{5738CF74-2AA8-4D73-9D20-6728FA667909}" BasePlatform="Windows" BasePlatformGUID="{6E0CB257-C6C8-4C5C-8366-2740DFC441EB}" Path="../../../../../../../Audio/Wwise Reconciled/Reconciled-Wwise-Project/GeneratedSoundBanks/Windows"/>
+	</Platforms>
+	<Languages>
+		<Language Name="English(US)" Id="684519430" GUID="{A4D7F40E-98BA-46DB-A343-4C8BB7B1BD2E}" Default="true" UseAsStandIn="true"/>
+	</Languages>
+	<FileHash>{801ED956-5B94-8251-20BA-A715890AA102}</FileHash>
+</ProjectInfo>
