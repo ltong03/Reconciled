@@ -16,6 +16,8 @@ public class playerMovement : MonoBehaviour
     float rotationY;
     float rotationX;
 
+    public bool isMoving= false;
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -48,6 +50,16 @@ public class playerMovement : MonoBehaviour
         direction.y = -GRAVITY;
 
         controller.Move(direction * Time.deltaTime);
+
+        if(Mathf.Abs(inputHoriz) > 0.01f || Mathf.Abs(inputVert) > 0.01f){
+            isMoving = true;
+        } else{
+            isMoving = false;
+        }
+
+        
+
+        
     }
 
     void crouch()
