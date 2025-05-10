@@ -15,7 +15,18 @@ public class InteractionPlaySound:Interactable{
         
     }
     void PlaySong(){
-        AkSoundEngine.PostEvent(wwiseEventName, gameObject);
+        AkSoundEngine.PostEvent(wwiseEventName, 
+        gameObject,
+        (uint)AkCallbackType.AK_EndOfEvent,
+        EndAudioCallback,
+        null);  
+    }
+    private void EndAudioCallback(object note,
+    AkCallbackType in_type,
+    AkCallbackInfo in_info){
+        isPlaying = false;
+        Debug.Log("Audio Ended");
+
     }
     
 }
