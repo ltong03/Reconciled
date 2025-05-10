@@ -1,11 +1,18 @@
 using UnityEngine;
 
 public class InteractionPlaySound:Interactable{
-    public string wwiseEventName = "amb_bed";
-    private bool isPlayerNearby = false;
+    public bool isPlaying = false;
+    public string wwiseEventName;
     public override void Interact(){
-        PlaySong();
-        Debug.Log("Play Sound");
+        if(!isPlaying){
+            PlaySong();
+            Debug.Log("Play Sound");
+            isPlaying = true;
+        } else{
+            Debug.Log("Sound Already Playing");
+        }
+        
+        
     }
     void PlaySong(){
         AkSoundEngine.PostEvent(wwiseEventName, gameObject);

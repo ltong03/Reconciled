@@ -18,6 +18,7 @@ namespace AK
         static const AkUniqueID DRINK_SIP = 2637953892U;
         static const AkUniqueID ITEM_SPAWN = 3798161224U;
         static const AkUniqueID ITEM_UP = 1455535776U;
+        static const AkUniqueID KEY_PLAY = 580682347U;
         static const AkUniqueID MES_SEND = 4090627927U;
         static const AkUniqueID PC_FOOTSTEP = 979341015U;
         static const AkUniqueID PHONE_PICKUP = 866644614U;
