@@ -131,6 +131,7 @@ GameObject:
   - component: {fileID: 91002879}
   - component: {fileID: 91002878}
   - component: {fileID: 91002877}
+  - component: {fileID: 91002880}
   m_Layer: 5
   m_Name: Play
   m_TagString: Untagged
@@ -228,7 +229,7 @@ MonoBehaviour:
   m_Material: {fileID: 0}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
-  m_RaycastPadding: {x: 0, y: 1.18, z: 0, w: 0.27}
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -251,6 +252,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 91002875}
   m_CullTransparentMesh: 1
+--- !u!114 &91002880
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 91002875}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cf515adf9e4bfc74385eeab873bb3eea, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  postEvent: ui_highlight
 --- !u!1 &347931844
 GameObject:
   m_ObjectHideFlags: 0
@@ -265,6 +279,7 @@ GameObject:
   - component: {fileID: 347931849}
   - component: {fileID: 347931848}
   - component: {fileID: 347931851}
+  - component: {fileID: 347931852}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -432,6 +447,43 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   pie: {fileID: 400921269}
   gameSceneName: InteractTest
+  postEventSelect: ui_select
+  postEventStartAmbience: amb_bed
+  postEventEndAmbience: Stop_amb_bed
+--- !u!114 &347931852
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 347931844}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15d6da916f67293428e965c00473bc2a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  triggerList: f7e1664c
+  useOtherObject: 0
+  actionOnEventType: 0
+  curveInterpolation: 4
+  enableActionOnEvent: 0
+  data:
+    idInternal: 0
+    valueGuidInternal: 
+    WwiseObjectReference: {fileID: 11400000, guid: fa1b8a5f0ba62bc4aa5214ec9f1b835b, type: 2}
+  useCallbacks: 0
+  Callbacks: []
+  playingId: 0
+  soundEmitterObject: {fileID: 0}
+  transitionDuration: 0
+  eventIdInternal: 0
+  valueGuidInternal: 
+  m_callbackDataInternal: {fileID: 0}
+  MultiPositionType: 1
+  multiPositionTypeLabel: 0
+  attenuationSphereColor: {r: 1, g: 0, b: 0, a: 0.1}
+  LargeModePositions: []
+  multiPositionArray: []
 --- !u!1001 &354419394
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -554,6 +606,28 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 1
+--- !u!114 &400921272
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 400921265}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0f2ba61dc414624c8ee15e4255360c5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_listeners:
+    initialListenerList: []
+    useDefaultListeners: 1
+  isEnvironmentAware: 1
+  isStaticObject: 0
+  m_positionOffsetData:
+    KeepMe: 0
+    positionOffset: {x: 0, y: 0, z: 0}
+  m_posOffsetData: {fileID: 0}
+  listenerMask: 1
 --- !u!1 &437166455
 GameObject:
   m_ObjectHideFlags: 0
@@ -10775,6 +10849,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1328872930}
   - component: {fileID: 1328872929}
+  - component: {fileID: 1328872931}
   m_Layer: 0
   m_Name: WwiseGlobal
   m_TagString: Untagged
@@ -10822,6 +10897,31 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1328872931
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1328872928}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76b165224fda5b34ebd87e7177487e56, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  triggerList: f7e1664c
+  useOtherObject: 0
+  data:
+    idInternal: 0
+    valueGuidInternal: 
+    WwiseObjectReference: {fileID: 11400000, guid: bb52d953c315c2241a88fe39c4b53d63, type: 2}
+  decodeBank: 0
+  overrideLoadSetting: 0
+  loadAsynchronous: 0
+  saveDecodedBank: 0
+  unloadTriggerList: 958ca0ea
+  bankNameInternal: 
+  valueGuidInternal: 
 --- !u!1001 &1608205439
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -11031,8 +11131,8 @@ Light:
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Intensity: 1
   m_Range: 10
-  m_SpotAngle: 22.04322
-  m_InnerSpotAngle: 0
+  m_SpotAngle: 34.613266
+  m_InnerSpotAngle: 12.570042
   m_CookieSize: 10
   m_Shadows:
     m_Type: 0
@@ -11591,6 +11691,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 100006, guid: e21bfea69265541d1903c3c13f943471, type: 3}
       insertIndex: -1
       addedObject: {fileID: 400921269}
+    - targetCorrespondingSourceObject: {fileID: 100006, guid: e21bfea69265541d1903c3c13f943471, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 400921272}
   m_SourcePrefab: {fileID: 100100000, guid: e21bfea69265541d1903c3c13f943471, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
