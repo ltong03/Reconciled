@@ -38,7 +38,7 @@ MonoBehaviour:
     ParentPath: Master-Mixer Hierarchy\Default Work Unit
     guid: 9271300e46d6e34c8f6ada18a139c27b
     GuidInternal: 
-    m_lastTime: -8584549330159870916
+    m_lastTime: -8584546664295960131
     List:
     - name: Ambiences
       guid: 6a24b9e76948e145bc8c77e8f2c18c4e
@@ -125,6 +125,23 @@ MonoBehaviour:
         ObjectType: 2
         guid: f06385d3c9d6c445857d7cc83afcc123
       Path: Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SFX
+    - name: UI
+      guid: c3a686fd96bf9b4f8c3a537bdc970b81
+      id: 1551306167
+      PathAndIcons:
+      - ElementName: Master-Mixer Hierarchy
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: 9271300e46d6e34c8f6ada18a139c27b
+      - ElementName: Master Audio Bus
+        ObjectType: 2
+        guid: d8a41415a61d2a41a17e75ca0c2149f3
+      - ElementName: UI
+        ObjectType: 2
+        guid: c3a686fd96bf9b4f8c3a537bdc970b81
+      Path: Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\UI
   BankWwu:
   - PhysicalPath: SoundBanks\Default Work Unit.wwu
     PathAndIcons:
@@ -137,7 +154,7 @@ MonoBehaviour:
     ParentPath: SoundBanks\Default Work Unit
     guid: 455a18ce1cf01a4cabcf6fbc9621b04b
     GuidInternal: 
-    m_lastTime: -8584549330153912052
+    m_lastTime: -8584546664295912484
     List:
     - name: Main
       guid: 90bcb4add312df448196da5cd14bafa9
@@ -165,7 +182,7 @@ MonoBehaviour:
     ParentPath: Events\Default Work Unit
     guid: 8e47cbe8d49e254eaaac3dd5cc6ebc6a
     GuidInternal: 
-    m_lastTime: -8584547599975256405
+    m_lastTime: -8584546664295980252
     List:
     - name: amb_bed
       guid: 5f6832bf5c4bcf44b554fb9010a367ec
@@ -518,6 +535,83 @@ MonoBehaviour:
       maxAttenuation: 0
       maxDuration: -1
       minDuration: -1
+    - name: UI
+      guid: e3cf47e4fe5d424ea7f85e13687fc6cc
+      id: 1551306167
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: 8e47cbe8d49e254eaaac3dd5cc6ebc6a
+      - ElementName: UI
+        ObjectType: 4
+        guid: e3cf47e4fe5d424ea7f85e13687fc6cc
+      Path: Events\Default Work Unit\UI
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: ui_back
+      guid: 9bcd3206027b4b41a9299cbe698468db
+      id: 2024222415
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: 8e47cbe8d49e254eaaac3dd5cc6ebc6a
+      - ElementName: UI
+        ObjectType: 4
+        guid: e3cf47e4fe5d424ea7f85e13687fc6cc
+      - ElementName: ui_back
+        ObjectType: 3
+        guid: 9bcd3206027b4b41a9299cbe698468db
+      Path: Events\Default Work Unit\UI\ui_back
+      maxAttenuation: 0
+      maxDuration: 0.48607287
+      minDuration: 0.43304163
+    - name: ui_highlight
+      guid: 7e4e9bec761f1145890919f6fe32bdbc
+      id: 1402340918
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: 8e47cbe8d49e254eaaac3dd5cc6ebc6a
+      - ElementName: UI
+        ObjectType: 4
+        guid: e3cf47e4fe5d424ea7f85e13687fc6cc
+      - ElementName: ui_highlight
+        ObjectType: 3
+        guid: 7e4e9bec761f1145890919f6fe32bdbc
+      Path: Events\Default Work Unit\UI\ui_highlight
+      maxAttenuation: 0
+      maxDuration: 0.29195833
+      minDuration: 0.1857895
+    - name: ui_select
+      guid: 8b3255806b5aad4e9163ff9428284ed6
+      id: 2774129122
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: 8e47cbe8d49e254eaaac3dd5cc6ebc6a
+      - ElementName: UI
+        ObjectType: 4
+        guid: e3cf47e4fe5d424ea7f85e13687fc6cc
+      - ElementName: ui_select
+        ObjectType: 3
+        guid: 8b3255806b5aad4e9163ff9428284ed6
+      Path: Events\Default Work Unit\UI\ui_select
+      maxAttenuation: 0
+      maxDuration: 0.625625
+      minDuration: 0.625625
     - name: water_run
       guid: bd53933a2df9214bb6f26ee7394f6783
       id: 2594811980
@@ -564,7 +658,7 @@ MonoBehaviour:
     ParentPath: States\Default Work Unit
     guid: 210e9b11895325419ac94f8faa00e3da
     GuidInternal: 
-    m_lastTime: -8584548417494408486
+    m_lastTime: -8584546664295902393
     List:
     - name: Int_Ext
       guid: b3607331a300ab41908aaea438c85f70
@@ -629,6 +723,72 @@ MonoBehaviour:
         - ElementName: None
           ObjectType: 8
           guid: 7f7059a69a54544fb17a4e304072a73f
+      ValueGuids: []
+      ValueIcons: []
+      valuesInternal: []
+    - name: Pause_Play
+      guid: 61a3cdb09a65e44b8b296ae22e93ad0c
+      id: 253445270
+      PathAndIcons:
+      - ElementName: States
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: 210e9b11895325419ac94f8faa00e3da
+      - ElementName: Pause_Play
+        ObjectType: 9
+        guid: 61a3cdb09a65e44b8b296ae22e93ad0c
+      Path: States\Default Work Unit\Pause_Play
+      values:
+      - name: None
+        guid: d3aec21f241405428297936a2b45e891
+        id: 748895195
+        PathAndIcons:
+        - ElementName: States
+          ObjectType: 5
+          guid: 00000000000000000000000000000000
+        - ElementName: Default Work Unit
+          ObjectType: 12
+          guid: 210e9b11895325419ac94f8faa00e3da
+        - ElementName: Pause_Play
+          ObjectType: 9
+          guid: 61a3cdb09a65e44b8b296ae22e93ad0c
+        - ElementName: None
+          ObjectType: 8
+          guid: d3aec21f241405428297936a2b45e891
+      - name: Paused
+        guid: f09d397ec6dd3b49b112e0f80dd22c5d
+        id: 319258907
+        PathAndIcons:
+        - ElementName: States
+          ObjectType: 5
+          guid: 00000000000000000000000000000000
+        - ElementName: Default Work Unit
+          ObjectType: 12
+          guid: 210e9b11895325419ac94f8faa00e3da
+        - ElementName: Pause_Play
+          ObjectType: 9
+          guid: 61a3cdb09a65e44b8b296ae22e93ad0c
+        - ElementName: Paused
+          ObjectType: 8
+          guid: f09d397ec6dd3b49b112e0f80dd22c5d
+      - name: Playing
+        guid: a6e0cbaf21637744b340d5df456c4776
+        id: 1852808225
+        PathAndIcons:
+        - ElementName: States
+          ObjectType: 5
+          guid: 00000000000000000000000000000000
+        - ElementName: Default Work Unit
+          ObjectType: 12
+          guid: 210e9b11895325419ac94f8faa00e3da
+        - ElementName: Pause_Play
+          ObjectType: 9
+          guid: 61a3cdb09a65e44b8b296ae22e93ad0c
+        - ElementName: Playing
+          ObjectType: 8
+          guid: a6e0cbaf21637744b340d5df456c4776
       ValueGuids: []
       ValueIcons: []
       valuesInternal: []
