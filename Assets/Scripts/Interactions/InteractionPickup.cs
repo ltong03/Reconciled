@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class InteractionPickup : Interactable
 {
-    public override void interact()
+    public override void Interact()
     {
         Debug.Log("Pickup");
     }
