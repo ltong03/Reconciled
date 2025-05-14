@@ -41,7 +41,7 @@ public class playerInteraction : MonoBehaviour
             }
             // Otherwise run it's interact script.
             else
-                getInteractable().Interact();
+                getInteractable().interact();
         }
     }
 
@@ -90,8 +90,7 @@ public class playerInteraction : MonoBehaviour
             for(int i = 0; i < hits.Length; i++)
             {
                 // if that object has the Interactable script, store it and break;
-                // script = hits[i].collider.gameObject.GetComponentAtIndex(1) as Interactable;  CHANGED TO MORE CONVETIONAL WAY
-                script = hits[i].collider.gameObject.GetComponent<Interactable>();
+                script = hits[i].collider.gameObject.GetComponentAtIndex(1) as Interactable;
                 if(script != null)
                     break;
             }
