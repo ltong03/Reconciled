@@ -7,6 +7,8 @@ public class MainMenu:MonoBehaviour{
     public string postEventStartAmbience;
     public string postEventEndAmbience;
 
+    private bool canPressStart = true;
+
     void Start(){
         AkSoundEngine.PostEvent(postEventStartAmbience, gameObject);
     }
@@ -15,9 +17,13 @@ public class MainMenu:MonoBehaviour{
         pie.isKinematic = false;
         pie.useGravity = true;
 
-        pie.AddForce(Vector3.forward * (1.7f + UnityEngine.Random.Range(-0.01f, 0.1f)) + Vector3.up * (2.7f + UnityEngine.Random.Range(-0.01f, 0.1f)), ForceMode.Impulse);
-
-        Invoke(nameof(StartGame), 3.5f);
+        
+        if(canPressStart){
+            pie.AddForce(Vector3.forward * (1.7f + UnityEngine.Random.Range(-0.01f, 0.1f)) + Vector3.up * (2.7f + UnityEngine.Random.Range(-0.01f, 0.1f)), ForceMode.Impulse);
+            Invoke(nameof(StartGame), 3.5f);
+            canPressStart = false;
+        }
+        
         AkSoundEngine.PostEvent(postEventSelect, gameObject);
         
     }
