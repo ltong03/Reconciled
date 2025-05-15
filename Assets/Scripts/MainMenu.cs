@@ -5,7 +5,6 @@ public class MainMenu:MonoBehaviour{
     public string gameSceneName;
     public string postEventSelect;
     public string postEventStartAmbience;
-    public string postEventEndAmbience;
 
     private bool canPressStart = true;
 
@@ -22,6 +21,7 @@ public class MainMenu:MonoBehaviour{
             pie.AddForce(Vector3.forward * (1.7f + UnityEngine.Random.Range(-0.01f, 0.1f)) + Vector3.up * (2.6f + UnityEngine.Random.Range(-0.01f, 0.3f)), ForceMode.Impulse);
             Invoke(nameof(StartGame), 3.5f);
             canPressStart = false;
+            AkSoundEngine.ExecuteActionOnEvent(postEventStartAmbience, AkActionOnEventType.AkActionOnEventType_Stop, gameObject, 1000);
         }
         
         AkSoundEngine.PostEvent(postEventSelect, gameObject);
@@ -32,7 +32,7 @@ public class MainMenu:MonoBehaviour{
         AkSoundEngine.ExecuteActionOnEvent(postEventStartAmbience, AkActionOnEventType.AkActionOnEventType_Stop, gameObject, 1000);
         // Changing start of game to physics based collision of pie on collider. This is symbolic of the story. There is a small change the pie won't go out of the window. If this happens, the game won't start. Cool right? 
         // Maybe we can transition to a secret ending if pie doesn't 
-        
+
         //SceneManager.LoadSceneAsync(gameSceneName);
         
     }
