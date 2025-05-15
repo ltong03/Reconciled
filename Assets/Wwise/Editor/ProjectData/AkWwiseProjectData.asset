@@ -154,7 +154,7 @@ MonoBehaviour:
     ParentPath: SoundBanks\Default Work Unit
     guid: 455a18ce1cf01a4cabcf6fbc9621b04b
     GuidInternal: 
-    m_lastTime: -8584546664295912484
+    m_lastTime: -8584542630258810438
     List:
     - name: Main
       guid: 90bcb4add312df448196da5cd14bafa9
@@ -182,7 +182,7 @@ MonoBehaviour:
     ParentPath: Events\Default Work Unit
     guid: 8e47cbe8d49e254eaaac3dd5cc6ebc6a
     GuidInternal: 
-    m_lastTime: -8584546664295980252
+    m_lastTime: -8584542628744349219
     List:
     - name: amb_bed
       guid: 5f6832bf5c4bcf44b554fb9010a367ec
@@ -218,6 +218,23 @@ MonoBehaviour:
         ObjectType: 4
         guid: e6dacbcfbc234440bbbceba7135c7a7c
       Path: Events\Default Work Unit\Ambiences
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: BGM
+      guid: 46fef0497cfe2945ad49116f2012b1db
+      id: 412724365
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: 8e47cbe8d49e254eaaac3dd5cc6ebc6a
+      - ElementName: BGM
+        ObjectType: 4
+        guid: 46fef0497cfe2945ad49116f2012b1db
+      Path: Events\Default Work Unit\BGM
       maxAttenuation: 0
       maxDuration: -1
       minDuration: -1
@@ -319,8 +336,8 @@ MonoBehaviour:
         guid: cf5252ad2f3b5c4286496769a211d0f2
       Path: Events\Default Work Unit\Specifics\key_play
       maxAttenuation: 0
-      maxDuration: 212.3583
-      minDuration: 212.3583
+      maxDuration: 216.2902
+      minDuration: 216.2902
     - name: mes_send
       guid: 7d67df945f9db94e8e7379de6505be84
       id: 4090627927
@@ -441,6 +458,26 @@ MonoBehaviour:
       maxAttenuation: 0
       maxDuration: 1.1741581
       minDuration: 0.46698686
+    - name: play_title_music
+      guid: 19341981d0e2a448b4675358070a7966
+      id: 2604896900
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: 8e47cbe8d49e254eaaac3dd5cc6ebc6a
+      - ElementName: BGM
+        ObjectType: 4
+        guid: 46fef0497cfe2945ad49116f2012b1db
+      - ElementName: play_title_music
+        ObjectType: 3
+        guid: 19341981d0e2a448b4675358070a7966
+      Path: Events\Default Work Unit\BGM\play_title_music
+      maxAttenuation: 0
+      maxDuration: 113.62937
+      minDuration: 113.62937
     - name: Player
       guid: c92c6974617b1c4a9bc5cd540e657af3
       id: 1069431850
