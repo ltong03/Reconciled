@@ -319,8 +319,8 @@ MonoBehaviour:
         guid: cf5252ad2f3b5c4286496769a211d0f2
       Path: Events\Default Work Unit\Specifics\key_play
       maxAttenuation: 0
-      maxDuration: 216.2902
-      minDuration: 216.2902
+      maxDuration: 212.3583
+      minDuration: 212.3583
     - name: mes_send
       guid: 7d67df945f9db94e8e7379de6505be84
       id: 4090627927
