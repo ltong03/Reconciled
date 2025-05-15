@@ -31,6 +31,7 @@ public class playerInteraction : MonoBehaviour
                     heldObject = getInteractable().gameObject.GetComponent<Rigidbody>();
                     heldObject.useGravity = false;
                     heldObject.freezeRotation = true;
+                    AkSoundEngine.PostEvent("item_up", gameObject);
                 }
                 else
                 {
