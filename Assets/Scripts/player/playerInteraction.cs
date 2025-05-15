@@ -55,7 +55,7 @@ public class playerInteraction : MonoBehaviour
 
     void moveHeldObject()
     {
-        heldObject.MovePosition((orientation.position) + (orientation.forward * interactDistance));
+        heldObject.MovePosition((orientation.position) + (orientation.forward * (interactDistance - 0.01f)));
     }
 
     // Checks if the player is looking at something
