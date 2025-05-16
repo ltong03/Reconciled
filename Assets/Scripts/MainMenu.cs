@@ -18,10 +18,17 @@ public class MainMenu:MonoBehaviour{
 
         
         if(canPressStart){
-            pie.AddForce(Vector3.forward * (1.7f + UnityEngine.Random.Range(-0.01f, 0.1f)) + Vector3.up * (2.6f + UnityEngine.Random.Range(-0.01f, 0.3f)), ForceMode.Impulse);
-            Invoke(nameof(StartGame), 3.5f);
-            canPressStart = false;
-            AkSoundEngine.ExecuteActionOnEvent(postEventStartAmbience, AkActionOnEventType.AkActionOnEventType_Stop, gameObject, 1000);
+            float secretEndChance = UnityEngine.Random.Range(0f, 1f);
+            if(secretEndChance > 0.01f){
+                pie.AddForce(Vector3.forward * (1.7f + UnityEngine.Random.Range(-0.01f, 0.1f)) + Vector3.up * (2.7f + UnityEngine.Random.Range(-0.01f, 0.02f)), ForceMode.Impulse);
+                Invoke(nameof(StartGame), 3.5f);
+                canPressStart = false;
+                AkSoundEngine.ExecuteActionOnEvent(postEventStartAmbience, AkActionOnEventType.AkActionOnEventType_Stop, gameObject, 1000);
+            } else{
+                pie.AddForce(Vector3.forward * (1.7f + UnityEngine.Random.Range(-0.01f, 0.1f)) + Vector3.up * (2.7f + UnityEngine.Random.Range(-1f, 1f)), ForceMode.Impulse);
+                //SECRET END
+            }
+            
         }
         
         AkSoundEngine.PostEvent(postEventSelect, gameObject);

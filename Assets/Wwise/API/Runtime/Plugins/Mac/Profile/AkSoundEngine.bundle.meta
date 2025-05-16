@@ -20,10 +20,22 @@ PluginImporter:
         CPU: AnyCPU
         DefaultValueInitialized: true
         OS: OSX
+    Linux64:
+      enabled: 0
+      settings:
+        CPU: None
     OSXUniversal:
-      enabled: 1
+      enabled: 0
       settings:
         CPU: AnyCPU
+    Win:
+      enabled: 0
+      settings:
+        CPU: None
+    Win64:
+      enabled: 0
+      settings:
+        CPU: None
   userData: 
   assetBundleName: 
   assetBundleVariant: 
