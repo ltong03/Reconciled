@@ -270,6 +270,32 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   postEvent: ui_highlight
+--- !u!1 &314034927 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -5568371526223589888, guid: ac7e7320ff698874c8b2982108cc8752, type: 3}
+  m_PrefabInstance: {fileID: 1967538646}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &314034929
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 314034927}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.02, y: 0.019999998, z: 0.003372046}
+  m_Center: {x: -0.0000000037269263, y: 0.000000030081544, z: -0.0093691405}
 --- !u!1 &347931844
 GameObject:
   m_ObjectHideFlags: 0
@@ -10944,32 +10970,6 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.002979236, y: 0.012826236, z: 0.00028336653}
   m_Center: {x: -0.0021482962, y: 0.0006732366, z: 0.035569772}
---- !u!1 &1582069879 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: -5568371526223589888, guid: ac7e7320ff698874c8b2982108cc8752, type: 3}
-  m_PrefabInstance: {fileID: 1967538646}
-  m_PrefabAsset: {fileID: 0}
---- !u!65 &1582069881
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1582069879}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 0.02, y: 0.019999998, z: 0.007320962}
-  m_Center: {x: -0.0000000035960515, y: 0.000000030345966, z: -0.007394559}
 --- !u!1001 &1608205439
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -11729,7 +11729,7 @@ PrefabInstance:
       addedObject: {fileID: 400921272}
     - targetCorrespondingSourceObject: {fileID: -5568371526223589888, guid: ac7e7320ff698874c8b2982108cc8752, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 1582069881}
+      addedObject: {fileID: 314034929}
   m_SourcePrefab: {fileID: 100100000, guid: ac7e7320ff698874c8b2982108cc8752, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
