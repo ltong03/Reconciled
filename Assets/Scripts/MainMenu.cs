@@ -25,7 +25,7 @@ public class MainMenu:MonoBehaviour{
                 canPressStart = false;
                 AkSoundEngine.ExecuteActionOnEvent(postEventStartAmbience, AkActionOnEventType.AkActionOnEventType_Stop, gameObject, 1000);
             } else{
-                pie.AddForce(Vector3.forward * (1.7f + UnityEngine.Random.Range(-0.01f, 0.1f)) + Vector3.up * (2.7f + UnityEngine.Random.Range(-1f, 1f)), ForceMode.Impulse);
+                pie.AddForce(Vector3.forward * (0.3f + UnityEngine.Random.Range(-0.01f, 0.1f)) + Vector3.up * (1f + UnityEngine.Random.Range(-0.1f, 0.1f)), ForceMode.Impulse);
                 //SECRET END
             }
             
