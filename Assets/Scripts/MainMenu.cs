@@ -17,7 +17,7 @@ public class MainMenu:MonoBehaviour{
 
         pie.AddForce(Vector3.forward * (1.7f + UnityEngine.Random.Range(-0.01f, 0.1f)) + Vector3.up * (2.7f + UnityEngine.Random.Range(-0.01f, 0.1f)), ForceMode.Impulse);
 
-        Invoke(nameof(StartGame), 5f);
+        Invoke(nameof(StartGame), 3.5f);
         AkSoundEngine.PostEvent(postEventSelect, gameObject);
         
     }
