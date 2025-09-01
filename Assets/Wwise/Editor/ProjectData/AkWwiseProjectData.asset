@@ -305,7 +305,7 @@ MonoBehaviour:
     ParentPath: Events\Ambiences
     guid: 7e3e149385708341a7ae7ccdb5eb3f42
     GuidInternal: 
-    m_lastTime: -8584476564126413109
+    m_lastTime: -8584449075770236580
     List:
     - name: amb_bed
       guid: 5f6832bf5c4bcf44b554fb9010a367ec
@@ -325,6 +325,26 @@ MonoBehaviour:
         guid: 5f6832bf5c4bcf44b554fb9010a367ec
       Path: Events\Ambiences\Ambiences\amb_bed
       maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: amb_tree
+      guid: 947e7502a0190241b37812e5cd1a392c
+      id: 3113636726
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Ambiences
+        ObjectType: 12
+        guid: 7e3e149385708341a7ae7ccdb5eb3f42
+      - ElementName: Ambiences
+        ObjectType: 4
+        guid: e6dacbcfbc234440bbbceba7135c7a7c
+      - ElementName: amb_tree
+        ObjectType: 3
+        guid: 947e7502a0190241b37812e5cd1a392c
+      Path: Events\Ambiences\Ambiences\amb_tree
+      maxAttenuation: 5
       maxDuration: -1
       minDuration: -1
     - name: Ambiences
@@ -1247,7 +1267,7 @@ MonoBehaviour:
     m_lastTime: -8584566774539329245
     List: []
   ExpandedFileSystemItemIds: 
-  ExpandedWaapiItemIds: 01000000050000000800000011000000
+  ExpandedWaapiItemIds: 0100000005000000060000000700000008000000110000001700000018000000
   AutoSyncSelection: 0
   autoPopulateEnabled: 1
   currentDataSource: 0
