@@ -638,7 +638,7 @@ MonoBehaviour:
         guid: b7d2733c338e4e48888491b02d79754d
       Path: Events\SFX\Specifics\item_spawn
       maxAttenuation: 0
-      maxDuration: 0.25
+      maxDuration: 0.28883818
       minDuration: 0.25
     - name: key_play
       guid: cf5252ad2f3b5c4286496769a211d0f2
