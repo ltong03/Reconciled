@@ -12,7 +12,7 @@ EditorBuildSettings:
     path: Assets/Scenes/TESTING/InteractTest.unity
     guid: b8f481119c9efdb45b08d5681b7f9eaf
   - enabled: 1
-    path: Assets/Scenes/OLDMainScene.unity
+    path: Assets/Scenes/MainScene.unity
     guid: 1336e11d399259041b2bcfaeba219d19
   - enabled: 0
     path: Assets/Scenes/TESTING/PrefabScene.unity

@@ -38,7 +38,7 @@ MonoBehaviour:
     ParentPath: Master-Mixer Hierarchy\Default Work Unit
     guid: 9271300e46d6e34c8f6ada18a139c27b
     GuidInternal: 
-    m_lastTime: -8584424891355537260
+    m_lastTime: -8584415373685516373
     List:
     - name: 2DBeds
       guid: 2519e7c87ad8b14795d5ff559c3b608c
@@ -145,6 +145,26 @@ MonoBehaviour:
         ObjectType: 2
         guid: 58246b69f82a94439b8b920bddd742a7
       Path: Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\Music_MSTR
+    - name: MusicCues
+      guid: 4e668701e929b049983e455b700b3cb0
+      id: 429829542
+      PathAndIcons:
+      - ElementName: Master-Mixer Hierarchy
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: 9271300e46d6e34c8f6ada18a139c27b
+      - ElementName: Master Audio Bus
+        ObjectType: 2
+        guid: d8a41415a61d2a41a17e75ca0c2149f3
+      - ElementName: Music_MSTR
+        ObjectType: 2
+        guid: 58246b69f82a94439b8b920bddd742a7
+      - ElementName: MusicCues
+        ObjectType: 2
+        guid: 4e668701e929b049983e455b700b3cb0
+      Path: Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\Music_MSTR\MusicCues
     - name: Player_Cloth
       guid: 2b97667de271b74eb16ff3289283f3f0
       id: 3633148295
@@ -245,6 +265,26 @@ MonoBehaviour:
         ObjectType: 2
         guid: f06385d3c9d6c445857d7cc83afcc123
       Path: Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SFX_MSTR
+    - name: Specs
+      guid: 0ae9533b1202c6488f6e3bba043ad30d
+      id: 540284219
+      PathAndIcons:
+      - ElementName: Master-Mixer Hierarchy
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: 9271300e46d6e34c8f6ada18a139c27b
+      - ElementName: Master Audio Bus
+        ObjectType: 2
+        guid: d8a41415a61d2a41a17e75ca0c2149f3
+      - ElementName: SFX_MSTR
+        ObjectType: 2
+        guid: f06385d3c9d6c445857d7cc83afcc123
+      - ElementName: Specs
+        ObjectType: 2
+        guid: 0ae9533b1202c6488f6e3bba043ad30d
+      Path: Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SFX_MSTR\Specs
     - name: UI
       guid: c3a686fd96bf9b4f8c3a537bdc970b81
       id: 1551306167
@@ -344,7 +384,7 @@ MonoBehaviour:
         ObjectType: 3
         guid: 947e7502a0190241b37812e5cd1a392c
       Path: Events\Ambiences\Ambiences\amb_tree
-      maxAttenuation: 5
+      maxAttenuation: 10
       maxDuration: -1
       minDuration: -1
     - name: Ambiences
@@ -381,7 +421,7 @@ MonoBehaviour:
         ObjectType: 3
         guid: bd53933a2df9214bb6f26ee7394f6783
       Path: Events\Ambiences\Ambiences\water_run
-      maxAttenuation: 20
+      maxAttenuation: 15
       maxDuration: -1
       minDuration: -1
   - PhysicalPath: Events\Default Work Unit.wwu
@@ -408,8 +448,25 @@ MonoBehaviour:
     ParentPath: Events\Music Cues
     guid: be3ca93f6b75a64688124ce16d631b84
     GuidInternal: 
-    m_lastTime: -8584424891355618931
+    m_lastTime: -8584415388046172509
     List:
+    - name: play_poi_jingle
+      guid: fb7324ee9a17d74e8ce9b0d45966597d
+      id: 2451061482
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Music Cues
+        ObjectType: 12
+        guid: be3ca93f6b75a64688124ce16d631b84
+      - ElementName: play_poi_jingle
+        ObjectType: 3
+        guid: fb7324ee9a17d74e8ce9b0d45966597d
+      Path: Events\Music Cues\play_poi_jingle
+      maxAttenuation: 0
+      maxDuration: 3.8868937
+      minDuration: 3.8868937
     - name: play_title_music
       guid: 590165bfa8a0244595b0a5c8a4be1de7
       id: 2604896900
@@ -638,7 +695,7 @@ MonoBehaviour:
         guid: b7d2733c338e4e48888491b02d79754d
       Path: Events\SFX\Specifics\item_spawn
       maxAttenuation: 0
-      maxDuration: 0.25
+      maxDuration: 0.28883818
       minDuration: 0.25
     - name: key_play
       guid: cf5252ad2f3b5c4286496769a211d0f2
@@ -658,8 +715,8 @@ MonoBehaviour:
         guid: cf5252ad2f3b5c4286496769a211d0f2
       Path: Events\SFX\Specifics\key_play
       maxAttenuation: 0
-      maxDuration: 216.2902
-      minDuration: 216.2902
+      maxDuration: 212.32349
+      minDuration: 212.32349
     - name: mes_send
       guid: 7d67df945f9db94e8e7379de6505be84
       id: 4090627927
@@ -698,8 +755,8 @@ MonoBehaviour:
         guid: c6018a8fb61d64499c47e616f26ae021
       Path: Events\SFX\Specifics\phone_pickup
       maxAttenuation: 0
-      maxDuration: 0.25941536
-      minDuration: 0.25941536
+      maxDuration: 0.36144364
+      minDuration: 0.36144364
     - name: phone_ring
       guid: 2fb5f1e83728404298860e5cd4e26491
       id: 3401439988
@@ -758,7 +815,7 @@ MonoBehaviour:
         guid: 10ea4692f793bb4ba7c8f9dd4d419d5d
       Path: Events\SFX\Specifics\pill_interact
       maxAttenuation: 0
-      maxDuration: 1.1741581
+      maxDuration: 0.79634756
       minDuration: 0.46698686
     - name: Specifics
       guid: b3228c36bda48e4f8247ca593703d6a9
@@ -1267,7 +1324,7 @@ MonoBehaviour:
     m_lastTime: -8584424891339231065
     List: []
   ExpandedFileSystemItemIds: 
-  ExpandedWaapiItemIds: 0100000005000000060000000700000008000000110000001700000018000000
+  ExpandedWaapiItemIds: 01000000050000000600000007000000080000001000000011000000140000001500000016000000
   AutoSyncSelection: 0
   autoPopulateEnabled: 1
   currentDataSource: 0

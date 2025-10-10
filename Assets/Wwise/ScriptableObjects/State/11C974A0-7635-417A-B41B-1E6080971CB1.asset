@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e6acabe7a4538944898c232697c064d, type: 3}
+  m_Name: 11C974A0-7635-417A-B41B-1E6080971CB1
+  m_EditorClassIdentifier: 
+  objectName: Interior
+  id: 1132214669
+  guid: 11C974A0-7635-417A-B41B-1E6080971CB1
+  WwiseStateGroupReference: {fileID: 11400000, guid: dfffc4055bc37b54ab1fa498e2b9711d, type: 2}
