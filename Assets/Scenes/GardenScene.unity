@@ -1251,6 +1251,7 @@ MonoBehaviour:
   - m_EditModeType: 1
     m_Knots:
     - Position:
+<<<<<<< Updated upstream
         x: -128.70789
         y: 4.9394217
         z: -89.67821
@@ -1268,13 +1269,33 @@ MonoBehaviour:
           y: 0.6029074
           z: 0.0211935
           w: 0.79668176
-    - Position:
-        x: -106.100235
-        y: 6.9226685
-        z: -83.30667
+=======
+        x: -141.34723
+        y: 2.1018355
+        z: -73.04355
       TangentIn:
         x: -0
         y: -0
+        z: -3.6637871
+      TangentOut:
+        x: 0
+        y: 0
+        z: 3.6637871
+      Rotation:
+        value:
+          x: -0.019233868
+          y: 0.79673815
+          z: 0.0018755643
+          w: 0.60401565
+>>>>>>> Stashed changes
+    - Position:
+        x: -106.08649
+        y: 3.062619
+        z: -82.94762
+      TangentIn:
+        x: -0
+        y: -0
+<<<<<<< Updated upstream
         z: -7.7833095
       TangentOut:
         x: 0
@@ -1322,6 +1343,55 @@ MonoBehaviour:
           y: 0.36048165
           z: -0.104769416
           w: 0.92679995
+=======
+        z: -11.285249
+      TangentOut:
+        x: 0
+        y: 0
+        z: 9.701403
+      Rotation:
+        value:
+          x: -0.013645747
+          y: 0.80144763
+          z: -0.0112231
+          w: 0.59780383
+    - Position:
+        x: -80.26544
+        y: 2.2619662
+        z: -91.05423
+      TangentIn:
+        x: -0
+        y: -0
+        z: -8.060225
+      TangentOut:
+        x: 0
+        y: 0
+        z: 7.808011
+      Rotation:
+        value:
+          x: -0.031300444
+          y: 0.65922284
+          z: -0.0679653
+          w: 0.7482154
+    - Position:
+        x: -58.807938
+        y: 1.0409708
+        z: -77.50319
+      TangentIn:
+        x: -0
+        y: -0
+        z: -8.9055395
+      TangentOut:
+        x: 0
+        y: 0
+        z: 10.955319
+      Rotation:
+        value:
+          x: -0.016560487
+          y: 0.34293953
+          z: -0.09541163
+          w: 0.93435264
+>>>>>>> Stashed changes
     - Position:
         x: -41.854263
         y: 0.000061035156
@@ -1329,6 +1399,7 @@ MonoBehaviour:
       TangentIn:
         x: -0
         y: -0
+<<<<<<< Updated upstream
         z: -12.203284
       TangentOut:
         x: 0
@@ -1340,6 +1411,19 @@ MonoBehaviour:
           y: 0.25631198
           z: -0.07171309
           w: 0.9639211
+=======
+        z: -12.296054
+      TangentOut:
+        x: 0
+        y: 0
+        z: 11.4211445
+      Rotation:
+        value:
+          x: -0.009937185
+          y: 0.23816581
+          z: -0.07051068
+          w: 0.9686106
+>>>>>>> Stashed changes
     - Position:
         x: -24.185196
         y: 0.000045776367
@@ -1527,6 +1611,7 @@ MonoBehaviour:
       TangentIn:
         x: -0
         y: -0
+<<<<<<< Updated upstream
         z: -7.4015603
       TangentOut:
         x: 0
@@ -1844,13 +1929,333 @@ MonoBehaviour:
           y: 0.47315425
           z: -0.1466819
           w: 0.86302626
+=======
+        z: -7.450703
+      TangentOut:
+        x: 0
+        y: 0
+        z: 6.5238824
+      Rotation:
+        value:
+          x: 0.00023082296
+          y: 0.5149067
+          z: -0.00018662208
+          w: 0.85724616
     - Position:
-        x: -7.624527
-        y: 6.1872253
-        z: 181.25482
+        x: 90.293625
+        y: 0.08018745
+        z: 101.48274
       TangentIn:
         x: -0
         y: -0
+        z: -7.1832447
+      TangentOut:
+        x: 0
+        y: 0
+        z: 9.775119
+      Rotation:
+        value:
+          x: -0.03444185
+          y: 0.29477963
+          z: -0.026490424
+          w: 0.95457685
+    - Position:
+        x: 103.96477
+        y: 3.4028966
+        z: 133.92918
+      TangentIn:
+        x: -0
+        y: -0
+        z: -8.716437
+      TangentOut:
+        x: 0
+        y: 0
+        z: 5.220943
+      Rotation:
+        value:
+          x: 0.042732656
+          y: 0.17434458
+          z: 0.06289229
+          w: 0.98174465
+    - Position:
+        x: 107.76787
+        y: 0.6586591
+        z: 145.7188
+      TangentIn:
+        x: -0
+        y: -0
+        z: -3.636496
+      TangentOut:
+        x: 0
+        y: 0
+        z: 4.694286
+      Rotation:
+        value:
+          x: -0.0264687
+          y: 0.48843205
+          z: -0.16477567
+          w: 0.8564943
+    - Position:
+        x: 128.70494
+        y: 1.5013462
+        z: 142.89653
+      TangentIn:
+        x: -0
+        y: -0
+        z: -8.09123
+      TangentOut:
+        x: 0
+        y: 0
+        z: 11.714191
+      Rotation:
+        value:
+          x: -0.040213164
+          y: 0.82578623
+          z: 0.010544388
+          w: 0.562449
+    - Position:
+        x: 164.65428
+        y: 5.1243
+        z: 117.23558
+      TangentIn:
+        x: -0
+        y: -0
+        z: -16.137236
+      TangentOut:
+        x: 0
+        y: 0
+        z: 24.742336
+      Rotation:
+        value:
+          x: -0.15996926
+          y: 0.95452005
+          z: -0.026950981
+          w: 0.25014967
+    - Position:
+        x: 171.55989
+        y: 1.9817379
+        z: 13.330856
+      TangentIn:
+        x: -0
+        y: -0
+        z: -26.971884
+      TangentOut:
+        x: 0
+        y: 0
+        z: 18.12824
+      Rotation:
+        value:
+          x: -0.0374705
+          y: 0.9943742
+          z: -0.015896486
+          w: -0.09779081
+    - Position:
+        x: 150.86302
+        y: -0.13999206
+        z: -28.883545
+      TangentIn:
+        x: -0
+        y: -0
+        z: -16.60872
+      TangentOut:
+        x: 0
+        y: 0
+        z: 19.766972
+      Rotation:
+        value:
+          x: -0.0040098378
+          y: 0.94229496
+          z: -0.008973587
+          w: -0.33463928
+    - Position:
+        x: 98.280136
+        y: 0.32038328
+        z: -69.856964
+      TangentIn:
+        x: -0
+        y: -0
+        z: -22.70244
+      TangentOut:
+        x: 0
+        y: 0
+        z: 25.022408
+      Rotation:
+        value:
+          x: 0.00063349353
+          y: 0.84297323
+          z: 0.00094550825
+          w: -0.5379543
+    - Position:
+        x: 19.035522
+        y: 0.12022008
+        z: -86.55057
+      TangentIn:
+        x: -0
+        y: -0
+        z: -23.471224
+      TangentOut:
+        x: 0
+        y: 0
+        z: 18.154736
+      Rotation:
+        value:
+          x: -0.06860997
+          y: 0.79814297
+          z: 0.054744087
+          w: -0.5960399
+    - Position:
+        x: -26.181335
+        y: 0.7807586
+        z: -103.94475
+      TangentIn:
+        x: -0
+        y: -0
+        z: -17.110046
+      TangentOut:
+        x: 0
+        y: 0
+        z: 19.49833
+      Rotation:
+        value:
+          x: 0.018051153
+          y: 0.8524906
+          z: -0.0090105105
+          w: -0.52235305
+    - Position:
+        x: -78.96437
+        y: 0.36041594
+        z: -138.19266
+      TangentIn:
+        x: -0
+        y: -0
+        z: -17.608751
+      TangentOut:
+        x: 0
+        y: 0
+        z: 21.08491
+      Rotation:
+        value:
+          x: -0.028844522
+          y: -0.66441846
+          z: 0.02623593
+          w: 0.7463429
+    - Position:
+        x: -141.34723
+        y: 2.1018355
+        z: -73.04355
+      TangentIn:
+        x: -0
+        y: -0
+        z: -23.487648
+      TangentOut:
+        x: 0
+        y: 0
+        z: 15.746115
+      Rotation:
+        value:
+          x: 0.04236416
+          y: -0.25950682
+          z: -0.21564092
+          w: 0.94040436
+    - Position:
+        x: -153.26495
+        y: 3.8632717
+        z: -34.327988
+      TangentIn:
+        x: -0
+        y: -0
+        z: -14.235376
+      TangentOut:
+        x: 0
+        y: 0
+        z: 16.000647
+      Rotation:
+        value:
+          x: 0.005547324
+          y: -0.10137973
+          z: -0.17575172
+          w: 0.9791847
+    - Position:
+        x: -158.64935
+        y: 4.1635165
+        z: 16.61354
+      TangentIn:
+        x: -0
+        y: -0
+        z: -16.635492
+      TangentOut:
+        x: 0
+        y: 0
+        z: 16.239708
+      Rotation:
+        value:
+          x: 0.019634997
+          y: 0.02694029
+          z: 0.064389
+          w: 0.9973679
+    - Position:
+        x: -148.10074
+        y: 0.4404812
+        z: 64.13228
+      TangentIn:
+        x: -0
+        y: -0
+        z: -16.924503
+      TangentOut:
+        x: 0
+        y: 0
+        z: 18.915617
+      Rotation:
+        value:
+          x: 0.052865762
+          y: 0.18581836
+          z: 0.1634869
+          w: 0.9674445
+    - Position:
+        x: -115.99457
+        y: 0.10020377
+        z: 115.97453
+      TangentIn:
+        x: -0
+        y: -0
+        z: -20.365562
+      TangentOut:
+        x: 0
+        y: 0
+        z: 20.842878
+      Rotation:
+        value:
+          x: -0.022111302
+          y: 0.33878335
+          z: -0.062842235
+          w: 0.9385029
+    - Position:
+        x: -68.8161
+        y: 0.32038328
+        z: 159.02968
+      TangentIn:
+        x: -0
+        y: -0
+        z: -20.984324
+      TangentOut:
+        x: 0
+        y: 0
+        z: 21.193378
+      Rotation:
+        value:
+          x: -0.09610626
+          y: 0.48166925
+          z: -0.1483033
+          w: 0.8583499
+>>>>>>> Stashed changes
+    - Position:
+        x: -7.6262054
+        y: 2.922505
+        z: 181.24776
+      TangentIn:
+        x: -0
+        y: -0
+<<<<<<< Updated upstream
         z: -20.304737
       TangentOut:
         x: 0
@@ -1884,21 +2289,57 @@ MonoBehaviour:
         x: 101.91104
         y: 17.281567
         z: 160.93446
-      TangentIn:
-        x: 0
-        y: 0
-        z: -5.5094013
+=======
+        z: -20.607233
       TangentOut:
         x: 0
         y: 0
-        z: 5.5094013
+        z: 19.271006
       Rotation:
         value:
-          x: -0.0009851202
-          y: 0.72982913
-          z: 0.0010516975
-          w: 0.6836281
+          x: -0.027063843
+          y: 0.6485145
+          z: -0.015643774
+          w: 0.76056015
     - Position:
+        x: 49.320206
+        y: 2.9825537
+        z: 179.42632
+      TangentIn:
+        x: -0
+        y: -0
+        z: -17.592768
+      TangentOut:
+        x: 0
+        y: 0
+        z: 15.396774
+      Rotation:
+        value:
+          x: 0.0013869449
+          y: 0.7598554
+          z: 0.00062361493
+          w: 0.6500904
+    - Position:
+        x: 91.27443
+        y: 2.8624556
+        z: 167.41652
+>>>>>>> Stashed changes
+      TangentIn:
+        x: 0
+        y: 0
+        z: -8.366365
+      TangentOut:
+        x: 0
+        y: 0
+        z: 8.366365
+      Rotation:
+        value:
+          x: -0.059848215
+          y: 0.87085843
+          z: -0.037406214
+          w: 0.4864407
+    - Position:
+<<<<<<< Updated upstream
         x: 108.06967
         y: 13.486855
         z: 142.32173
@@ -1916,6 +2357,25 @@ MonoBehaviour:
           y: 0.9724759
           z: -0.11840819
           w: 0.14120786
+=======
+        x: 107.76787
+        y: 0.6586591
+        z: 145.7188
+      TangentIn:
+        x: -0
+        y: -0
+        z: -2.7343764
+      TangentOut:
+        x: 0
+        y: 0
+        z: 2.7343764
+      Rotation:
+        value:
+          x: -0.14055136
+          y: 0.9364846
+          z: -0.08935285
+          w: 0.3086388
+>>>>>>> Stashed changes
     m_MetaData:
     - Mode: 0
       Tension: 0.5
@@ -2003,6 +2463,7 @@ MonoBehaviour:
   - m_EditModeType: 1
     m_Knots:
     - Position:
+<<<<<<< Updated upstream
         x: 47.35431
         y: 7.141598
         z: 177.65608
@@ -2020,13 +2481,33 @@ MonoBehaviour:
           y: 0.31786418
           z: 0.10400859
           w: 0.94215405
-    - Position:
-        x: 62.63217
-        y: 9.913994
-        z: 198.14175
+=======
+        x: 49.320206
+        y: 2.9825537
+        z: 179.42632
       TangentIn:
         x: -0
         y: -0
+        z: -2.305663
+      TangentOut:
+        x: 0
+        y: 0
+        z: 2.305663
+      Rotation:
+        value:
+          x: -0.013802916
+          y: 0.30652198
+          z: 0.10183051
+          w: 0.9463003
+>>>>>>> Stashed changes
+    - Position:
+        x: 62.63109
+        y: 5.024218
+        z: 198.14156
+      TangentIn:
+        x: -0
+        y: -0
+<<<<<<< Updated upstream
         z: -9.285729
       TangentOut:
         x: 0
@@ -2092,6 +2573,73 @@ MonoBehaviour:
           y: 0.8948758
           z: 0.0043657944
           w: 0.4460852
+=======
+        z: -8.545366
+      TangentOut:
+        x: 0
+        y: 0
+        z: 11.84808
+      Rotation:
+        value:
+          x: -0.012068362
+          y: 0.43923655
+          z: 0.019667458
+          w: 0.8980751
+    - Position:
+        x: 103.92473
+        y: 4.4037127
+        z: 214.2347
+      TangentIn:
+        x: -0
+        y: -0
+        z: -15.973024
+      TangentOut:
+        x: 0
+        y: 0
+        z: 19.30144
+      Rotation:
+        value:
+          x: 0.068540946
+          y: 0.6221435
+          z: 0.052231517
+          w: 0.77814627
+    - Position:
+        x: 168.35725
+        y: -0.019894151
+        z: 218.41808
+      TangentIn:
+        x: -0
+        y: -0
+        z: -20.46983
+      TangentOut:
+        x: 0
+        y: 0
+        z: 19.741327
+      Rotation:
+        value:
+          x: 0.030989941
+          y: 0.7714805
+          z: 0.0021613531
+          w: 0.63549423
+    - Position:
+        x: 222.52144
+        y: -0.09995943
+        z: 192.1567
+      TangentIn:
+        x: -0
+        y: -0
+        z: -16.388378
+      TangentOut:
+        x: 0
+        y: 0
+        z: 12.663044
+      Rotation:
+        value:
+          x: 0.013515671
+          y: 0.9281508
+          z: 0.00622034
+          w: 0.371907
+>>>>>>> Stashed changes
     - Position:
         x: 235.23605
         y: 0.84611
@@ -2099,6 +2647,7 @@ MonoBehaviour:
       TangentIn:
         x: -0
         y: -0
+<<<<<<< Updated upstream
         z: -10.791838
       TangentOut:
         x: 0
@@ -2164,6 +2713,73 @@ MonoBehaviour:
           y: 0.7455314
           z: 0.01215273
           w: -0.6576581
+=======
+        z: -10.328768
+      TangentOut:
+        x: 0
+        y: 0
+        z: 8.67857
+      Rotation:
+        value:
+          x: 0.013790039
+          y: 0.99930066
+          z: 0.0027399836
+          w: 0.03465034
+    - Position:
+        x: 230.00755
+        y: 0.16025274
+        z: 134.64977
+      TangentIn:
+        x: -0
+        y: -0
+        z: -9.015718
+      TangentOut:
+        x: 0
+        y: 0
+        z: 14.141161
+      Rotation:
+        value:
+          x: 0.013315531
+          y: 0.92567945
+          z: 0.025704404
+          w: -0.37719977
+    - Position:
+        x: 170.41896
+        y: 6.1651483
+        z: 117.055435
+      TangentIn:
+        x: -0
+        y: -0
+        z: -9.546351
+      TangentOut:
+        x: 0
+        y: 0
+        z: 2.9251242
+      Rotation:
+        value:
+          x: 0.012305982
+          y: 0.75102466
+          z: -0.03850247
+          w: -0.6590358
+    - Position:
+        x: 164.65428
+        y: 5.1243
+        z: 117.23558
+      TangentIn:
+        x: -0
+        y: -0
+        z: -0.58606607
+      TangentOut:
+        x: 0
+        y: 0
+        z: 0.58606607
+      Rotation:
+        value:
+          x: 0.036209717
+          y: -0.69521207
+          z: 0.0906384
+          w: 0.7121473
+>>>>>>> Stashed changes
     m_MetaData:
     - Mode: 0
       Tension: 0.5
@@ -2195,6 +2811,7 @@ MonoBehaviour:
   - m_EditModeType: 1
     m_Knots:
     - Position:
+<<<<<<< Updated upstream
         x: 150.8566
         y: 0.2364678
         z: -28.888184
@@ -2230,13 +2847,51 @@ MonoBehaviour:
           y: 0.9670177
           z: 0.09140598
           w: 0.23774214
-    - Position:
-        x: 184.12952
-        y: 13.080978
-        z: -96.282074
+=======
+        x: 150.86302
+        y: -0.13999206
+        z: -28.883545
       TangentIn:
         x: -0
         y: -0
+        z: -3.762234
+      TangentOut:
+        x: 0
+        y: 0
+        z: 3.762234
+      Rotation:
+        value:
+          x: -0.08736822
+          y: 0.86779195
+          z: 0.04383019
+          w: 0.48721942
+    - Position:
+        x: 182.38872
+        y: 5.924953
+        z: -48.499542
+      TangentIn:
+        x: -0
+        y: -0
+        z: -11.70954
+      TangentOut:
+        x: 0
+        y: 0
+        z: 13.200236
+      Rotation:
+        value:
+          x: 0.011434221
+          y: 0.96509254
+          z: 0.051792882
+          w: 0.25648227
+>>>>>>> Stashed changes
+    - Position:
+        x: 184.13014
+        y: 6.145132
+        z: -96.2785
+      TangentIn:
+        x: -0
+        y: -0
+<<<<<<< Updated upstream
         z: -13.170425
       TangentOut:
         x: 0
@@ -2248,13 +2903,27 @@ MonoBehaviour:
           y: 0.9950508
           z: -0.05379627
           w: -0.053686198
+=======
+        z: -13.254312
+      TangentOut:
+        x: 0
+        y: 0
+        z: 9.836751
+      Rotation:
+        value:
+          x: 0.066359505
+          y: 0.9936186
+          z: -0.03309314
+          w: -0.08498968
+>>>>>>> Stashed changes
     - Position:
-        x: 177.85806
-        y: 7.432083
-        z: -122.440765
+        x: 174.26207
+        y: 3.2227495
+        z: -120.51826
       TangentIn:
         x: -0
         y: -0
+<<<<<<< Updated upstream
         z: -9.638154
       TangentOut:
         x: 0
@@ -2410,6 +3079,163 @@ MonoBehaviour:
           y: -0.20594548
           z: 0.023316924
           w: 0.97825295
+=======
+        z: -9.279229
+      TangentOut:
+        x: 0
+        y: 0
+        z: 10.751165
+      Rotation:
+        value:
+          x: 0.10780777
+          y: 0.9536065
+          z: -0.082241245
+          w: -0.26879075
+    - Position:
+        x: 150.58278
+        y: 0.2603343
+        z: -146.59952
+      TangentIn:
+        x: -0
+        y: -0
+        z: -11.571177
+      TangentOut:
+        x: 0
+        y: 0
+        z: 11.640488
+      Rotation:
+        value:
+          x: -0.0030514183
+          y: 0.89320767
+          z: -0.009945157
+          w: -0.44952396
+    - Position:
+        x: 118.29646
+        y: 1.8216074
+        z: -161.93202
+      TangentIn:
+        x: -0
+        y: -0
+        z: -12.599986
+      TangentOut:
+        x: 0
+        y: 0
+        z: 14.285524
+      Rotation:
+        value:
+          x: -0.023237227
+          y: 0.8714064
+          z: 0.021125872
+          w: -0.48955563
+    - Position:
+        x: 81.6866
+        y: 1.1010199
+        z: -189.75471
+      TangentIn:
+        x: -0
+        y: -0
+        z: -14.09038
+      TangentOut:
+        x: 0
+        y: 0
+        z: 12.114236
+      Rotation:
+        value:
+          x: -0.044001013
+          y: 0.8693568
+          z: 0.014748551
+          w: -0.4920011
+    - Position:
+        x: 50.841476
+        y: 0.4404812
+        z: -204.02634
+      TangentIn:
+        x: -0
+        y: -0
+        z: -11.880829
+      TangentOut:
+        x: 0
+        y: 0
+        z: 13.678443
+      Rotation:
+        value:
+          x: -0.03898979
+          y: 0.78308266
+          z: 0.02700374
+          w: -0.62010646
+    - Position:
+        x: 5.8047333
+        y: 0.7807586
+        z: -205.36743
+      TangentIn:
+        x: -0
+        y: -0
+        z: -14.660107
+      TangentOut:
+        x: 0
+        y: 0
+        z: 14.485584
+      Rotation:
+        value:
+          x: 0.0756616
+          y: -0.6437341
+          z: -0.09396539
+          w: 0.7556801
+    - Position:
+        x: -35.50894
+        y: 1.0209545
+        z: -190.25513
+      TangentIn:
+        x: -0
+        y: -0
+        z: -13.454684
+      TangentOut:
+        x: 0
+        y: 0
+        z: 11.60017
+      Rotation:
+        value:
+          x: 0.031125786
+          y: -0.51540715
+          z: -0.050405163
+          w: 0.8548953
+    - Position:
+        x: -62.11064
+        y: 0.7607423
+        z: -171.23962
+      TangentIn:
+        x: -0
+        y: -0
+        z: -10.923503
+      TangentOut:
+        x: 0
+        y: 0
+        z: 11.6349745
+      Rotation:
+        value:
+          x: -0.0045764367
+          y: -0.34800944
+          z: 0.026186626
+          w: 0.93711406
+    - Position:
+        x: -78.96437
+        y: 0.36041594
+        z: -138.19266
+      TangentIn:
+        x: -0
+        y: -0
+        z: -3.709866
+      TangentOut:
+        x: 0
+        y: 0
+        z: 3.709866
+      Rotation:
+        value:
+          x: 0.00062869024
+          y: -0.23368052
+          z: 0.020473594
+          w: 0.9720977
+>>>>>>> Stashed changes
     m_MetaData:
     - Mode: 0
       Tension: 0.5
@@ -2447,6 +3273,7 @@ MonoBehaviour:
   - m_EditModeType: 1
     m_Knots:
     - Position:
+<<<<<<< Updated upstream
         x: 150.8566
         y: 0.2364678
         z: -28.888184
@@ -2464,6 +3291,25 @@ MonoBehaviour:
           y: -0.4331735
           z: 0.0012034953
           w: 0.9013063
+=======
+        x: 150.86302
+        y: -0.13999206
+        z: -28.883545
+      TangentIn:
+        x: -0
+        y: -0
+        z: -4.2549367
+      TangentOut:
+        x: 0
+        y: 0
+        z: 4.2549367
+      Rotation:
+        value:
+          x: -0.0014830579
+          y: -0.43325546
+          z: -0.0007131067
+          w: 0.9012696
+>>>>>>> Stashed changes
     - Position:
         x: 117.63376
         y: 0.000045776367
@@ -2471,6 +3317,7 @@ MonoBehaviour:
       TangentIn:
         x: -0
         y: -0
+<<<<<<< Updated upstream
         z: -15.208208
       TangentOut:
         x: 0
@@ -2482,6 +3329,19 @@ MonoBehaviour:
           y: -0.5724072
           z: 0.0008611327
           w: 0.81996816
+=======
+        z: -15.7022085
+      TangentOut:
+        x: 0
+        y: 0
+        z: 21.519972
+      Rotation:
+        value:
+          x: -0.0010577315
+          y: -0.56007195
+          z: -0.0006708259
+          w: 0.82844305
+>>>>>>> Stashed changes
     - Position:
         x: 45.668854
         y: 0.000076293945
@@ -2519,6 +3379,7 @@ MonoBehaviour:
   - m_EditModeType: 1
     m_Knots:
     - Position:
+<<<<<<< Updated upstream
         x: -128.70789
         y: 4.9394217
         z: -89.67821
@@ -2572,13 +3433,69 @@ MonoBehaviour:
           y: 0.89101964
           z: 0.026837427
           w: -0.44270444
-    - Position:
-        x: -162.51776
-        y: 10.546829
-        z: -123.542206
+=======
+        x: -141.34723
+        y: 2.1018355
+        z: -73.04355
       TangentIn:
         x: -0
         y: -0
+        z: -2.9443705
+      TangentOut:
+        x: 0
+        y: 0
+        z: 2.9443705
+      Rotation:
+        value:
+          x: 0.087582126
+          y: 0.9937343
+          z: -0.001406538
+          w: 0.06942345
+    - Position:
+        x: -137.29193
+        y: 1.6614767
+        z: -102.20332
+      TangentIn:
+        x: -0
+        y: -0
+        z: -7.0112395
+      TangentOut:
+        x: 0
+        y: 0
+        z: 5.6509194
+      Rotation:
+        value:
+          x: 0.027417544
+          y: 0.9680213
+          z: 0.008038434
+          w: -0.24923567
+    - Position:
+        x: -154.68611
+        y: 2.8424394
+        z: -110.06973
+      TangentIn:
+        x: -0
+        y: -0
+        z: -5.6438503
+      TangentOut:
+        x: 0
+        y: 0
+        z: 5.004879
+      Rotation:
+        value:
+          x: 0.08647207
+          y: 0.9162202
+          z: -0.007845088
+          w: -0.39115396
+>>>>>>> Stashed changes
+    - Position:
+        x: -161.35155
+        y: 3.4229128
+        z: -123.54072
+      TangentIn:
+        x: -0
+        y: -0
+<<<<<<< Updated upstream
         z: -5.0374484
       TangentOut:
         x: 0
@@ -2644,13 +3561,81 @@ MonoBehaviour:
           y: 0.9303469
           z: -0.07118717
           w: -0.34799197
+=======
+        z: -4.998279
+      TangentOut:
+        x: 0
+        y: 0
+        z: 4.990934
+      Rotation:
+        value:
+          x: 0.06593196
+          y: 0.97734594
+          z: -0.014927925
+          w: -0.20056179
     - Position:
-        x: -194.97832
-        y: 4.5798492
-        z: -171.71977
+        x: -166.49574
+        y: 2.7623742
+        z: -137.6122
       TangentIn:
         x: -0
         y: -0
+        z: -4.0121093
+      TangentOut:
+        x: 0
+        y: 0
+        z: 3.441138
+      Rotation:
+        value:
+          x: 0.117686875
+          y: 0.90190697
+          z: -0.014430562
+          w: -0.41533774
+    - Position:
+        x: -177.14442
+        y: 4.623892
+        z: -139.814
+      TangentIn:
+        x: -0
+        y: -0
+        z: -3.9489536
+      TangentOut:
+        x: 0
+        y: 0
+        z: 4.651546
+      Rotation:
+        value:
+          x: 0.052165456
+          y: 0.78361803
+          z: -0.007153049
+          w: -0.61900765
+    - Position:
+        x: -191.87643
+        y: 3.6631086
+        z: -143.8573
+      TangentIn:
+        x: -0
+        y: -0
+        z: -5.0838
+      TangentOut:
+        x: 0
+        y: 0
+        z: 6.9656534
+      Rotation:
+        value:
+          x: -0.06603423
+          y: 0.92387396
+          z: -0.015974062
+          w: -0.3766181
+>>>>>>> Stashed changes
+    - Position:
+        x: -198.58191
+        y: 1.5413787
+        z: -171.72
+      TangentIn:
+        x: -0
+        y: -0
+<<<<<<< Updated upstream
         z: -2.6171565
       TangentOut:
         x: 0
@@ -2662,6 +3647,19 @@ MonoBehaviour:
           y: 0.9831498
           z: -0.07984242
           w: -0.12772162
+=======
+        z: -2.8736653
+      TangentOut:
+        x: 0
+        y: 0
+        z: 2.8736653
+      Rotation:
+        value:
+          x: -0.10458313
+          y: 0.9868415
+          z: -0.024603311
+          w: -0.12083421
+>>>>>>> Stashed changes
     m_MetaData:
     - Mode: 0
       Tension: 0.5
@@ -2691,6 +3689,7 @@ MonoBehaviour:
   - m_EditModeType: 1
     m_Knots:
     - Position:
+<<<<<<< Updated upstream
         x: -118.493256
         y: 2.077836
         z: 110.90651
@@ -2744,6 +3743,61 @@ MonoBehaviour:
           y: -0.26027927
           z: 0.013628965
           w: 0.9636882
+=======
+        x: -115.99457
+        y: 0.10020377
+        z: 115.97453
+      TangentIn:
+        x: -0
+        y: -0
+        z: -0.5467697
+      TangentOut:
+        x: 0
+        y: 0
+        z: 0.5467697
+      Rotation:
+        value:
+          x: -0.15797855
+          y: 0.85290956
+          z: 0.07041909
+          w: -0.49257413
+    - Position:
+        x: -120.71041
+        y: -0.09395453
+        z: 113.21431
+      TangentIn:
+        x: -0
+        y: -0
+        z: -1.9978387
+      TangentOut:
+        x: 0
+        y: 0
+        z: 6.24228
+      Rotation:
+        value:
+          x: 0.08053376
+          y: -0.61501133
+          z: -0.080679916
+          w: 0.7802346
+    - Position:
+        x: -149.80212
+        y: -0.24007365
+        z: 157.9688
+      TangentIn:
+        x: -0
+        y: -0
+        z: -14.58622
+      TangentOut:
+        x: 0
+        y: 0
+        z: 10.135502
+      Rotation:
+        value:
+          x: -0.004762322
+          y: -0.29196563
+          z: -0.004670472
+          w: 0.9564056
+>>>>>>> Stashed changes
     - Position:
         x: -164.52747
         y: 0.52262634
@@ -2751,6 +3805,7 @@ MonoBehaviour:
       TangentIn:
         x: -0
         y: -0
+<<<<<<< Updated upstream
         z: -8.935664
       TangentOut:
         x: 0
@@ -2762,6 +3817,19 @@ MonoBehaviour:
           y: -0.3071456
           z: 0.021742579
           w: 0.9490829
+=======
+        z: -8.805877
+      TangentOut:
+        x: 0
+        y: 0
+        z: 9.287403
+      Rotation:
+        value:
+          x: 0.0003542339
+          y: -0.32344425
+          z: -0.002020063
+          w: 0.946245
+>>>>>>> Stashed changes
     - Position:
         x: -183.18916
         y: 0.000061035156
