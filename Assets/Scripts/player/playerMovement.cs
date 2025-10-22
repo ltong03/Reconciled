@@ -18,6 +18,9 @@ public class playerMovement : MonoBehaviour
 
     public bool isMoving= false;
 
+    [SerializeField] private Transform playerBody;
+
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -69,7 +72,7 @@ public class playerMovement : MonoBehaviour
 
         //change scale
         transform.localScale = new Vector3(1 ,1 - crouchInput*crouchHeight, 1);
-
+            
         //change speed
         realSpeed = defaultSpeed * (1-crouchInput*crouchSpeed);
     }
@@ -88,5 +91,12 @@ public class playerMovement : MonoBehaviour
 
         // set the rotation
         orientation.rotation = Quaternion.Euler(rotationX, rotationY, 0);
+        playerBody.rotation = Quaternion.Euler(0f, rotationY, 0f);
+    }
+
+    //For "BodyAnimator.cs", velocity allows it to change animations
+    public Vector3 GetVelocity()
+    {
+        return controller.velocity;
     }
 }

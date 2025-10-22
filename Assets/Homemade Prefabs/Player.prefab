@@ -478,6 +478,7 @@ MonoBehaviour:
   crouchHeight: 0.5
   crouchSpeed: 0.5
   isMoving: 0
+  playerBody: {fileID: 0}
 --- !u!114 &6301455808356621777
 MonoBehaviour:
   m_ObjectHideFlags: 0
