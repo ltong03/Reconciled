@@ -2,39 +2,38 @@ using UnityEngine;
 
 public class playerMovement : MonoBehaviour
 {
-    public Transform orientation;
+    public Transform orientation;      
+    [SerializeField] private Transform playerBody; 
+    [SerializeField] private Transform cameraPitch;
+
     CharacterController controller;
 
     public float defaultSpeed = 3;
     float realSpeed;
     public float GRAVITY = 9.81f;
-    public float YSensitivity = 1.5f;
-    public float XSensitivity = 2;
+    public float YSensitivity = 1.5f; // mouse Y sensitivity
+    public float XSensitivity = 2f;   // mouse X sensitivity
     public float crouchHeight = 0.5f;
     public float crouchSpeed = 0.5f;
 
-    float rotationY;
-    float rotationX;
+    // Pitch clamp (adjust to taste)
+    [SerializeField] float minPitch = -60f; 
+    [SerializeField] float maxPitch = 70f; 
 
-    public bool isMoving= false;
+    float rotationY; // yaw
+    float rotationX; // pitch
 
-    [SerializeField] private Transform playerBody;
+    public bool isMoving = false;
 
-
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        // get character controller
-        controller = gameObject.GetComponent<CharacterController>();
-
-        // Dont display mouse cursor when gaem is being played
+        controller = GetComponent<CharacterController>();
         Cursor.lockState = CursorLockMode.Locked;
+        Cursor.visible = false;
 
-        // set real speed
         realSpeed = defaultSpeed;
     }
 
-    // Update is called once per frame
     void Update()
     {
         rotateCamera();
@@ -44,59 +43,47 @@ public class playerMovement : MonoBehaviour
 
     void moveBody()
     {
-        // get keyboard input
         float inputHoriz = Input.GetAxis("Horizontal");
-        float inputVert  = Input.GetAxis("Vertical");
+        float inputVert = Input.GetAxis("Vertical");
 
-        // construct Vector3 with camera orientation as "forward" direction
-        Vector3 direction = (orientation.forward * inputVert + orientation.right * inputHoriz) * realSpeed;
-        direction.y = -GRAVITY;
+        // use orientation's forward/right (yaw only)
+        Vector3 move = (orientation.forward * inputVert + orientation.right * inputHoriz) * realSpeed;
+        // simple gravity
+        move.y = -GRAVITY;
 
-        controller.Move(direction * Time.deltaTime);
+        controller.Move(move * Time.deltaTime);
 
-        if(Mathf.Abs(inputHoriz) > 0.01f || Mathf.Abs(inputVert) > 0.01f){
-            isMoving = true;
-        } else{
-            isMoving = false;
-        }
-
-        
-
-        
+        isMoving = Mathf.Abs(inputHoriz) > 0.01f || Mathf.Abs(inputVert) > 0.01f;
     }
 
     void crouch()
     {
-        // get keyboard input
         float crouchInput = Input.GetAxis("Crouch");
-
-        //change scale
-        transform.localScale = new Vector3(1 ,1 - crouchInput*crouchHeight, 1);
-            
-        //change speed
-        realSpeed = defaultSpeed * (1-crouchInput*crouchSpeed);
+        transform.localScale = new Vector3(1f, 1f - crouchInput * crouchHeight, 1f);
+        realSpeed = defaultSpeed * (1f - crouchInput * crouchSpeed);
     }
 
     void rotateCamera()
     {
-        // get mouse input
-        float lookX = Input.GetAxis("Mouse X");
-        float lookY = Input.GetAxis("Mouse Y");
+        // mouse delta (scaled by dt for consistent feel)
+        float lookX = Input.GetAxis("Mouse X") * XSensitivity * Time.deltaTime;
+        float lookY = Input.GetAxis("Mouse Y") * YSensitivity * Time.deltaTime;
 
-        // adust rotation based on mouse input
-        rotationY += lookX * XSensitivity;
-        rotationX -= lookY * YSensitivity;
-        // prevent up/down rotation from going past 90 degrees in either direction
-        rotationX = Mathf.Clamp(rotationX, -90f, 90f);
+        // yaw on body/orientation
+        rotationY += lookX;
 
-        // set the rotation
-        orientation.rotation = Quaternion.Euler(rotationX, rotationY, 0);
+        // pitch on camera, then clamp
+        rotationX -= lookY;
+        rotationX = Mathf.Clamp(rotationX, minPitch, maxPitch);
+
+        // apply: yaw only to orientation + body
+        orientation.rotation = Quaternion.Euler(0f, rotationY, 0f);
         playerBody.rotation = Quaternion.Euler(0f, rotationY, 0f);
+
+        // apply: pitch only to camera (LOCAL so it stacks with yaw from parent)
+        if (cameraPitch != null)
+            cameraPitch.localRotation = Quaternion.Euler(rotationX, 0f, 0f);
     }
 
-    //For "BodyAnimator.cs", velocity allows it to change animations
-    public Vector3 GetVelocity()
-    {
-        return controller.velocity;
-    }
+    public Vector3 GetVelocity() => controller.velocity;
 }
