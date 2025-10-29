@@ -345,7 +345,7 @@ MonoBehaviour:
     ParentPath: Events\Ambiences
     guid: 7e3e149385708341a7ae7ccdb5eb3f42
     GuidInternal: 
-    m_lastTime: -8584411079810476800
+    m_lastTime: -8584399018643260727
     List:
     - name: amb_bed
       guid: 5f6832bf5c4bcf44b554fb9010a367ec
@@ -384,9 +384,29 @@ MonoBehaviour:
         ObjectType: 3
         guid: 947e7502a0190241b37812e5cd1a392c
       Path: Events\Ambiences\Ambiences\amb_tree
-      maxAttenuation: 10
+      maxAttenuation: 25
       maxDuration: -1
       minDuration: -1
+    - name: amb_war
+      guid: 6681be4293f71540924b8abbacd1f820
+      id: 3316054348
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Ambiences
+        ObjectType: 12
+        guid: 7e3e149385708341a7ae7ccdb5eb3f42
+      - ElementName: Ambiences
+        ObjectType: 4
+        guid: e6dacbcfbc234440bbbceba7135c7a7c
+      - ElementName: amb_war
+        ObjectType: 3
+        guid: 6681be4293f71540924b8abbacd1f820
+      Path: Events\Ambiences\Ambiences\amb_war
+      maxAttenuation: 10
+      maxDuration: 0
+      minDuration: 0
     - name: Ambiences
       guid: e6dacbcfbc234440bbbceba7135c7a7c
       id: 1017660616
@@ -421,7 +441,7 @@ MonoBehaviour:
         ObjectType: 3
         guid: bd53933a2df9214bb6f26ee7394f6783
       Path: Events\Ambiences\Ambiences\water_run
-      maxAttenuation: 15
+      maxAttenuation: 25
       maxDuration: -1
       minDuration: -1
   - PhysicalPath: Events\Default Work Unit.wwu
@@ -605,7 +625,7 @@ MonoBehaviour:
         guid: 86ea848c50d28842a93226cf786e6336
       Path: Events\Player\Player\pc_footstep
       maxAttenuation: 0
-      maxDuration: 0.5297316
+      maxDuration: 0.5838587
       minDuration: 0.21941143
     - name: Player
       guid: c92c6974617b1c4a9bc5cd540e657af3
