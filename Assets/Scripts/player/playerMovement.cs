@@ -46,9 +46,15 @@ public class playerMovement : MonoBehaviour
         float inputHoriz = Input.GetAxis("Horizontal");
         float inputVert = Input.GetAxis("Vertical");
 
-        // use orientation's forward/right (yaw only)
-        Vector3 move = (orientation.forward * inputVert + orientation.right * inputHoriz) * realSpeed;
-        // simple gravity
+        Vector3 forward = orientation.forward;
+        Vector3 right = orientation.right;
+
+        forward.y = 0f;
+        right.y = 0f;
+        forward.Normalize();
+        right.Normalize();
+
+        Vector3 move = (forward * inputVert + right * inputHoriz) * realSpeed;
         move.y = -GRAVITY;
 
         controller.Move(move * Time.deltaTime);
