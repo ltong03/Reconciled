@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a53a9365ee6e3c54da5b73e582855be1, type: 3}
+  m_Name: F49FB826-087E-4998-AD7C-EA8C6D4A1866
+  m_EditorClassIdentifier: 
+  objectName: Day_Night
+  id: 2666809638
+  guid: F49FB826-087E-4998-AD7C-EA8C6D4A1866
