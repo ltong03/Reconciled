@@ -1,0 +1,213 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-2329230717528921615
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 9
+--- !u!114 &-360101139335462139
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da692e001514ec24dbc4cca1949ff7e8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 13
+  hdPluginSubTargetMaterialVersions:
+    m_Keys: []
+    m_Values: 
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: M_Wallpaper_A
+  m_Shader: {fileID: -6465566751694194690, guid: 8fad2610a69421c44a675534a855dbfd, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords:
+  - _DISABLE_SSR_TRANSPARENT
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 2225
+  stringTagMap:
+    MotionVector: User
+  disabledShaderPasses:
+  - MOTIONVECTORS
+  - TransparentDepthPrepass
+  - TransparentDepthPostpass
+  - TransparentBackface
+  - RayTracingPrepass
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_f489d1fb26994d35bf962bf1c4191a11:
+        m_Texture: {fileID: 2800000, guid: 4024a8ed38101044db66cd140ec0d43a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_f489d1fb26994d35bf962bf1c4191a11_1:
+        m_Texture: {fileID: 2800000, guid: ff5be6c7bcc84254d8eea85656d1110c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_f489d1fb26994d35bf962bf1c4191a11_3:
+        m_Texture: {fileID: 2800000, guid: 58142d520aec92e49826f0e86617312a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_f489d1fb26994d35bf962bf1c4191a11_4:
+        m_Texture: {fileID: 2800000, guid: 37c999d85b3b683419aa03244b3a7987, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_f489d1fb26994d35bf962bf1c4191a11_5:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_f489d1fb26994d35bf962bf1c4191a11_6:
+        m_Texture: {fileID: 2800000, guid: 58142d520aec92e49826f0e86617312a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_f489d1fb26994d35bf962bf1c4191a11_7:
+        m_Texture: {fileID: 2800000, guid: 12c50cd5811c09742a6c57b31ad2dd67, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_f489d1fb26994d35bf962bf1c4191a11_8:
+        m_Texture: {fileID: 2800000, guid: 37c999d85b3b683419aa03244b3a7987, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_f489d1fb26994d35bf962bf1c4191a11_9:
+        m_Texture: {fileID: 2800000, guid: 37c999d85b3b683419aa03244b3a7987, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - Vector1_1: 8
+    - Vector1_10: 0.3
+    - Vector1_11: 0.3
+    - Vector1_11181498b2de4c01b0069628048ca8fc: 0.8
+    - Vector1_12: 0.3
+    - Vector1_2: 1
+    - Vector1_2fe94bf0c60944179fd02a7389f226dd: 1
+    - Vector1_3: 8
+    - Vector1_35487e1fc81b4520816181d73952fba5: 8
+    - Vector1_4: 8
+    - Vector1_5: 1
+    - Vector1_54d82c9ac1494d8f83a9bf32c640806b: 0.3
+    - Vector1_6: 1
+    - Vector1_7: 1
+    - Vector1_8: 1
+    - Vector1_9: 1
+    - Vector1_9c1933ff5fb44781b1bf2b9c24724d0e: 1
+    - Vector1_a08d53e3ce554fa2a5ef01dff115b5ea: 0.9
+    - Vector1_bb8cd3f645ea4880b00353dc7c3eb870: 1
+    - Vector1_bb8cd3f645ea4880b00353dc7c3eb870_1: 1
+    - Vector1_bb8cd3f645ea4880b00353dc7c3eb870_2: 1
+    - Vector1_bb8cd3f645ea4880b00353dc7c3eb870_3: 1
+    - Vector1_fd3d4ecbe35c4a43bfce8f0032af8d77: 0
+    - Vector1_fd3d4ecbe35c4a43bfce8f0032af8d77_1: 0
+    - Vector1_fd3d4ecbe35c4a43bfce8f0032af8d77_2: 0
+    - Vector1_fd3d4ecbe35c4a43bfce8f0032af8d77_3: 0
+    - _AddPrecomputedVelocity: 0
+    - _AlphaClip: 0
+    - _AlphaCutoffEnable: 0
+    - _AlphaDstBlend: 0
+    - _AlphaSrcBlend: 1
+    - _AlphaToMask: 0
+    - _AlphaToMaskInspectorValue: 0
+    - _Blend: 0
+    - _BlendMode: 0
+    - _BlendModePreserveSpecular: 0
+    - _CastShadows: 1
+    - _ConservativeDepthOffsetEnable: 0
+    - _Cull: 2
+    - _CullMode: 2
+    - _CullModeForward: 2
+    - _DepthOffsetEnable: 0
+    - _DoubleSidedEnable: 0
+    - _DoubleSidedGIMode: 0
+    - _DoubleSidedNormalMode: 2
+    - _DstBlend: 0
+    - _DstBlend2: 0
+    - _EnableBlendModePreserveSpecularLighting: 1
+    - _EnableFogOnTransparent: 1
+    - _ExcludeFromTUAndAA: 0
+    - _MaterialID: 1
+    - _MaterialTypeMask: 2
+    - _OpaqueCullMode: 2
+    - _PerPixelSorting: 0
+    - _QueueControl: 1
+    - _QueueOffset: 0
+    - _RayTracing: 0
+    - _ReceiveShadows: 1
+    - _ReceivesSSR: 1
+    - _ReceivesSSRTransparent: 0
+    - _RefractionModel: 0
+    - _RenderQueueType: 1
+    - _RequireSplitLighting: 0
+    - _SrcBlend: 1
+    - _StencilRef: 0
+    - _StencilRefDepth: 8
+    - _StencilRefDistortionVec: 4
+    - _StencilRefGBuffer: 10
+    - _StencilRefMV: 40
+    - _StencilWriteMask: 6
+    - _StencilWriteMaskDepth: 9
+    - _StencilWriteMaskDistortionVec: 4
+    - _StencilWriteMaskGBuffer: 15
+    - _StencilWriteMaskMV: 41
+    - _SupportDecals: 1
+    - _Surface: 0
+    - _SurfaceType: 0
+    - _TransmissionEnable: 1
+    - _TransparentBackfaceEnable: 0
+    - _TransparentCullMode: 2
+    - _TransparentDepthPostpassEnable: 0
+    - _TransparentDepthPrepassEnable: 0
+    - _TransparentSortPriority: 0
+    - _TransparentWritingMotionVec: 0
+    - _TransparentZWrite: 0
+    - _UseShadowThreshold: 0
+    - _WorkflowMode: 1
+    - _ZTest: 4
+    - _ZTestDepthEqualForOpaque: 3
+    - _ZTestGBuffer: 4
+    - _ZTestTransparent: 4
+    - _ZWrite: 1
+    - _ZWriteControl: 0
+    m_Colors:
+    - Color_1: {r: 1, g: 0.94117653, b: 0.9568628, a: 0}
+    - Color_2: {r: 1, g: 0.94117653, b: 0.9568628, a: 0}
+    - Color_3: {r: 1, g: 0.94117653, b: 0.9568628, a: 0}
+    - Color_49e56bef02fb4601a99acf7bacc1dd49: {r: 1, g: 0.94, b: 0.9565489, a: 0}
+    - _DoubleSidedConstants: {r: 1, g: 1, b: -1, a: 0}
+    - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1
