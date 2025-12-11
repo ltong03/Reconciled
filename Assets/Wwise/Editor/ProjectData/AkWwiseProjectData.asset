@@ -766,8 +766,8 @@ MonoBehaviour:
         guid: 86ea848c50d28842a93226cf786e6336
       Path: Events\Player\Player\pc_footstep
       maxAttenuation: 0
-      maxDuration: 0.5838587
-      minDuration: 0.21941143
+      maxDuration: 0.5297316
+      minDuration: 0.074068114
     - name: Player
       guid: c92c6974617b1c4a9bc5cd540e657af3
       id: 1069431850
@@ -796,7 +796,7 @@ MonoBehaviour:
     ParentPath: Events\SFX
     guid: 2cc9f7de768ed0438ccdeb90754e6c75
     GuidInternal: 
-    m_lastTime: -8584393726640069544
+    m_lastTime: -8584361143215479258
     List:
     - name: door_open
       guid: c84218451e03cc4e8ebda8c04223ed91
@@ -878,6 +878,26 @@ MonoBehaviour:
       maxAttenuation: 0
       maxDuration: 212.32349
       minDuration: 212.32349
+    - name: map_openclose
+      guid: 10703017101bad469bf838b557200d0b
+      id: 831022004
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: SFX
+        ObjectType: 12
+        guid: 2cc9f7de768ed0438ccdeb90754e6c75
+      - ElementName: UI
+        ObjectType: 4
+        guid: e3cf47e4fe5d424ea7f85e13687fc6cc
+      - ElementName: map_openclose
+        ObjectType: 3
+        guid: 10703017101bad469bf838b557200d0b
+      Path: Events\SFX\UI\map_openclose
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
     - name: mes_send
       guid: 7d67df945f9db94e8e7379de6505be84
       id: 4090627927
@@ -1370,7 +1390,7 @@ MonoBehaviour:
     ParentPath: Switches\Default Work Unit
     guid: adb05593017a7144a61abc89c6266ef6
     GuidInternal: 
-    m_lastTime: -8584379035899177802
+    m_lastTime: -8584361143468669343
     List:
     - name: Floor_Material
       guid: cc7b3ea43a6de748a1e9d1506a02d96a
@@ -1536,6 +1556,56 @@ MonoBehaviour:
       ValueGuids: []
       ValueIcons: []
       valuesInternal: []
+    - name: Map_Type
+      guid: 4207a285213b3c41a62ed13a56764abf
+      id: 2725745592
+      PathAndIcons:
+      - ElementName: Switches
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: adb05593017a7144a61abc89c6266ef6
+      - ElementName: Map_Type
+        ObjectType: 11
+        guid: 4207a285213b3c41a62ed13a56764abf
+      Path: Switches\Default Work Unit\Map_Type
+      values:
+      - name: MapOne
+        guid: 57ff54404a28ea4786fc1a6ffad7c8fd
+        id: 2323396735
+        PathAndIcons:
+        - ElementName: Switches
+          ObjectType: 5
+          guid: 00000000000000000000000000000000
+        - ElementName: Default Work Unit
+          ObjectType: 12
+          guid: adb05593017a7144a61abc89c6266ef6
+        - ElementName: Map_Type
+          ObjectType: 11
+          guid: 4207a285213b3c41a62ed13a56764abf
+        - ElementName: MapOne
+          ObjectType: 10
+          guid: 57ff54404a28ea4786fc1a6ffad7c8fd
+      - name: MapTwo
+        guid: 60bdc6911d666742bd8762206914905f
+        id: 1936672669
+        PathAndIcons:
+        - ElementName: Switches
+          ObjectType: 5
+          guid: 00000000000000000000000000000000
+        - ElementName: Default Work Unit
+          ObjectType: 12
+          guid: adb05593017a7144a61abc89c6266ef6
+        - ElementName: Map_Type
+          ObjectType: 11
+          guid: 4207a285213b3c41a62ed13a56764abf
+        - ElementName: MapTwo
+          ObjectType: 10
+          guid: 60bdc6911d666742bd8762206914905f
+      ValueGuids: []
+      ValueIcons: []
+      valuesInternal: []
   TriggerWwu:
   - PhysicalPath: Triggers\Default Work Unit.wwu
     PathAndIcons:
@@ -1551,7 +1621,7 @@ MonoBehaviour:
     m_lastTime: -8584393726458025250
     List: []
   ExpandedFileSystemItemIds: 
-  ExpandedWaapiItemIds: 01000000050000000600000007000000080000001100000014000000150000001600000018000000
+  ExpandedWaapiItemIds: 010000000500000006000000070000000800000011000000140000001500000016000000180000001b0000001c0000001d000000
   AutoSyncSelection: 0
   autoPopulateEnabled: 1
   currentDataSource: 0

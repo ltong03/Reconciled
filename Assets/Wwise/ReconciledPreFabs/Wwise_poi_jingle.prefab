@@ -161,4 +161,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f0085f8cc8c0b6e4a840c756682279c9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  specificObjectTag: Body
+  specificObjectTag: Player
