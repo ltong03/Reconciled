@@ -2,7 +2,6 @@ using UnityEngine;
 
 public abstract class Interactable : MonoBehaviour
 {
-
-    //public abstract void interact();
+    // This function gets called when the player presses E on something interactable
     public abstract void Interact();
 }
