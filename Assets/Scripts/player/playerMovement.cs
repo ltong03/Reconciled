@@ -2,8 +2,8 @@ using UnityEngine;
 
 public class playerMovement : MonoBehaviour
 {
-    public Transform orientation;      
-    [SerializeField] private Transform playerBody; 
+    public Transform orientation;
+    [SerializeField] private Transform playerBody;
     [SerializeField] private Transform cameraPitch;
 
     CharacterController controller;
@@ -16,15 +16,19 @@ public class playerMovement : MonoBehaviour
     public float crouchHeight = 0.5f;
     public float crouchSpeed = 0.5f;
 
-    // Pitch clamp (adjust to taste)
-    [SerializeField] float minPitch = -60f; 
-    [SerializeField] float maxPitch = 70f; 
+    [SerializeField] float minPitch = -60f;
+    [SerializeField] float maxPitch = 65f;
 
     float rotationY; // yaw
     float rotationX; // pitch
 
     public bool isMoving = false;
 
+    public void setMaxPitch(float clampValue)
+    {
+        maxPitch = clampValue;
+    }
+    
     void Start()
     {
         controller = GetComponent<CharacterController>();

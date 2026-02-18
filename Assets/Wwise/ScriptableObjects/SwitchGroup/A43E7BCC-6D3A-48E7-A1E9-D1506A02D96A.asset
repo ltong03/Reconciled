@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5e0ba9bf4d9a1d4bb2bde8a11046b1a, type: 3}
+  m_Name: A43E7BCC-6D3A-48E7-A1E9-D1506A02D96A
+  m_EditorClassIdentifier: 
+  objectName: Floor_Material
+  id: 3964766495
+  guid: A43E7BCC-6D3A-48E7-A1E9-D1506A02D96A

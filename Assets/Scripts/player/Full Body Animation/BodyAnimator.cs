@@ -4,6 +4,8 @@ public class BodyAnimator : MonoBehaviour
 {
     [SerializeField] private playerMovement movement;
     [SerializeField] private Animator animator;
+
+
     private void Update()
     {
         Vector3 velocity = movement.GetVelocity();
@@ -12,5 +14,7 @@ public class BodyAnimator : MonoBehaviour
 
         animator.SetFloat("forwardSpeed", forwardSpeed);
         animator.SetFloat("sideSpeed", sideSpeed);
+
     }
+
 }
