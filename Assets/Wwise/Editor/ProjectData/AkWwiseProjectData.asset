@@ -496,7 +496,7 @@ MonoBehaviour:
         ObjectType: 3
         guid: 947e7502a0190241b37812e5cd1a392c
       Path: Events\Ambiences\Ambiences\3D\amb_tree
-      maxAttenuation: 25
+      maxAttenuation: 15
       maxDuration: -1
       minDuration: -1
     - name: amb_tree_night
@@ -582,7 +582,7 @@ MonoBehaviour:
         ObjectType: 3
         guid: bd53933a2df9214bb6f26ee7394f6783
       Path: Events\Ambiences\Ambiences\3D\water_run
-      maxAttenuation: 25
+      maxAttenuation: 15
       maxDuration: -1
       minDuration: -1
   - PhysicalPath: Events\Default Work Unit.wwu
@@ -767,7 +767,7 @@ MonoBehaviour:
       Path: Events\Player\Player\pc_footstep
       maxAttenuation: 0
       maxDuration: 0.5297316
-      minDuration: 0.074068114
+      minDuration: 0.21941143
     - name: Player
       guid: c92c6974617b1c4a9bc5cd540e657af3
       id: 1069431850
