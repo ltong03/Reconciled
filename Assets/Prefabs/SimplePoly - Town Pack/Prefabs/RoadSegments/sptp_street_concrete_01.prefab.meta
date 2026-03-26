@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8b23b54510c08544b924f8e4502acc8f
+timeCreated: 1462620122
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 62400
+  packageName: SimplePoly - Town Pack
+  packageVersion: 1.0
+  assetPath: Assets/SimplePoly - Town Pack/Prefabs/RoadSegments/sptp_street_concrete_01.prefab
+  uploadId: 116775

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 30e2a587c4604ce43802c7a63b6638ed
+timeCreated: 1462619286
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 62400
+  packageName: SimplePoly - Town Pack
+  packageVersion: 1.0
+  assetPath: Assets/SimplePoly - Town Pack/Prefabs/Buildings/sptp_building_08.prefab
+  uploadId: 116775

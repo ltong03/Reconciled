@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 05fb03652e92efb42bc379e428d37bb0
+timeCreated: 1462619961
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 62400
+  packageName: SimplePoly - Town Pack
+  packageVersion: 1.0
+  assetPath: Assets/SimplePoly - Town Pack/Prefabs/Props/sptp_billboard_03.prefab
+  uploadId: 116775

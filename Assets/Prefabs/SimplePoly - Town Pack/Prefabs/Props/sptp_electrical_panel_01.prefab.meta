@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1d42226b8b4a94f4487b307b6b18dd43
+timeCreated: 1462619973
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 62400
+  packageName: SimplePoly - Town Pack
+  packageVersion: 1.0
+  assetPath: Assets/SimplePoly - Town Pack/Prefabs/Props/sptp_electrical_panel_01.prefab
+  uploadId: 116775

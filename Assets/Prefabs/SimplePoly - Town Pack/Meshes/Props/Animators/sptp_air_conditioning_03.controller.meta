@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5820c885bf1635c40b800e0ab9697fa9
+timeCreated: 1462614828
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 62400
+  packageName: SimplePoly - Town Pack
+  packageVersion: 1.0
+  assetPath: Assets/SimplePoly - Town Pack/Meshes/Props/Animators/sptp_air_conditioning_03.controller
+  uploadId: 116775

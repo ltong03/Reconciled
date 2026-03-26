@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d59da3d7b9c463c478d64b0722fd1ff5
+timeCreated: 1462633175
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 62400
+  packageName: SimplePoly - Town Pack
+  packageVersion: 1.0
+  assetPath: Assets/SimplePoly - Town Pack/Prefabs/RoadSegments/sptp_sidewalk_segment_03.prefab
+  uploadId: 116775

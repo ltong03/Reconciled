@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4000718aa726f174bb2a1e64ee9190cb
+timeCreated: 1462619956
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 62400
+  packageName: SimplePoly - Town Pack
+  packageVersion: 1.0
+  assetPath: Assets/SimplePoly - Town Pack/Prefabs/Props/sptp_bench_01.prefab
+  uploadId: 116775

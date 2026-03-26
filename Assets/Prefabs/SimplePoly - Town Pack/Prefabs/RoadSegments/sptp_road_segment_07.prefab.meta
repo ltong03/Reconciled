@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 581d1ebf3352b5346846e02aec6d28e0
+timeCreated: 1462620111
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 62400
+  packageName: SimplePoly - Town Pack
+  packageVersion: 1.0
+  assetPath: Assets/SimplePoly - Town Pack/Prefabs/RoadSegments/sptp_road_segment_07.prefab
+  uploadId: 116775

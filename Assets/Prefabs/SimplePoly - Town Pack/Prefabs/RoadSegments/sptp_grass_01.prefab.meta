@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a93a4058bd3225b4fb6d6b59fa5bc871
+timeCreated: 1462620126
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 62400
+  packageName: SimplePoly - Town Pack
+  packageVersion: 1.0
+  assetPath: Assets/SimplePoly - Town Pack/Prefabs/RoadSegments/sptp_grass_01.prefab
+  uploadId: 116775

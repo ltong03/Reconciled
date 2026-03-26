@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7f9ea44d759da6b4e995d9fa92373629
+timeCreated: 1462619987
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 62400
+  packageName: SimplePoly - Town Pack
+  packageVersion: 1.0
+  assetPath: Assets/SimplePoly - Town Pack/Prefabs/Props/sptp_traffic_light_01.prefab
+  uploadId: 116775

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bfdde53371ba3b349b61d5bafef700d7
+timeCreated: 1462619745
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 62400
+  packageName: SimplePoly - Town Pack
+  packageVersion: 1.0
+  assetPath: Assets/SimplePoly - Town Pack/Prefabs/Nature/sptp_tree_01.prefab
+  uploadId: 116775
