@@ -496,7 +496,7 @@ MonoBehaviour:
         ObjectType: 3
         guid: 947e7502a0190241b37812e5cd1a392c
       Path: Events\Ambiences\Ambiences\3D\amb_tree
-      maxAttenuation: 15
+      maxAttenuation: 25
       maxDuration: -1
       minDuration: -1
     - name: amb_tree_night
@@ -582,7 +582,7 @@ MonoBehaviour:
         ObjectType: 3
         guid: bd53933a2df9214bb6f26ee7394f6783
       Path: Events\Ambiences\Ambiences\3D\water_run
-      maxAttenuation: 15
+      maxAttenuation: 25
       maxDuration: -1
       minDuration: -1
   - PhysicalPath: Events\Default Work Unit.wwu
@@ -609,7 +609,7 @@ MonoBehaviour:
     ParentPath: Events\Music Cues
     guid: be3ca93f6b75a64688124ce16d631b84
     GuidInternal: 
-    m_lastTime: -8584393726640175640
+    m_lastTime: -8584361871833620854
     List:
     - name: play_poi_jingle
       guid: fb7324ee9a17d74e8ce9b0d45966597d
@@ -767,7 +767,7 @@ MonoBehaviour:
       Path: Events\Player\Player\pc_footstep
       maxAttenuation: 0
       maxDuration: 0.5297316
-      minDuration: 0.21941143
+      minDuration: 0.074068114
     - name: Player
       guid: c92c6974617b1c4a9bc5cd540e657af3
       id: 1069431850
@@ -1621,7 +1621,7 @@ MonoBehaviour:
     m_lastTime: -8584393726458025250
     List: []
   ExpandedFileSystemItemIds: 
-  ExpandedWaapiItemIds: 
+  ExpandedWaapiItemIds: 1800000019000000
   AutoSyncSelection: 0
   autoPopulateEnabled: 1
   currentDataSource: 0

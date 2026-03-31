@@ -10292,6 +10292,7 @@ GameObject:
   - component: {fileID: 1949413708}
   - component: {fileID: 1949413707}
   - component: {fileID: 1949413706}
+  - component: {fileID: 1949413713}
   m_Layer: 0
   m_Name: amb_tree
   m_TagString: Untagged
@@ -10489,6 +10490,30 @@ Transform:
   - {fileID: 1003845084}
   m_Father: {fileID: 983636154}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1949413713
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1949413705}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47c7be815a98a184fa45aa804e8b9c5e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  triggerList: f7e1664c
+  useOtherObject: 0
+  data:
+    idInternal: 0
+    valueGuidInternal: 
+    groupIdInternal: 0
+    groupGuidInternal: 
+    WwiseObjectReference: {fileID: 11400000, guid: bb932639098e8454896e6a55f50d485b, type: 2}
+  valueIdInternal: 0
+  groupIdInternal: 0
+  valueGuidInternal: 
+  groupGuidInternal: 
 --- !u!1001 &1950886102
 PrefabInstance:
   m_ObjectHideFlags: 0
