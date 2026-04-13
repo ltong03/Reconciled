@@ -1,0 +1,2640 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="16" SoundBankVersion="150">
+	<RootPaths>
+		<ProjectRoot>../../../../../../../Wwise Project/Reconciled</ProjectRoot>
+		<SourceFilesRoot>../../../../../../../Wwise Project/Reconciled/.cache/Windows</SourceFilesRoot>
+		<SoundBanksRoot>.</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>../../../../../../../Wwise Project/Reconciled/GeneratedSoundBanks/Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<SoundBanks>
+		<SoundBank Id="46385610" Type="User" GUID="{589BE90C-65EB-46D2-B3B5-4531F80F06CA}" Language="SFX" Hash="{E19BE2D9-9FE0-6D3F-C380-11250C4BA61F}">
+			<ShortName>PlayerHouse</ShortName>
+			<Path>PlayerHouse.bnk</Path>
+			<Media>
+				<File Id="52575897" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Dirt - SNK\Dirt-4.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Dirt - SNK/Dirt-4_326E223B.wem</CachePath>
+				</File>
+				<File Id="106093536" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Wood - SNK\Wood-5.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Wood - SNK/Wood-5_818F3B66.wem</CachePath>
+				</File>
+				<File Id="112472524" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Dirt - SNK\Dirt-4.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Dirt - SNK/Dirt-4_818F3B66.wem</CachePath>
+				</File>
+				<File Id="128395977" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Metal - BOOT\Metal-2.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Metal - BOOT/Metal-2_818F3B66.wem</CachePath>
+				</File>
+				<File Id="146124239" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>MapOneClose.wav</ShortName>
+					<CachePath>SFX/MapOneClose_818F3B66.wem</CachePath>
+				</File>
+				<File Id="171473709" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Grass\Grass-3.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Grass/Grass-3_818F3B66.wem</CachePath>
+				</File>
+				<File Id="173069506" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Stone - SNK\Stone-5.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Stone - SNK/Stone-5_00225573.wem</CachePath>
+				</File>
+				<File Id="205369667" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Grass\Grass-5.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Grass/Grass-5_818F3B66.wem</CachePath>
+				</File>
+				<File Id="292976887" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Wood - SNK\Wood-1.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Wood - SNK/Wood-1_818F3B66.wem</CachePath>
+				</File>
+				<File Id="299069138" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Stone - SNK\Stone-2.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Stone - SNK/Stone-2_00225573.wem</CachePath>
+				</File>
+				<File Id="354254966" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>4.12.26\PlayerHouse_Creak\PlayerHouse_Creak_2.wav</ShortName>
+					<CachePath>SFX/4.12.26/PlayerHouse_Creak/PlayerHouse_Creak_2_15C2CEFE.wem</CachePath>
+				</File>
+				<File Id="370590470" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Item Pick Up 1.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Item Pick Up 1_70D53CF4.wem</CachePath>
+				</File>
+				<File Id="396367671" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Item Pick Up 3.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Item Pick Up 3_E238D614.wem</CachePath>
+				</File>
+				<File Id="397850430" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Stone - SNK\Stone-1.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Stone - SNK/Stone-1_00225573.wem</CachePath>
+				</File>
+				<File Id="411523467" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Paper Enter.wav</ShortName>
+					<CachePath>SFX/Paper Enter_818F3B66.wem</CachePath>
+				</File>
+				<File Id="412958173" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Grass\Grass-6.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Grass/Grass-6_818F3B66.wem</CachePath>
+				</File>
+				<File Id="428349445" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Stone - SNK\Stone-4.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Stone - SNK/Stone-4_00225573.wem</CachePath>
+				</File>
+				<File Id="443053519" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Paper Down.wav</ShortName>
+					<CachePath>SFX/Paper Down_818F3B66.wem</CachePath>
+				</File>
+				<File Id="478435977" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>4.12.26\PlayerHouse_Creak\PlayerHouse_Creak_5.wav</ShortName>
+					<CachePath>SFX/4.12.26/PlayerHouse_Creak/PlayerHouse_Creak_5_048BED15.wem</CachePath>
+				</File>
+				<File Id="481181567" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Dirt - SNK\Dirt-5.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Dirt - SNK/Dirt-5_73865736.wem</CachePath>
+				</File>
+				<File Id="484174853" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Dirt - SNK\Dirt-3.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Dirt - SNK/Dirt-3_818F3B66.wem</CachePath>
+				</File>
+				<File Id="485969829" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Dirt - SNK\Dirt-1.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Dirt - SNK/Dirt-1_818F3B66.wem</CachePath>
+				</File>
+				<File Id="493420085" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Wood - SNK\Wood-3.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Wood - SNK/Wood-3_818F3B66.wem</CachePath>
+				</File>
+				<File Id="494505907" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>4.12.26\PlayerHouse_Creak\PlayerHouse_Creak_3.wav</ShortName>
+					<CachePath>SFX/4.12.26/PlayerHouse_Creak/PlayerHouse_Creak_3_048BED15.wem</CachePath>
+				</File>
+				<File Id="506537613" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Paper 1.wav</ShortName>
+					<CachePath>SFX/Paper 1_818F3B66.wem</CachePath>
+				</File>
+				<File Id="508518139" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Stone - SNK\Stone-6.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Stone - SNK/Stone-6_00225573.wem</CachePath>
+				</File>
+				<File Id="529024052" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>4.12.26\PlayerHouse_Creak\PlayerHouse_Creak_4.wav</ShortName>
+					<CachePath>SFX/4.12.26/PlayerHouse_Creak/PlayerHouse_Creak_4_048BED15.wem</CachePath>
+				</File>
+				<File Id="541567705" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Dirt - SNK\Dirt-1.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Dirt - SNK/Dirt-1_0F40F7A9.wem</CachePath>
+				</File>
+				<File Id="552256699" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Paper 2.wav</ShortName>
+					<CachePath>SFX/Paper 2_818F3B66.wem</CachePath>
+				</File>
+				<File Id="555749960" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>MapTwoOpen.wav</ShortName>
+					<CachePath>SFX/MapTwoOpen_818F3B66.wem</CachePath>
+				</File>
+				<File Id="570680781" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Dirt - SNK\Dirt-5.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Dirt - SNK/Dirt-5_818F3B66.wem</CachePath>
+				</File>
+				<File Id="574255775" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Wood - SNK\Wood-6.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Wood - SNK/Wood-6_818F3B66.wem</CachePath>
+				</File>
+				<File Id="578450807" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Metal - BOOT\Metal-5.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Metal - BOOT/Metal-5_818F3B66.wem</CachePath>
+				</File>
+				<File Id="608319785" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Paper 3.wav</ShortName>
+					<CachePath>SFX/Paper 3_818F3B66.wem</CachePath>
+				</File>
+				<File Id="655332947" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Grass\Grass-2.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Grass/Grass-2_818F3B66.wem</CachePath>
+				</File>
+				<File Id="668445724" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>4.12.26\PlayerHouse_Creak\PlayerHouse_Creak_1.wav</ShortName>
+					<CachePath>SFX/4.12.26/PlayerHouse_Creak/PlayerHouse_Creak_1_048BED15.wem</CachePath>
+				</File>
+				<File Id="781502698" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Item Pick Up 2.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Item Pick Up 2_7097BF2A.wem</CachePath>
+				</File>
+				<File Id="792051615" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Grass\Grass-4.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Grass/Grass-4_818F3B66.wem</CachePath>
+				</File>
+				<File Id="825444884" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>4.12.26\PlayerHouse_ClockTickLP.wav</ShortName>
+					<CachePath>SFX/4.12.26/PlayerHouse_ClockTickLP_30EF12F3.wem</CachePath>
+				</File>
+				<File Id="841367300" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Metal - BOOT\Metal-4.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Metal - BOOT/Metal-4_818F3B66.wem</CachePath>
+				</File>
+				<File Id="873220779" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Grass\Grass-1.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Grass/Grass-1_818F3B66.wem</CachePath>
+				</File>
+				<File Id="875258862" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>MapOneOpen.wav</ShortName>
+					<CachePath>SFX/MapOneOpen_818F3B66.wem</CachePath>
+				</File>
+				<File Id="915147561" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Wood - SNK\Wood-4.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Wood - SNK/Wood-4_818F3B66.wem</CachePath>
+				</File>
+				<File Id="940505135" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>4.12.26\PlayerHouse_RTLP.wav</ShortName>
+					<CachePath>SFX/4.12.26/PlayerHouse_RTLP_30EF12F3.wem</CachePath>
+				</File>
+				<File Id="953513443" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Metal - BOOT\Metal-3.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Metal - BOOT/Metal-3_818F3B66.wem</CachePath>
+				</File>
+				<File Id="970819885" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Wood - SNK\Wood-2.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Wood - SNK/Wood-2_818F3B66.wem</CachePath>
+				</File>
+				<File Id="995527268" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Stone - SNK\Stone-3.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Stone - SNK/Stone-3_00225573.wem</CachePath>
+				</File>
+				<File Id="1047848170" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>MapTwoClose.wav</ShortName>
+					<CachePath>SFX/MapTwoClose_818F3B66.wem</CachePath>
+				</File>
+				<File Id="1049879557" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Metal - BOOT\Metal-1.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Metal - BOOT/Metal-1_818F3B66.wem</CachePath>
+				</File>
+				<File Id="1062826730" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Dirt - SNK\Dirt-3.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Dirt - SNK/Dirt-3_0BD498E8.wem</CachePath>
+				</File>
+			</Media>
+			<Plugins>
+				<Custom>
+					<Plugin Id="491266841" Name="Silence" GUID="{965EA1AD-5D54-4879-920E-5C539F7D7847}" LibName="Wwise Silence" LibId="6619138"/>
+				</Custom>
+			</Plugins>
+			<Events>
+				<Event Id="188339144" Name="amb_playerhouse_RTLP" GUID="{CA5A209C-712F-4A1E-A705-25CD1CF618B8}" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="940505135"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="2154256363" Name="amb_playerhouseclock" GUID="{83497816-CF0A-4194-BB81-20406DD2A231}" MaxAttenuation="25" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="825444884"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="710205036" Name="amb_PlayerHouseCreaks" GUID="{2FAB5B62-AC0F-48DC-BE99-099AA42A94BB}" MaxAttenuation="25" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="354254966"/>
+						<MediaRef Id="478435977"/>
+						<MediaRef Id="494505907"/>
+						<MediaRef Id="529024052"/>
+						<MediaRef Id="668445724"/>
+					</MediaRefs>
+					<PluginRefs>
+						<Custom>
+							<PluginRef Id="491266841"/>
+						</Custom>
+					</PluginRefs>
+				</Event>
+				<Event Id="1455535776" Name="item_up" GUID="{C313B3C6-4891-4437-8336-9A54E443646D}" DurationType="OneShot" DurationMin="0.16752875" DurationMax="0.21910712">
+					<MediaRefs>
+						<MediaRef Id="370590470"/>
+						<MediaRef Id="396367671"/>
+						<MediaRef Id="781502698"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="831022004" Name="map_openclose" GUID="{17307010-1B10-46AD-9BF8-38B557200D0B}" DurationType="OneShot" DurationMin="0.375" DurationMax="1">
+					<SwitchContainers>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="1177793757" Id="2323396735" GUID="{4054FF57-284A-47EA-86FC-1A6FFAD7C8FD}"/>
+							<MediaRefs>
+								<MediaRef Id="146124239"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="1177793757" Id="1936672669" GUID="{91C6BD60-661D-4267-BD87-62206914905F}" Default="true"/>
+							<MediaRefs>
+								<MediaRef Id="1047848170"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="1177793757" Id="2323396735" GUID="{4054FF57-284A-47EA-86FC-1A6FFAD7C8FD}"/>
+							<MediaRefs>
+								<MediaRef Id="875258862"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="1177793757" Id="1936672669" GUID="{91C6BD60-661D-4267-BD87-62206914905F}" Default="true"/>
+							<MediaRefs>
+								<MediaRef Id="555749960"/>
+							</MediaRefs>
+						</SwitchContainer>
+					</SwitchContainers>
+				</Event>
+				<Event Id="3092587493" Name="Pause" GUID="{C2BF9A53-9D24-4664-866E-4B8177218DBE}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0">
+					<ActionSetState>
+						<ActionSetStateEntry GroupId="253445270" Id="319258907" Name="Paused" GUID="{7E399DF0-DDC6-493B-B112-E0F80DD22C5D}"/>
+					</ActionSetState>
+				</Event>
+				<Event Id="979341015" Name="pc_footstep" GUID="{8C84EA86-D250-4288-A932-26CF786E6336}" DurationType="OneShot" DurationMin="0.074068114" DurationMax="0.5297316">
+					<SwitchContainers>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="4274333454" Id="2195636714" GUID="{D8C27601-437A-415E-88E0-2EB8EA31D643}" Default="true"/>
+							<MediaRefs>
+								<MediaRef Id="112472524"/>
+								<MediaRef Id="484174853"/>
+								<MediaRef Id="485969829"/>
+								<MediaRef Id="570680781"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="4274333454" Id="1216965916" GUID="{C8A6D63C-9AE8-4C66-A270-F0AF0BB4D17F}"/>
+							<MediaRefs>
+								<MediaRef Id="173069506"/>
+								<MediaRef Id="299069138"/>
+								<MediaRef Id="397850430"/>
+								<MediaRef Id="428349445"/>
+								<MediaRef Id="508518139"/>
+								<MediaRef Id="995527268"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="4274333454" Id="2058049674" GUID="{CBE77A8A-E82C-4FF6-BB63-3906B86272BF}"/>
+							<MediaRefs>
+								<MediaRef Id="106093536"/>
+								<MediaRef Id="292976887"/>
+								<MediaRef Id="493420085"/>
+								<MediaRef Id="574255775"/>
+								<MediaRef Id="915147561"/>
+								<MediaRef Id="970819885"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="4274333454" Id="4248645337" GUID="{95CF5C96-F14E-4E5B-B14B-3150A73BDE11}"/>
+							<MediaRefs>
+								<MediaRef Id="52575897"/>
+								<MediaRef Id="171473709"/>
+								<MediaRef Id="205369667"/>
+								<MediaRef Id="412958173"/>
+								<MediaRef Id="481181567"/>
+								<MediaRef Id="541567705"/>
+								<MediaRef Id="655332947"/>
+								<MediaRef Id="792051615"/>
+								<MediaRef Id="873220779"/>
+								<MediaRef Id="1062826730"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="4274333454" Id="2473969246" GUID="{49B9E6F1-A8E5-49EC-AE85-AFF2C45AE9C8}"/>
+							<MediaRefs>
+								<MediaRef Id="128395977"/>
+								<MediaRef Id="578450807"/>
+								<MediaRef Id="841367300"/>
+								<MediaRef Id="953513443"/>
+								<MediaRef Id="1049879557"/>
+							</MediaRefs>
+						</SwitchContainer>
+					</SwitchContainers>
+				</Event>
+				<Event Id="1256202815" Name="Play" GUID="{7A920923-304E-46AC-B02C-FA01C247E748}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0">
+					<ActionSetState>
+						<ActionSetStateEntry GroupId="253445270" Id="1852808225" Name="Playing" GUID="{AFCBE0A6-6321-4477-B340-D5DF456C4776}"/>
+					</ActionSetState>
+				</Event>
+				<Event Id="3086540886" Name="StopAll" GUID="{5299644B-320A-495E-9B75-EB4E7F0F5F22}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+				<Event Id="2024222415" Name="ui_back" GUID="{0632CD9B-7B02-414B-A929-9CBE698468DB}" DurationType="OneShot" DurationMin="0.43304163" DurationMax="0.48607287">
+					<MediaRefs>
+						<MediaRef Id="443053519"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="1402340918" Name="ui_highlight" GUID="{EC9B4E7E-1F76-4511-8909-19F6FE32BDBC}" DurationType="OneShot" DurationMin="0.1857895" DurationMax="0.29195833">
+					<MediaRefs>
+						<MediaRef Id="506537613"/>
+						<MediaRef Id="552256699"/>
+						<MediaRef Id="608319785"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="2774129122" Name="ui_select" GUID="{8055328B-5A6B-4EAD-9163-FF9428284ED6}" DurationType="OneShot" DurationMin="0.625625" DurationMax="0.625625">
+					<MediaRefs>
+						<MediaRef Id="411523467"/>
+					</MediaRefs>
+				</Event>
+			</Events>
+			<StateGroups>
+				<StateGroup Id="253445270" Name="Pause_Play" GUID="{B0CDA361-659A-4BE4-8B29-6AE22E93AD0C}">
+					<States>
+						<State Id="319258907" Name="Paused" GUID="{7E399DF0-DDC6-493B-B112-E0F80DD22C5D}"/>
+						<State Id="748895195" Name="None" GUID="{1FC2AED3-1424-4205-8297-936A2B45E891}"/>
+						<State Id="1852808225" Name="Playing" GUID="{AFCBE0A6-6321-4477-B340-D5DF456C4776}"/>
+					</States>
+				</StateGroup>
+			</StateGroups>
+			<SwitchGroups>
+				<SwitchGroup Id="1177793757" Name="MapType" GUID="{85A20742-3B21-413C-A62E-D13A56764ABF}">
+					<Switches>
+						<Switch Id="1936672669" Name="MapTwo" GUID="{91C6BD60-661D-4267-BD87-62206914905F}"/>
+						<Switch Id="2323396735" Name="MapOne" GUID="{4054FF57-284A-47EA-86FC-1A6FFAD7C8FD}"/>
+					</Switches>
+				</SwitchGroup>
+				<SwitchGroup Id="2085770324" Name="ItemPickupType" GUID="{DC07056D-67FD-4225-8DA3-D75C3D50C652}">
+					<Switches>
+						<Switch Id="660835419" Name="Plastic" GUID="{BAD1991E-B3B3-4795-9E30-20351269AD8A}"/>
+						<Switch Id="2473969246" Name="Metal" GUID="{6DB9B8C3-02FB-4280-8819-D0941A4053C4}"/>
+						<Switch Id="3126687001" Name="Paper" GUID="{FB981DE4-9965-4455-8EA2-A9F5746E12D9}"/>
+					</Switches>
+				</SwitchGroup>
+				<SwitchGroup Id="4274333454" Name="FloorMaterial" GUID="{A43E7BCC-6D3A-48E7-A1E9-D1506A02D96A}">
+					<Switches>
+						<Switch Id="1216965916" Name="Stone" GUID="{C8A6D63C-9AE8-4C66-A270-F0AF0BB4D17F}"/>
+						<Switch Id="2058049674" Name="Wood" GUID="{CBE77A8A-E82C-4FF6-BB63-3906B86272BF}"/>
+						<Switch Id="2195636714" Name="Dirt" GUID="{D8C27601-437A-415E-88E0-2EB8EA31D643}"/>
+						<Switch Id="2473969246" Name="Metal" GUID="{49B9E6F1-A8E5-49EC-AE85-AFF2C45AE9C8}"/>
+						<Switch Id="4248645337" Name="Grass" GUID="{95CF5C96-F14E-4E5B-B14B-3150A73BDE11}"/>
+					</Switches>
+				</SwitchGroup>
+			</SwitchGroups>
+		</SoundBank>
+		<SoundBank Id="1355168291" Type="User" GUID="{701ECBBD-9C7B-4030-8CDB-749EE5D1C7B9}" Language="SFX" Hash="{7D3A1D17-0343-6C34-8493-2F1B99170A23}">
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+			<Plugins>
+				<ShareSets>
+					<Plugin Id="1551236760" Name="Small_Wooden_Room1" GUID="{F7CBE859-36A8-4174-B553-AE32A7FE95FA}" LibName="Wwise Matrix Reverb" LibId="7536643"/>
+				</ShareSets>
+				<AudioDevices>
+					<Plugin Id="2317455096" Name="No_Output" GUID="{C97D78A0-4F46-4F76-8C51-B057CD02082E}" LibName="No Output" LibId="11862023"/>
+					<Plugin Id="3859886410" Name="System" GUID="{F85D27BF-FCFF-41C5-A517-EE78E23E06A8}" LibName="System" LibId="11403271"/>
+				</AudioDevices>
+			</Plugins>
+			<Busses>
+				<Bus Id="95583227" Name="2DBeds" GUID="{C8E71925-D87A-47B1-95D5-FF559C3B608C}"/>
+				<Bus Id="429829542" Name="MusicCues" GUID="{0187664E-29E9-49B0-983E-455B700B3CB0}"/>
+				<Bus Id="540284219" Name="Specs" GUID="{3B53E90A-0212-48C6-8F6E-3BBA043AD30D}"/>
+				<Bus Id="907372660" Name="Dialogue_MSTR" GUID="{80021E96-6A54-4940-AAF4-B203033851E5}"/>
+				<Bus Id="1375983526" Name="Player_Locomotion" GUID="{56A0EBE7-6272-4BE5-80E3-1CBA78754F43}"/>
+				<Bus Id="1551306167" Name="UI" GUID="{FD86A6C3-BF96-4F9B-8C3A-537BDC970B81}"/>
+				<Bus Id="1730208058" Name="Player_Footsteps" GUID="{DCB0E702-D600-4F5B-8BA6-5A2C373ED849}"/>
+				<Bus Id="1763809259" Name="Music_MSTR" GUID="{696B2458-2AF8-4394-9B8B-920BDDD742A7}"/>
+				<Bus Id="2279675871" Name="Player_MSTR" GUID="{058AFBCF-7D19-4D38-8294-7210398FE87B}"/>
+				<Bus Id="2300499853" Name="Ambiences_MSTR" GUID="{E7B9246A-4869-45E1-BC8C-77E8F2C18C4E}"/>
+				<Bus Id="2422403844" Name="3DObjects" GUID="{6B6F2CE9-E2D2-43B9-9203-F60DC969CDC5}"/>
+				<Bus Id="2902955843" Name="SFX_MSTR" GUID="{D38563F0-D6C9-45C4-857D-7CC83AFCC123}"/>
+				<Bus Id="3633148295" Name="Player_Cloth" GUID="{7D66972B-71E2-4EB7-B16F-F3289283F3F0}"/>
+				<Bus Id="3803692087" Name="Master Audio Bus" GUID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}"/>
+			</Busses>
+			<AuxBusses>
+				<AuxBus Id="4154576717" Name="Amb_Verb" GUID="{1B3A8063-F568-4CA9-9AF9-3A245E619121}">
+					<PluginRefs>
+						<ShareSets>
+							<PluginRef Id="1551236760"/>
+						</ShareSets>
+					</PluginRefs>
+				</AuxBus>
+			</AuxBusses>
+			<GameParameters>
+				<GameParameter Id="3137397720" Name="HospitalEmergencyLevel" GUID="{CC507695-E9F7-49C8-AF03-D65DCF231FE0}"/>
+			</GameParameters>
+			<StateGroups>
+				<StateGroup Id="253445270" Name="Pause_Play" GUID="{B0CDA361-659A-4BE4-8B29-6AE22E93AD0C}">
+					<States>
+						<State Id="319258907" Name="Paused" GUID="{7E399DF0-DDC6-493B-B112-E0F80DD22C5D}"/>
+						<State Id="748895195" Name="None" GUID="{1FC2AED3-1424-4205-8297-936A2B45E891}"/>
+						<State Id="1852808225" Name="Playing" GUID="{AFCBE0A6-6321-4477-B340-D5DF456C4776}"/>
+					</States>
+				</StateGroup>
+				<StateGroup Id="2666809638" Name="Day_Night" GUID="{F49FB826-087E-4998-AD7C-EA8C6D4A1866}">
+					<States>
+						<State Id="311764537" Name="Day" GUID="{AB9A2C04-75CF-4A9F-800A-AD5871A76D4E}"/>
+						<State Id="748895195" Name="None" GUID="{D697A9CE-205F-4DD7-97A5-F65EB7974794}"/>
+						<State Id="1011622525" Name="Night" GUID="{4EEA3715-19A1-4958-8E97-9F271328DBB3}"/>
+					</States>
+				</StateGroup>
+				<StateGroup Id="3589756548" Name="Int_Ext" GUID="{317360B3-00A3-41AB-908A-AEA438C85F70}">
+					<States>
+						<State Id="748895195" Name="None" GUID="{A659707F-549A-4F54-B17A-4E304072A73F}"/>
+						<State Id="1132214669" Name="Interior" GUID="{11C974A0-7635-417A-B41B-1E6080971CB1}"/>
+						<State Id="2213992659" Name="Exterior" GUID="{275C8B29-9D69-4039-90A4-D662C431D039}"/>
+					</States>
+				</StateGroup>
+			</StateGroups>
+			<SwitchGroups>
+				<SwitchGroup Id="1177793757" Name="MapType" GUID="{85A20742-3B21-413C-A62E-D13A56764ABF}">
+					<Switches>
+						<Switch Id="1936672669" Name="MapTwo" GUID="{91C6BD60-661D-4267-BD87-62206914905F}"/>
+						<Switch Id="2323396735" Name="MapOne" GUID="{4054FF57-284A-47EA-86FC-1A6FFAD7C8FD}"/>
+					</Switches>
+				</SwitchGroup>
+				<SwitchGroup Id="2085770324" Name="ItemPickupType" GUID="{DC07056D-67FD-4225-8DA3-D75C3D50C652}">
+					<Switches>
+						<Switch Id="660835419" Name="Plastic" GUID="{BAD1991E-B3B3-4795-9E30-20351269AD8A}"/>
+						<Switch Id="2473969246" Name="Metal" GUID="{6DB9B8C3-02FB-4280-8819-D0941A4053C4}"/>
+						<Switch Id="3126687001" Name="Paper" GUID="{FB981DE4-9965-4455-8EA2-A9F5746E12D9}"/>
+					</Switches>
+				</SwitchGroup>
+				<SwitchGroup Id="4274333454" Name="FloorMaterial" GUID="{A43E7BCC-6D3A-48E7-A1E9-D1506A02D96A}">
+					<Switches>
+						<Switch Id="1216965916" Name="Stone" GUID="{C8A6D63C-9AE8-4C66-A270-F0AF0BB4D17F}"/>
+						<Switch Id="2058049674" Name="Wood" GUID="{CBE77A8A-E82C-4FF6-BB63-3906B86272BF}"/>
+						<Switch Id="2195636714" Name="Dirt" GUID="{D8C27601-437A-415E-88E0-2EB8EA31D643}"/>
+						<Switch Id="2473969246" Name="Metal" GUID="{49B9E6F1-A8E5-49EC-AE85-AFF2C45AE9C8}"/>
+						<Switch Id="4248645337" Name="Grass" GUID="{95CF5C96-F14E-4E5B-B14B-3150A73BDE11}"/>
+					</Switches>
+				</SwitchGroup>
+			</SwitchGroups>
+		</SoundBank>
+		<SoundBank Id="1640084191" Type="User" GUID="{214E70EA-9C52-4310-BB92-C663EAB1597D}" Language="SFX" Hash="{851B6A29-2912-A011-1B5A-D32FF2D76A8E}">
+			<ShortName>Hospital</ShortName>
+			<Path>Hospital.bnk</Path>
+			<Media>
+				<File Id="108230715" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>4.12.26\Hospital_RTLP.wav</ShortName>
+					<CachePath>SFX/4.12.26/Hospital_RTLP_30EF12F3.wem</CachePath>
+				</File>
+				<File Id="146124239" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>MapOneClose.wav</ShortName>
+					<CachePath>SFX/MapOneClose_818F3B66.wem</CachePath>
+				</File>
+				<File Id="158085481" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>4.12.26\Hospital_PulseBeepEmergencyLP.wav</ShortName>
+					<CachePath>SFX/4.12.26/Hospital_PulseBeepEmergencyLP_30EF12F3.wem</CachePath>
+				</File>
+				<File Id="268889924" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>4.12.26\ClockTicking_Reverse.wav</ShortName>
+					<CachePath>SFX/4.12.26/ClockTicking_Reverse_30EF12F3.wem</CachePath>
+				</File>
+				<File Id="411523467" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Paper Enter.wav</ShortName>
+					<CachePath>SFX/Paper Enter_818F3B66.wem</CachePath>
+				</File>
+				<File Id="443053519" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Paper Down.wav</ShortName>
+					<CachePath>SFX/Paper Down_818F3B66.wem</CachePath>
+				</File>
+				<File Id="506537613" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Paper 1.wav</ShortName>
+					<CachePath>SFX/Paper 1_818F3B66.wem</CachePath>
+				</File>
+				<File Id="552256699" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Paper 2.wav</ShortName>
+					<CachePath>SFX/Paper 2_818F3B66.wem</CachePath>
+				</File>
+				<File Id="555749960" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>MapTwoOpen.wav</ShortName>
+					<CachePath>SFX/MapTwoOpen_818F3B66.wem</CachePath>
+				</File>
+				<File Id="608319785" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Paper 3.wav</ShortName>
+					<CachePath>SFX/Paper 3_818F3B66.wem</CachePath>
+				</File>
+				<File Id="703621488" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>4.12.26\Hospital_HallwayWallaAmb_LP.wav</ShortName>
+					<CachePath>SFX/4.12.26/Hospital_HallwayWallaAmb_LP_30EF12F3.wem</CachePath>
+				</File>
+				<File Id="875258862" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>MapOneOpen.wav</ShortName>
+					<CachePath>SFX/MapOneOpen_818F3B66.wem</CachePath>
+				</File>
+				<File Id="1047848170" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>MapTwoClose.wav</ShortName>
+					<CachePath>SFX/MapTwoClose_818F3B66.wem</CachePath>
+				</File>
+				<File Id="1069135987" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>4.12.26\Hospital_PulseBeepLP.wav</ShortName>
+					<CachePath>SFX/4.12.26/Hospital_PulseBeepLP_5C48BE6C.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="1129358760" Name="amb_hospital_HallwayWallaLP" GUID="{B5937699-5ABD-4792-9DE4-1EB2F103DEBF}" MaxAttenuation="25" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="703621488"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="1427742734" Name="amb_hospital_pulsebeep" GUID="{87BC8372-842A-4D8A-AB6D-26A3F9102EF1}" MaxAttenuation="25" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="158085481"/>
+						<MediaRef Id="1069135987"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="2735573785" Name="amb_hospital_RTLP" GUID="{7A3D5B1F-51CC-442F-99A1-57DE0FCABFDC}" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="108230715"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="1288303153" Name="amb_reverseClockTick" GUID="{697019A3-A5A3-49B8-870B-47156E745CFE}" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="268889924"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="831022004" Name="map_openclose" GUID="{17307010-1B10-46AD-9BF8-38B557200D0B}" DurationType="OneShot" DurationMin="0.375" DurationMax="1">
+					<SwitchContainers>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="1177793757" Id="2323396735" GUID="{4054FF57-284A-47EA-86FC-1A6FFAD7C8FD}"/>
+							<MediaRefs>
+								<MediaRef Id="146124239"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="1177793757" Id="1936672669" GUID="{91C6BD60-661D-4267-BD87-62206914905F}" Default="true"/>
+							<MediaRefs>
+								<MediaRef Id="1047848170"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="1177793757" Id="2323396735" GUID="{4054FF57-284A-47EA-86FC-1A6FFAD7C8FD}"/>
+							<MediaRefs>
+								<MediaRef Id="875258862"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="1177793757" Id="1936672669" GUID="{91C6BD60-661D-4267-BD87-62206914905F}" Default="true"/>
+							<MediaRefs>
+								<MediaRef Id="555749960"/>
+							</MediaRefs>
+						</SwitchContainer>
+					</SwitchContainers>
+				</Event>
+				<Event Id="3092587493" Name="Pause" GUID="{C2BF9A53-9D24-4664-866E-4B8177218DBE}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0">
+					<ActionSetState>
+						<ActionSetStateEntry GroupId="253445270" Id="319258907" Name="Paused" GUID="{7E399DF0-DDC6-493B-B112-E0F80DD22C5D}"/>
+					</ActionSetState>
+				</Event>
+				<Event Id="1256202815" Name="Play" GUID="{7A920923-304E-46AC-B02C-FA01C247E748}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0">
+					<ActionSetState>
+						<ActionSetStateEntry GroupId="253445270" Id="1852808225" Name="Playing" GUID="{AFCBE0A6-6321-4477-B340-D5DF456C4776}"/>
+					</ActionSetState>
+				</Event>
+				<Event Id="3086540886" Name="StopAll" GUID="{5299644B-320A-495E-9B75-EB4E7F0F5F22}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+				<Event Id="2024222415" Name="ui_back" GUID="{0632CD9B-7B02-414B-A929-9CBE698468DB}" DurationType="OneShot" DurationMin="0.43304163" DurationMax="0.48607287">
+					<MediaRefs>
+						<MediaRef Id="443053519"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="1402340918" Name="ui_highlight" GUID="{EC9B4E7E-1F76-4511-8909-19F6FE32BDBC}" DurationType="OneShot" DurationMin="0.1857895" DurationMax="0.29195833">
+					<MediaRefs>
+						<MediaRef Id="506537613"/>
+						<MediaRef Id="552256699"/>
+						<MediaRef Id="608319785"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="2774129122" Name="ui_select" GUID="{8055328B-5A6B-4EAD-9163-FF9428284ED6}" DurationType="OneShot" DurationMin="0.625625" DurationMax="0.625625">
+					<MediaRefs>
+						<MediaRef Id="411523467"/>
+					</MediaRefs>
+				</Event>
+			</Events>
+			<GameParameters>
+				<GameParameter Id="3137397720" Name="HospitalEmergencyLevel" GUID="{CC507695-E9F7-49C8-AF03-D65DCF231FE0}"/>
+			</GameParameters>
+			<StateGroups>
+				<StateGroup Id="253445270" Name="Pause_Play" GUID="{B0CDA361-659A-4BE4-8B29-6AE22E93AD0C}">
+					<States>
+						<State Id="319258907" Name="Paused" GUID="{7E399DF0-DDC6-493B-B112-E0F80DD22C5D}"/>
+						<State Id="748895195" Name="None" GUID="{1FC2AED3-1424-4205-8297-936A2B45E891}"/>
+						<State Id="1852808225" Name="Playing" GUID="{AFCBE0A6-6321-4477-B340-D5DF456C4776}"/>
+					</States>
+				</StateGroup>
+			</StateGroups>
+			<SwitchGroups>
+				<SwitchGroup Id="1177793757" Name="MapType" GUID="{85A20742-3B21-413C-A62E-D13A56764ABF}">
+					<Switches>
+						<Switch Id="1936672669" Name="MapTwo" GUID="{91C6BD60-661D-4267-BD87-62206914905F}"/>
+						<Switch Id="2323396735" Name="MapOne" GUID="{4054FF57-284A-47EA-86FC-1A6FFAD7C8FD}"/>
+					</Switches>
+				</SwitchGroup>
+			</SwitchGroups>
+		</SoundBank>
+		<SoundBank Id="2324544614" Type="User" GUID="{529908EF-CFFD-4A97-84CE-E6B3BED39D74}" Language="SFX" Hash="{3E7A6CA9-2AC5-35ED-F081-9F22418584BA}">
+			<ShortName>GardenScene</ShortName>
+			<Path>GardenScene.bnk</Path>
+			<Media>
+				<File Id="21816582" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Soundly Audio\Ambience, Birdsong, Singing Birds, Early Morning SND11282.wav</ShortName>
+					<CachePath>SFX/Soundly Audio/Ambience, Birdsong, Singing Birds, Early Morning SND11282_2F4FFD2C.wem</CachePath>
+				</File>
+				<File Id="35119013" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Soundly Audio\Explosions, Real, Boom, Distant Explosion, Low, Muffled 01 SND46332 3.wav</ShortName>
+					<CachePath>SFX/Soundly Audio/Explosions, Real, Boom, Distant Explosion, Low, Muffled 01 SND46332 3_84B06475.wem</CachePath>
+				</File>
+				<File Id="37551296" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Soundly Audio\Wind, Vegetation, Forest, Leaves 01  SND0247.wav</ShortName>
+					<CachePath>SFX/Soundly Audio/Wind, Vegetation, Forest, Leaves 01  SND0247_0C8BAEA9.wem</CachePath>
+				</File>
+				<File Id="48194156" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Soundly Audio\Ambience, Birdsong, Singing Birds, Early Morning SND11282.wav</ShortName>
+					<CachePath>SFX/Soundly Audio/Ambience, Birdsong, Singing Birds, Early Morning SND11282_313FE811.wem</CachePath>
+				</File>
+				<File Id="52575897" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Dirt - SNK\Dirt-4.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Dirt - SNK/Dirt-4_326E223B.wem</CachePath>
+				</File>
+				<File Id="85367466" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Soundly Audio\Vegetation, Leaves, Leaf, Dry, Rustling, Soft SND11550.wav</ShortName>
+					<CachePath>SFX/Soundly Audio/Vegetation, Leaves, Leaf, Dry, Rustling, Soft SND11550_2EC9AC07.wem</CachePath>
+				</File>
+				<File Id="103026209" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Soundly Audio\337087__anthousai__writing-pen-wide-01 2.wav</ShortName>
+					<CachePath>SFX/Soundly Audio/337087__anthousai__writing-pen-wide-01 2_2C9EF63A.wem</CachePath>
+				</File>
+				<File Id="106093536" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Wood - SNK\Wood-5.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Wood - SNK/Wood-5_818F3B66.wem</CachePath>
+				</File>
+				<File Id="112472524" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Dirt - SNK\Dirt-4.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Dirt - SNK/Dirt-4_818F3B66.wem</CachePath>
+				</File>
+				<File Id="128395977" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Metal - BOOT\Metal-2.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Metal - BOOT/Metal-2_818F3B66.wem</CachePath>
+				</File>
+				<File Id="137656265" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Soundly Audio\Wind, Vegetation, Forest, Leaves 01  SND0247.wav</ShortName>
+					<CachePath>SFX/Soundly Audio/Wind, Vegetation, Forest, Leaves 01  SND0247_98BDD8B7.wem</CachePath>
+				</File>
+				<File Id="146124239" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>MapOneClose.wav</ShortName>
+					<CachePath>SFX/MapOneClose_818F3B66.wem</CachePath>
+				</File>
+				<File Id="163733945" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Soundly Audio\Musical, Chime, Wind Chimes, Ringing SND0729 7.wav</ShortName>
+					<CachePath>SFX/Soundly Audio/Musical, Chime, Wind Chimes, Ringing SND0729 7_53C770CD.wem</CachePath>
+				</File>
+				<File Id="171473709" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Grass\Grass-3.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Grass/Grass-3_818F3B66.wem</CachePath>
+				</File>
+				<File Id="171826125" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Soundly Audio\Metal, Movement, Metal Sign, Rattle, Quiet   Calm, Small Movements SND129198 1.wav</ShortName>
+					<CachePath>SFX/Soundly Audio/Metal, Movement, Metal Sign, Rattle, Quiet   Calm, Small Movements SND129198 1_E08BB1C9.wem</CachePath>
+				</File>
+				<File Id="173069506" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Stone - SNK\Stone-5.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Stone - SNK/Stone-5_00225573.wem</CachePath>
+				</File>
+				<File Id="194177673" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Owl Cleaned Up.wav</ShortName>
+					<CachePath>SFX/Owl Cleaned Up_3A19AEC9.wem</CachePath>
+				</File>
+				<File Id="205369667" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Grass\Grass-5.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Grass/Grass-5_818F3B66.wem</CachePath>
+				</File>
+				<File Id="228319950" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>POI Found.wav</ShortName>
+					<CachePath>SFX/POI Found_839F1F28.wem</CachePath>
+				</File>
+				<File Id="254117256" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Soundly Audio\Birds, Crow, Raven, Squawk, Call, Light Wind SND129211.wav</ShortName>
+					<CachePath>SFX/Soundly Audio/Birds, Crow, Raven, Squawk, Call, Light Wind SND129211_36D1E070.wem</CachePath>
+				</File>
+				<File Id="260019495" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Soundly Audio\Ambience, Birdsong, Singing Birds, Early Morning SND11282.wav</ShortName>
+					<CachePath>SFX/Soundly Audio/Ambience, Birdsong, Singing Birds, Early Morning SND11282_18FE28D0.wem</CachePath>
+				</File>
+				<File Id="292976887" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Wood - SNK\Wood-1.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Wood - SNK/Wood-1_818F3B66.wem</CachePath>
+				</File>
+				<File Id="299069138" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Stone - SNK\Stone-2.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Stone - SNK/Stone-2_00225573.wem</CachePath>
+				</File>
+				<File Id="347355325" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Owl Cleaned Up.wav</ShortName>
+					<CachePath>SFX/Owl Cleaned Up_22E3AB6B.wem</CachePath>
+				</File>
+				<File Id="349373469" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Soundly Audio\Musical, Chime, Wind Chimes, Ringing SND0729 7.wav</ShortName>
+					<CachePath>SFX/Soundly Audio/Musical, Chime, Wind Chimes, Ringing SND0729 7_CAE4C316.wem</CachePath>
+				</File>
+				<File Id="370590470" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Item Pick Up 1.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Item Pick Up 1_70D53CF4.wem</CachePath>
+				</File>
+				<File Id="376073963" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Soundly Audio\Metal, Movement, Metal Sign, Rattle, Quiet   Calm, Small Movements SND129198 1.wav</ShortName>
+					<CachePath>SFX/Soundly Audio/Metal, Movement, Metal Sign, Rattle, Quiet   Calm, Small Movements SND129198 1_4ED8CD2A.wem</CachePath>
+				</File>
+				<File Id="396367671" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Item Pick Up 3.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Item Pick Up 3_E238D614.wem</CachePath>
+				</File>
+				<File Id="397850430" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Stone - SNK\Stone-1.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Stone - SNK/Stone-1_00225573.wem</CachePath>
+				</File>
+				<File Id="411523467" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Paper Enter.wav</ShortName>
+					<CachePath>SFX/Paper Enter_818F3B66.wem</CachePath>
+				</File>
+				<File Id="412958173" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Grass\Grass-6.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Grass/Grass-6_818F3B66.wem</CachePath>
+				</File>
+				<File Id="428349445" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Stone - SNK\Stone-4.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Stone - SNK/Stone-4_00225573.wem</CachePath>
+				</File>
+				<File Id="434289978" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Soundly Audio\Animals, Bat, Mexican Free Tail Bat, Chatter SND61997.wav</ShortName>
+					<CachePath>SFX/Soundly Audio/Animals, Bat, Mexican Free Tail Bat, Chatter SND61997_DCF0CABF.wem</CachePath>
+				</File>
+				<File Id="440238639" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Ambience, Insect, Crickets, Village, Night, Peaceful, Summer Night (30) (LCR) SND37134 1.wav</ShortName>
+					<CachePath>SFX/Ambience, Insect, Crickets, Village, Night, Peaceful, Summer Night (30) (LCR) SND37134 1_5DD44C57.wem</CachePath>
+				</File>
+				<File Id="443053519" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Paper Down.wav</ShortName>
+					<CachePath>SFX/Paper Down_818F3B66.wem</CachePath>
+				</File>
+				<File Id="476067684" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Soundly Audio\Animals, Bat, Mexican Free Tail Bat, Chatter SND61997.wav</ShortName>
+					<CachePath>SFX/Soundly Audio/Animals, Bat, Mexican Free Tail Bat, Chatter SND61997_2E73E00A.wem</CachePath>
+				</File>
+				<File Id="481181567" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Dirt - SNK\Dirt-5.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Dirt - SNK/Dirt-5_73865736.wem</CachePath>
+				</File>
+				<File Id="484174853" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Dirt - SNK\Dirt-3.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Dirt - SNK/Dirt-3_818F3B66.wem</CachePath>
+				</File>
+				<File Id="485969829" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Dirt - SNK\Dirt-1.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Dirt - SNK/Dirt-1_818F3B66.wem</CachePath>
+				</File>
+				<File Id="493420085" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Wood - SNK\Wood-3.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Wood - SNK/Wood-3_818F3B66.wem</CachePath>
+				</File>
+				<File Id="506537613" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Paper 1.wav</ShortName>
+					<CachePath>SFX/Paper 1_818F3B66.wem</CachePath>
+				</File>
+				<File Id="508518139" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Stone - SNK\Stone-6.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Stone - SNK/Stone-6_00225573.wem</CachePath>
+				</File>
+				<File Id="536773767" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>4.12.26\Wedding_RTLP.wav</ShortName>
+					<CachePath>SFX/4.12.26/Wedding_RTLP_30EF12F3.wem</CachePath>
+				</File>
+				<File Id="541567705" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Dirt - SNK\Dirt-1.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Dirt - SNK/Dirt-1_0F40F7A9.wem</CachePath>
+				</File>
+				<File Id="543049121" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Wind, General, Gusts, Snow, Rustling, Howling 02 SND11624 2.wav</ShortName>
+					<CachePath>SFX/Wind, General, Gusts, Snow, Rustling, Howling 02 SND11624 2_2CC58E1D.wem</CachePath>
+				</File>
+				<File Id="552256699" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Paper 2.wav</ShortName>
+					<CachePath>SFX/Paper 2_818F3B66.wem</CachePath>
+				</File>
+				<File Id="555749960" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>MapTwoOpen.wav</ShortName>
+					<CachePath>SFX/MapTwoOpen_818F3B66.wem</CachePath>
+				</File>
+				<File Id="556868249" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Owl Cleaned Up.wav</ShortName>
+					<CachePath>SFX/Owl Cleaned Up_DC73EF54.wem</CachePath>
+				</File>
+				<File Id="570680781" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Dirt - SNK\Dirt-5.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Dirt - SNK/Dirt-5_818F3B66.wem</CachePath>
+				</File>
+				<File Id="574255775" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Wood - SNK\Wood-6.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Wood - SNK/Wood-6_818F3B66.wem</CachePath>
+				</File>
+				<File Id="578450807" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Metal - BOOT\Metal-5.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Metal - BOOT/Metal-5_818F3B66.wem</CachePath>
+				</File>
+				<File Id="593116682" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Soundly Audio\Metal, Movement, Metal Sign, Rattle, Quiet   Calm, Small Movements SND129198 1.wav</ShortName>
+					<CachePath>SFX/Soundly Audio/Metal, Movement, Metal Sign, Rattle, Quiet   Calm, Small Movements SND129198 1_476E39E5.wem</CachePath>
+				</File>
+				<File Id="608319785" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Paper 3.wav</ShortName>
+					<CachePath>SFX/Paper 3_818F3B66.wem</CachePath>
+				</File>
+				<File Id="621696556" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Soundly Audio\Musical, Chime, Wind Chimes, Up, Down, Long 02 SND45598.wav</ShortName>
+					<CachePath>SFX/Soundly Audio/Musical, Chime, Wind Chimes, Up, Down, Long 02 SND45598_0DD6F7F5.wem</CachePath>
+				</File>
+				<File Id="630464976" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Soundly Audio\Wind, Vegetation, Forest, Leaves 01  SND0247.wav</ShortName>
+					<CachePath>SFX/Soundly Audio/Wind, Vegetation, Forest, Leaves 01  SND0247_EC769481.wem</CachePath>
+				</File>
+				<File Id="641851743" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Soundly Audio\Animals, Bat, Mexican Free Tail Bat, Chatter SND61997.wav</ShortName>
+					<CachePath>SFX/Soundly Audio/Animals, Bat, Mexican Free Tail Bat, Chatter SND61997_E42FB2A1.wem</CachePath>
+				</File>
+				<File Id="650243767" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Soundly Audio\Ambience, Birdsong, Singing Birds, Early Morning SND11282.wav</ShortName>
+					<CachePath>SFX/Soundly Audio/Ambience, Birdsong, Singing Birds, Early Morning SND11282_965EA873.wem</CachePath>
+				</File>
+				<File Id="655332947" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Grass\Grass-2.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Grass/Grass-2_818F3B66.wem</CachePath>
+				</File>
+				<File Id="667213475" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Soundly Audio\Aircraft, Military, Fighter Jet, F 35, Flybys, MKH40 01 SND145592.wav</ShortName>
+					<CachePath>SFX/Soundly Audio/Aircraft, Military, Fighter Jet, F 35, Flybys, MKH40 01 SND145592_5002ACA2.wem</CachePath>
+				</File>
+				<File Id="675993333" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Soundly Audio\Ambience, Birdsong, Singing Birds, Early Morning SND11282.wav</ShortName>
+					<CachePath>SFX/Soundly Audio/Ambience, Birdsong, Singing Birds, Early Morning SND11282_50F8F737.wem</CachePath>
+				</File>
+				<File Id="694698294" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Soundly Audio\Birds, Crow, Raven, Squawk, Call, Light Wind SND129211 4.wav</ShortName>
+					<CachePath>SFX/Soundly Audio/Birds, Crow, Raven, Squawk, Call, Light Wind SND129211 4_48E70A42.wem</CachePath>
+				</File>
+				<File Id="698629590" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Soundly Audio\Explosions, Real, Boom, Distant Explosion, Low, Muffled 01 SND46332 3.wav</ShortName>
+					<CachePath>SFX/Soundly Audio/Explosions, Real, Boom, Distant Explosion, Low, Muffled 01 SND46332 3_3373CC57.wem</CachePath>
+				</File>
+				<File Id="712245873" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Soundly Audio\Animals, Bat, Mexican Free Tail Bat, Chatter SND61997.wav</ShortName>
+					<CachePath>SFX/Soundly Audio/Animals, Bat, Mexican Free Tail Bat, Chatter SND61997_8301081A.wem</CachePath>
+				</File>
+				<File Id="720565276" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Soundly Audio\Musical, Chime, Wind Chimes, Ringing SND0729 7.wav</ShortName>
+					<CachePath>SFX/Soundly Audio/Musical, Chime, Wind Chimes, Ringing SND0729 7_7A1C66DE.wem</CachePath>
+				</File>
+				<File Id="725525927" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Soundly Audio\Ambience, Birdsong, Singing Birds, Early Morning SND11282.wav</ShortName>
+					<CachePath>SFX/Soundly Audio/Ambience, Birdsong, Singing Birds, Early Morning SND11282_1E70A432.wem</CachePath>
+				</File>
+				<File Id="731165589" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Soundly Audio\Paper, Handle, Sheets, Many, Crumpled, Compress, Movement SND18033 2.wav</ShortName>
+					<CachePath>SFX/Soundly Audio/Paper, Handle, Sheets, Many, Crumpled, Compress, Movement SND18033 2_AD27ED8D.wem</CachePath>
+				</File>
+				<File Id="737733773" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Soundly Audio\Animals, Bat, Mexican Free Tail Bat, Chatter SND61997.wav</ShortName>
+					<CachePath>SFX/Soundly Audio/Animals, Bat, Mexican Free Tail Bat, Chatter SND61997_2D1E9EC6.wem</CachePath>
+				</File>
+				<File Id="741618255" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Water Running.wav</ShortName>
+					<CachePath>SFX/Water Running_CA803487.wem</CachePath>
+				</File>
+				<File Id="777262149" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Owl Cleaned Up.wav</ShortName>
+					<CachePath>SFX/Owl Cleaned Up_3D285160.wem</CachePath>
+				</File>
+				<File Id="781502698" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Item Pick Up 2.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Item Pick Up 2_7097BF2A.wem</CachePath>
+				</File>
+				<File Id="792051615" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Grass\Grass-4.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Grass/Grass-4_818F3B66.wem</CachePath>
+				</File>
+				<File Id="841367300" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Metal - BOOT\Metal-4.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Metal - BOOT/Metal-4_818F3B66.wem</CachePath>
+				</File>
+				<File Id="873220779" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Grass\Grass-1.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Grass/Grass-1_818F3B66.wem</CachePath>
+				</File>
+				<File Id="875258862" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>MapOneOpen.wav</ShortName>
+					<CachePath>SFX/MapOneOpen_818F3B66.wem</CachePath>
+				</File>
+				<File Id="876670537" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Soundly Audio\Birds, Crow, Raven, Squawk, Call, Light Wind SND129211.wav</ShortName>
+					<CachePath>SFX/Soundly Audio/Birds, Crow, Raven, Squawk, Call, Light Wind SND129211_5E8A5A38.wem</CachePath>
+				</File>
+				<File Id="880744553" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Soundly Audio\Explosions, Real, Boom, Distant Explosion, Low, Muffled 01 SND46332 3.wav</ShortName>
+					<CachePath>SFX/Soundly Audio/Explosions, Real, Boom, Distant Explosion, Low, Muffled 01 SND46332 3_03A42103.wem</CachePath>
+				</File>
+				<File Id="915147561" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Wood - SNK\Wood-4.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Wood - SNK/Wood-4_818F3B66.wem</CachePath>
+				</File>
+				<File Id="917444722" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Soundly Audio\Wind, General, Gusts, Snow, Rustling, Howling 02 SND11624.wav</ShortName>
+					<CachePath>SFX/Soundly Audio/Wind, General, Gusts, Snow, Rustling, Howling 02 SND11624_C6CF79A1.wem</CachePath>
+				</File>
+				<File Id="938764412" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Soundly Audio\Ambience, Birdsong, Singing Birds, Early Morning SND11282.wav</ShortName>
+					<CachePath>SFX/Soundly Audio/Ambience, Birdsong, Singing Birds, Early Morning SND11282_F184FA63.wem</CachePath>
+				</File>
+				<File Id="953513443" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Metal - BOOT\Metal-3.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Metal - BOOT/Metal-3_818F3B66.wem</CachePath>
+				</File>
+				<File Id="965850272" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Soundly Audio\Aircraft, Military, Fighter Jet, Lockheed F 104 Starfighter, Flyby, MKH40 SND145616.wav</ShortName>
+					<CachePath>SFX/Soundly Audio/Aircraft, Military, Fighter Jet, Lockheed F 104 Starfighter, Flyby, MKH40 SND145616_0D665554.wem</CachePath>
+				</File>
+				<File Id="970819885" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Wood - SNK\Wood-2.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Wood - SNK/Wood-2_818F3B66.wem</CachePath>
+				</File>
+				<File Id="971241108" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Owl Cleaned Up.wav</ShortName>
+					<CachePath>SFX/Owl Cleaned Up_EEDB25EC.wem</CachePath>
+				</File>
+				<File Id="975478453" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Soundly Audio\Birds, Crow, Raven, Squawk, Call, Light Wind SND129211.wav</ShortName>
+					<CachePath>SFX/Soundly Audio/Birds, Crow, Raven, Squawk, Call, Light Wind SND129211_9F17C1D5.wem</CachePath>
+				</File>
+				<File Id="981992303" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Ambience, Room Tone, Wooden Cabin, Night, Very Quiet, Air SND138993.wav</ShortName>
+					<CachePath>SFX/Ambience, Room Tone, Wooden Cabin, Night, Very Quiet, Air SND138993_7BFB4653.wem</CachePath>
+				</File>
+				<File Id="995527268" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Stone - SNK\Stone-3.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Stone - SNK/Stone-3_00225573.wem</CachePath>
+				</File>
+				<File Id="1034667357" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Soundly Audio\Birds, Crow, Raven, Squawk, Call, Light Wind SND129211.wav</ShortName>
+					<CachePath>SFX/Soundly Audio/Birds, Crow, Raven, Squawk, Call, Light Wind SND129211_46407F3D.wem</CachePath>
+				</File>
+				<File Id="1038693362" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>reconciled amb bed v2.wav</ShortName>
+					<CachePath>SFX/reconciled amb bed v2_9891B661.wem</CachePath>
+				</File>
+				<File Id="1047848170" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>MapTwoClose.wav</ShortName>
+					<CachePath>SFX/MapTwoClose_818F3B66.wem</CachePath>
+				</File>
+				<File Id="1048162343" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Soundly Audio\Bells, Handbell, Movement, Brigjht SND143124.wav</ShortName>
+					<CachePath>SFX/Soundly Audio/Bells, Handbell, Movement, Brigjht SND143124_B2785581.wem</CachePath>
+				</File>
+				<File Id="1049879557" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Metal - BOOT\Metal-1.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Metal - BOOT/Metal-1_818F3B66.wem</CachePath>
+				</File>
+				<File Id="1062826730" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Dirt - SNK\Dirt-3.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Dirt - SNK/Dirt-3_0BD498E8.wem</CachePath>
+				</File>
+			</Media>
+			<Plugins>
+				<Custom>
+					<Plugin Id="121377276" Name="Silence" GUID="{D60B2B89-CB9D-46DB-87E4-9DE4B2F81253}" LibName="Wwise Silence" LibId="6619138"/>
+					<Plugin Id="130990925" Name="Silence" GUID="{E211A794-79F2-489C-BD22-3F955F984545}" LibName="Wwise Silence" LibId="6619138"/>
+					<Plugin Id="391211421" Name="Silence" GUID="{8CE4421E-6B9B-4E61-B8E7-A8BAF29B148A}" LibName="Wwise Silence" LibId="6619138"/>
+					<Plugin Id="572075639" Name="Silence" GUID="{A3894CE7-5642-4DF9-81AD-F87B8931EAB4}" LibName="Wwise Silence" LibId="6619138"/>
+					<Plugin Id="927830057" Name="Silence" GUID="{7F32EDAB-813F-42B7-B7AE-4BBF8F495940}" LibName="Wwise Silence" LibId="6619138"/>
+				</Custom>
+				<ShareSets>
+					<Plugin Id="48620415" Name="Have_U_Ever_Been_Outside" GUID="{FE29AE8D-FD86-4652-A95D-68D32F5760EC}" LibName="Wwise RoomVerb" LibId="7733251"/>
+					<Plugin Id="1110677034" Name="Underwater_Echoes" GUID="{3C6B127B-9DAE-4879-A4ED-75DF209310EC}" LibName="Wwise Stereo Delay" LibId="8847363"/>
+					<Plugin Id="2995775460" Name="Room_Small" GUID="{577F1466-A63B-47F7-98BD-C56E433F8B5D}" LibName="Wwise RoomVerb" LibId="7733251"/>
+					<Plugin Id="3216246379" Name="Space_Dreaming" GUID="{4FF7C4B2-37B0-4DFF-8E8A-1420102AE2DD}" LibName="Wwise RoomVerb" LibId="7733251"/>
+					<Plugin Id="3900114836" Name="Metal_Hangar" GUID="{C4A4605C-42EF-476A-B53C-E31C7A442C24}" LibName="Wwise RoomVerb" LibId="7733251"/>
+				</ShareSets>
+			</Plugins>
+			<Events>
+				<Event Id="3587600583" Name="amb_bed" GUID="{BF32685F-4B5C-44CF-B554-FB9010A367EC}" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="1038693362"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="61676720" Name="amb_bed_night" GUID="{26894052-9A9F-41E4-8D52-8683460EB47D}" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="981992303"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="1305275098" Name="amb_night_insects" GUID="{6F7EF2C4-C33C-4214-BA8E-56D2F296F7ED}" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="440238639"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="3113636726" Name="amb_tree" GUID="{02757E94-19A0-4102-B378-12E5CD1A392C}" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="21816582"/>
+						<MediaRef Id="37551296"/>
+						<MediaRef Id="48194156"/>
+						<MediaRef Id="85367466"/>
+						<MediaRef Id="137656265"/>
+						<MediaRef Id="163733945"/>
+						<MediaRef Id="171826125"/>
+						<MediaRef Id="194177673"/>
+						<MediaRef Id="254117256"/>
+						<MediaRef Id="260019495"/>
+						<MediaRef Id="347355325"/>
+						<MediaRef Id="349373469"/>
+						<MediaRef Id="376073963"/>
+						<MediaRef Id="434289978"/>
+						<MediaRef Id="476067684"/>
+						<MediaRef Id="543049121"/>
+						<MediaRef Id="556868249"/>
+						<MediaRef Id="593116682"/>
+						<MediaRef Id="621696556"/>
+						<MediaRef Id="630464976"/>
+						<MediaRef Id="641851743"/>
+						<MediaRef Id="650243767"/>
+						<MediaRef Id="675993333"/>
+						<MediaRef Id="694698294"/>
+						<MediaRef Id="712245873"/>
+						<MediaRef Id="720565276"/>
+						<MediaRef Id="725525927"/>
+						<MediaRef Id="737733773"/>
+						<MediaRef Id="777262149"/>
+						<MediaRef Id="876670537"/>
+						<MediaRef Id="917444722"/>
+						<MediaRef Id="938764412"/>
+						<MediaRef Id="971241108"/>
+						<MediaRef Id="975478453"/>
+						<MediaRef Id="1034667357"/>
+						<MediaRef Id="1048162343"/>
+					</MediaRefs>
+					<PluginRefs>
+						<Custom>
+							<PluginRef Id="121377276"/>
+							<PluginRef Id="130990925"/>
+							<PluginRef Id="391211421"/>
+							<PluginRef Id="572075639"/>
+						</Custom>
+						<ShareSets>
+							<PluginRef Id="48620415"/>
+							<PluginRef Id="1110677034"/>
+							<PluginRef Id="3216246379"/>
+						</ShareSets>
+					</PluginRefs>
+					<AuxBusRefs>
+						<AuxBusRef Id="4154576717" Name="Amb_Verb" GUID="{1B3A8063-F568-4CA9-9AF9-3A245E619121}"/>
+					</AuxBusRefs>
+				</Event>
+				<Event Id="4181869077" Name="amb_tree_night" GUID="{A24E4CEA-99C8-45F4-88D9-C126CE88FB8D}" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="37551296"/>
+						<MediaRef Id="85367466"/>
+						<MediaRef Id="137656265"/>
+						<MediaRef Id="194177673"/>
+						<MediaRef Id="347355325"/>
+						<MediaRef Id="434289978"/>
+						<MediaRef Id="476067684"/>
+						<MediaRef Id="543049121"/>
+						<MediaRef Id="556868249"/>
+						<MediaRef Id="621696556"/>
+						<MediaRef Id="630464976"/>
+						<MediaRef Id="641851743"/>
+						<MediaRef Id="712245873"/>
+						<MediaRef Id="737733773"/>
+						<MediaRef Id="777262149"/>
+						<MediaRef Id="917444722"/>
+						<MediaRef Id="971241108"/>
+						<MediaRef Id="1048162343"/>
+					</MediaRefs>
+					<PluginRefs>
+						<Custom>
+							<PluginRef Id="121377276"/>
+							<PluginRef Id="572075639"/>
+						</Custom>
+						<ShareSets>
+							<PluginRef Id="48620415"/>
+							<PluginRef Id="1110677034"/>
+							<PluginRef Id="3216246379"/>
+						</ShareSets>
+					</PluginRefs>
+					<AuxBusRefs>
+						<AuxBusRef Id="4154576717" Name="Amb_Verb" GUID="{1B3A8063-F568-4CA9-9AF9-3A245E619121}"/>
+					</AuxBusRefs>
+				</Event>
+				<Event Id="3316054348" Name="amb_war" GUID="{42BE8166-F793-4015-924B-8ABBACD1F820}" MaxAttenuation="10" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="35119013"/>
+						<MediaRef Id="667213475"/>
+						<MediaRef Id="698629590"/>
+						<MediaRef Id="880744553"/>
+						<MediaRef Id="965850272"/>
+					</MediaRefs>
+					<PluginRefs>
+						<Custom>
+							<PluginRef Id="927830057"/>
+						</Custom>
+						<ShareSets>
+							<PluginRef Id="3900114836"/>
+						</ShareSets>
+					</PluginRefs>
+				</Event>
+				<Event Id="1654598460" Name="amb_weddingRTLP" GUID="{23DD4277-09DC-4D8D-9758-B8520C2E3F95}" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="536773767"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="1455535776" Name="item_up" GUID="{C313B3C6-4891-4437-8336-9A54E443646D}" DurationType="OneShot" DurationMin="0.16752875" DurationMax="0.21910712">
+					<MediaRefs>
+						<MediaRef Id="370590470"/>
+						<MediaRef Id="396367671"/>
+						<MediaRef Id="781502698"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="831022004" Name="map_openclose" GUID="{17307010-1B10-46AD-9BF8-38B557200D0B}" DurationType="OneShot" DurationMin="0.375" DurationMax="1">
+					<SwitchContainers>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="1177793757" Id="2323396735" GUID="{4054FF57-284A-47EA-86FC-1A6FFAD7C8FD}"/>
+							<MediaRefs>
+								<MediaRef Id="146124239"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="1177793757" Id="1936672669" GUID="{91C6BD60-661D-4267-BD87-62206914905F}" Default="true"/>
+							<MediaRefs>
+								<MediaRef Id="1047848170"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="1177793757" Id="2323396735" GUID="{4054FF57-284A-47EA-86FC-1A6FFAD7C8FD}"/>
+							<MediaRefs>
+								<MediaRef Id="875258862"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="1177793757" Id="1936672669" GUID="{91C6BD60-661D-4267-BD87-62206914905F}" Default="true"/>
+							<MediaRefs>
+								<MediaRef Id="555749960"/>
+							</MediaRefs>
+						</SwitchContainer>
+					</SwitchContainers>
+				</Event>
+				<Event Id="3092587493" Name="Pause" GUID="{C2BF9A53-9D24-4664-866E-4B8177218DBE}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0">
+					<ActionSetState>
+						<ActionSetStateEntry GroupId="253445270" Id="319258907" Name="Paused" GUID="{7E399DF0-DDC6-493B-B112-E0F80DD22C5D}"/>
+					</ActionSetState>
+				</Event>
+				<Event Id="979341015" Name="pc_footstep" GUID="{8C84EA86-D250-4288-A932-26CF786E6336}" DurationType="OneShot" DurationMin="0.074068114" DurationMax="0.5297316">
+					<SwitchContainers>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="4274333454" Id="2195636714" GUID="{D8C27601-437A-415E-88E0-2EB8EA31D643}" Default="true"/>
+							<MediaRefs>
+								<MediaRef Id="112472524"/>
+								<MediaRef Id="484174853"/>
+								<MediaRef Id="485969829"/>
+								<MediaRef Id="570680781"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="4274333454" Id="1216965916" GUID="{C8A6D63C-9AE8-4C66-A270-F0AF0BB4D17F}"/>
+							<MediaRefs>
+								<MediaRef Id="173069506"/>
+								<MediaRef Id="299069138"/>
+								<MediaRef Id="397850430"/>
+								<MediaRef Id="428349445"/>
+								<MediaRef Id="508518139"/>
+								<MediaRef Id="995527268"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="4274333454" Id="2058049674" GUID="{CBE77A8A-E82C-4FF6-BB63-3906B86272BF}"/>
+							<MediaRefs>
+								<MediaRef Id="106093536"/>
+								<MediaRef Id="292976887"/>
+								<MediaRef Id="493420085"/>
+								<MediaRef Id="574255775"/>
+								<MediaRef Id="915147561"/>
+								<MediaRef Id="970819885"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="4274333454" Id="4248645337" GUID="{95CF5C96-F14E-4E5B-B14B-3150A73BDE11}"/>
+							<MediaRefs>
+								<MediaRef Id="52575897"/>
+								<MediaRef Id="171473709"/>
+								<MediaRef Id="205369667"/>
+								<MediaRef Id="412958173"/>
+								<MediaRef Id="481181567"/>
+								<MediaRef Id="541567705"/>
+								<MediaRef Id="655332947"/>
+								<MediaRef Id="792051615"/>
+								<MediaRef Id="873220779"/>
+								<MediaRef Id="1062826730"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="4274333454" Id="2473969246" GUID="{49B9E6F1-A8E5-49EC-AE85-AFF2C45AE9C8}"/>
+							<MediaRefs>
+								<MediaRef Id="128395977"/>
+								<MediaRef Id="578450807"/>
+								<MediaRef Id="841367300"/>
+								<MediaRef Id="953513443"/>
+								<MediaRef Id="1049879557"/>
+							</MediaRefs>
+						</SwitchContainer>
+					</SwitchContainers>
+				</Event>
+				<Event Id="1256202815" Name="Play" GUID="{7A920923-304E-46AC-B02C-FA01C247E748}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0">
+					<ActionSetState>
+						<ActionSetStateEntry GroupId="253445270" Id="1852808225" Name="Playing" GUID="{AFCBE0A6-6321-4477-B340-D5DF456C4776}"/>
+					</ActionSetState>
+				</Event>
+				<Event Id="2451061482" Name="play_poi_jingle" GUID="{EE2473FB-179A-4ED7-8CE9-B0D45966597D}" DurationType="OneShot" DurationMin="3.8868937" DurationMax="3.8868937">
+					<MediaRefs>
+						<MediaRef Id="103026209"/>
+						<MediaRef Id="228319950"/>
+						<MediaRef Id="731165589"/>
+					</MediaRefs>
+					<PluginRefs>
+						<ShareSets>
+							<PluginRef Id="2995775460"/>
+						</ShareSets>
+					</PluginRefs>
+				</Event>
+				<Event Id="3086540886" Name="StopAll" GUID="{5299644B-320A-495E-9B75-EB4E7F0F5F22}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+				<Event Id="2024222415" Name="ui_back" GUID="{0632CD9B-7B02-414B-A929-9CBE698468DB}" DurationType="OneShot" DurationMin="0.43304163" DurationMax="0.48607287">
+					<MediaRefs>
+						<MediaRef Id="443053519"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="1402340918" Name="ui_highlight" GUID="{EC9B4E7E-1F76-4511-8909-19F6FE32BDBC}" DurationType="OneShot" DurationMin="0.1857895" DurationMax="0.29195833">
+					<MediaRefs>
+						<MediaRef Id="506537613"/>
+						<MediaRef Id="552256699"/>
+						<MediaRef Id="608319785"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="2774129122" Name="ui_select" GUID="{8055328B-5A6B-4EAD-9163-FF9428284ED6}" DurationType="OneShot" DurationMin="0.625625" DurationMax="0.625625">
+					<MediaRefs>
+						<MediaRef Id="411523467"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="2594811980" Name="water_run" GUID="{3A9353BD-F92D-4B21-B6F2-6EE7394F6783}" MaxAttenuation="25" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="741618255"/>
+					</MediaRefs>
+				</Event>
+			</Events>
+			<StateGroups>
+				<StateGroup Id="253445270" Name="Pause_Play" GUID="{B0CDA361-659A-4BE4-8B29-6AE22E93AD0C}">
+					<States>
+						<State Id="319258907" Name="Paused" GUID="{7E399DF0-DDC6-493B-B112-E0F80DD22C5D}"/>
+						<State Id="748895195" Name="None" GUID="{1FC2AED3-1424-4205-8297-936A2B45E891}"/>
+						<State Id="1852808225" Name="Playing" GUID="{AFCBE0A6-6321-4477-B340-D5DF456C4776}"/>
+					</States>
+				</StateGroup>
+			</StateGroups>
+			<SwitchGroups>
+				<SwitchGroup Id="1177793757" Name="MapType" GUID="{85A20742-3B21-413C-A62E-D13A56764ABF}">
+					<Switches>
+						<Switch Id="1936672669" Name="MapTwo" GUID="{91C6BD60-661D-4267-BD87-62206914905F}"/>
+						<Switch Id="2323396735" Name="MapOne" GUID="{4054FF57-284A-47EA-86FC-1A6FFAD7C8FD}"/>
+					</Switches>
+				</SwitchGroup>
+				<SwitchGroup Id="2085770324" Name="ItemPickupType" GUID="{DC07056D-67FD-4225-8DA3-D75C3D50C652}">
+					<Switches>
+						<Switch Id="660835419" Name="Plastic" GUID="{BAD1991E-B3B3-4795-9E30-20351269AD8A}"/>
+						<Switch Id="2473969246" Name="Metal" GUID="{6DB9B8C3-02FB-4280-8819-D0941A4053C4}"/>
+						<Switch Id="3126687001" Name="Paper" GUID="{FB981DE4-9965-4455-8EA2-A9F5746E12D9}"/>
+					</Switches>
+				</SwitchGroup>
+				<SwitchGroup Id="4274333454" Name="FloorMaterial" GUID="{A43E7BCC-6D3A-48E7-A1E9-D1506A02D96A}">
+					<Switches>
+						<Switch Id="1216965916" Name="Stone" GUID="{C8A6D63C-9AE8-4C66-A270-F0AF0BB4D17F}"/>
+						<Switch Id="2058049674" Name="Wood" GUID="{CBE77A8A-E82C-4FF6-BB63-3906B86272BF}"/>
+						<Switch Id="2195636714" Name="Dirt" GUID="{D8C27601-437A-415E-88E0-2EB8EA31D643}"/>
+						<Switch Id="2473969246" Name="Metal" GUID="{49B9E6F1-A8E5-49EC-AE85-AFF2C45AE9C8}"/>
+						<Switch Id="4248645337" Name="Grass" GUID="{95CF5C96-F14E-4E5B-B14B-3150A73BDE11}"/>
+					</Switches>
+				</SwitchGroup>
+			</SwitchGroups>
+		</SoundBank>
+		<SoundBank Id="3161908922" Type="User" GUID="{ADB4BC90-12D3-44DF-8196-DA5CD14BAFA9}" Language="SFX" Hash="{9C9E5163-4C0B-13B2-297A-D242978E8CA7}">
+			<ShortName>Main</ShortName>
+			<Path>Main.bnk</Path>
+			<Media>
+				<File Id="21816582" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Soundly Audio\Ambience, Birdsong, Singing Birds, Early Morning SND11282.wav</ShortName>
+					<CachePath>SFX/Soundly Audio/Ambience, Birdsong, Singing Birds, Early Morning SND11282_2F4FFD2C.wem</CachePath>
+				</File>
+				<File Id="35119013" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Soundly Audio\Explosions, Real, Boom, Distant Explosion, Low, Muffled 01 SND46332 3.wav</ShortName>
+					<CachePath>SFX/Soundly Audio/Explosions, Real, Boom, Distant Explosion, Low, Muffled 01 SND46332 3_84B06475.wem</CachePath>
+				</File>
+				<File Id="37551296" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Soundly Audio\Wind, Vegetation, Forest, Leaves 01  SND0247.wav</ShortName>
+					<CachePath>SFX/Soundly Audio/Wind, Vegetation, Forest, Leaves 01  SND0247_0C8BAEA9.wem</CachePath>
+				</File>
+				<File Id="48194156" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Soundly Audio\Ambience, Birdsong, Singing Birds, Early Morning SND11282.wav</ShortName>
+					<CachePath>SFX/Soundly Audio/Ambience, Birdsong, Singing Birds, Early Morning SND11282_313FE811.wem</CachePath>
+				</File>
+				<File Id="52575897" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Dirt - SNK\Dirt-4.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Dirt - SNK/Dirt-4_326E223B.wem</CachePath>
+				</File>
+				<File Id="85367466" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Soundly Audio\Vegetation, Leaves, Leaf, Dry, Rustling, Soft SND11550.wav</ShortName>
+					<CachePath>SFX/Soundly Audio/Vegetation, Leaves, Leaf, Dry, Rustling, Soft SND11550_2EC9AC07.wem</CachePath>
+				</File>
+				<File Id="89501386" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_ui_enter.wav</ShortName>
+					<CachePath>SFX/sfx_ui_enter_8169C478.wem</CachePath>
+				</File>
+				<File Id="90926387" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Mug\Mug Drink 02.wav</ShortName>
+					<CachePath>SFX/Mug/Mug Drink 02_EF447745.wem</CachePath>
+				</File>
+				<File Id="97626045" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Mug\Mug Drink 03.wav</ShortName>
+					<CachePath>SFX/Mug/Mug Drink 03_0F8BA685.wem</CachePath>
+				</File>
+				<File Id="103026209" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Soundly Audio\337087__anthousai__writing-pen-wide-01 2.wav</ShortName>
+					<CachePath>SFX/Soundly Audio/337087__anthousai__writing-pen-wide-01 2_2C9EF63A.wem</CachePath>
+				</File>
+				<File Id="106093536" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Wood - SNK\Wood-5.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Wood - SNK/Wood-5_818F3B66.wem</CachePath>
+				</File>
+				<File Id="108230715" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>4.12.26\Hospital_RTLP.wav</ShortName>
+					<CachePath>SFX/4.12.26/Hospital_RTLP_30EF12F3.wem</CachePath>
+				</File>
+				<File Id="112472524" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Dirt - SNK\Dirt-4.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Dirt - SNK/Dirt-4_818F3B66.wem</CachePath>
+				</File>
+				<File Id="115677031" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Item Spawn 2.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Item Spawn 2_818F3B66.wem</CachePath>
+				</File>
+				<File Id="128395977" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Metal - BOOT\Metal-2.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Metal - BOOT/Metal-2_818F3B66.wem</CachePath>
+				</File>
+				<File Id="137656265" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Soundly Audio\Wind, Vegetation, Forest, Leaves 01  SND0247.wav</ShortName>
+					<CachePath>SFX/Soundly Audio/Wind, Vegetation, Forest, Leaves 01  SND0247_98BDD8B7.wem</CachePath>
+				</File>
+				<File Id="142534857" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Pill Bottle\Pill Bottle (Heavy) 03.wav</ShortName>
+					<CachePath>SFX/Pill Bottle/Pill Bottle (Heavy) 03_7979DB82.wem</CachePath>
+				</File>
+				<File Id="146124239" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>MapOneClose.wav</ShortName>
+					<CachePath>SFX/MapOneClose_818F3B66.wem</CachePath>
+				</File>
+				<File Id="158085481" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>4.12.26\Hospital_PulseBeepEmergencyLP.wav</ShortName>
+					<CachePath>SFX/4.12.26/Hospital_PulseBeepEmergencyLP_30EF12F3.wem</CachePath>
+				</File>
+				<File Id="163733945" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Soundly Audio\Musical, Chime, Wind Chimes, Ringing SND0729 7.wav</ShortName>
+					<CachePath>SFX/Soundly Audio/Musical, Chime, Wind Chimes, Ringing SND0729 7_53C770CD.wem</CachePath>
+				</File>
+				<File Id="171473709" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Grass\Grass-3.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Grass/Grass-3_818F3B66.wem</CachePath>
+				</File>
+				<File Id="171826125" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Soundly Audio\Metal, Movement, Metal Sign, Rattle, Quiet   Calm, Small Movements SND129198 1.wav</ShortName>
+					<CachePath>SFX/Soundly Audio/Metal, Movement, Metal Sign, Rattle, Quiet   Calm, Small Movements SND129198 1_E08BB1C9.wem</CachePath>
+				</File>
+				<File Id="173069506" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Stone - SNK\Stone-5.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Stone - SNK/Stone-5_00225573.wem</CachePath>
+				</File>
+				<File Id="194177673" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Owl Cleaned Up.wav</ShortName>
+					<CachePath>SFX/Owl Cleaned Up_3A19AEC9.wem</CachePath>
+				</File>
+				<File Id="205369667" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Grass\Grass-5.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Grass/Grass-5_818F3B66.wem</CachePath>
+				</File>
+				<File Id="228319950" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>POI Found.wav</ShortName>
+					<CachePath>SFX/POI Found_839F1F28.wem</CachePath>
+				</File>
+				<File Id="250874097" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Pill Bottle\Pill Bottle (Heavy) 01.wav</ShortName>
+					<CachePath>SFX/Pill Bottle/Pill Bottle (Heavy) 01_F4B9271D.wem</CachePath>
+				</File>
+				<File Id="254117256" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Soundly Audio\Birds, Crow, Raven, Squawk, Call, Light Wind SND129211.wav</ShortName>
+					<CachePath>SFX/Soundly Audio/Birds, Crow, Raven, Squawk, Call, Light Wind SND129211_36D1E070.wem</CachePath>
+				</File>
+				<File Id="260019495" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Soundly Audio\Ambience, Birdsong, Singing Birds, Early Morning SND11282.wav</ShortName>
+					<CachePath>SFX/Soundly Audio/Ambience, Birdsong, Singing Birds, Early Morning SND11282_18FE28D0.wem</CachePath>
+				</File>
+				<File Id="260389859" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\recon_timer_ring.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/recon_timer_ring_0CA9F4D7.wem</CachePath>
+				</File>
+				<File Id="268889924" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>4.12.26\ClockTicking_Reverse.wav</ShortName>
+					<CachePath>SFX/4.12.26/ClockTicking_Reverse_30EF12F3.wem</CachePath>
+				</File>
+				<File Id="276616100" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Item Spawn 3.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Item Spawn 3_818F3B66.wem</CachePath>
+				</File>
+				<File Id="292976887" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Wood - SNK\Wood-1.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Wood - SNK/Wood-1_818F3B66.wem</CachePath>
+				</File>
+				<File Id="299069138" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Stone - SNK\Stone-2.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Stone - SNK/Stone-2_00225573.wem</CachePath>
+				</File>
+				<File Id="304342604" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>recon_theme_idea.wav</ShortName>
+					<CachePath>SFX/recon_theme_idea_BC5FE7CD.wem</CachePath>
+				</File>
+				<File Id="347355325" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Owl Cleaned Up.wav</ShortName>
+					<CachePath>SFX/Owl Cleaned Up_22E3AB6B.wem</CachePath>
+				</File>
+				<File Id="349373469" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Soundly Audio\Musical, Chime, Wind Chimes, Ringing SND0729 7.wav</ShortName>
+					<CachePath>SFX/Soundly Audio/Musical, Chime, Wind Chimes, Ringing SND0729 7_CAE4C316.wem</CachePath>
+				</File>
+				<File Id="354254966" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>4.12.26\PlayerHouse_Creak\PlayerHouse_Creak_2.wav</ShortName>
+					<CachePath>SFX/4.12.26/PlayerHouse_Creak/PlayerHouse_Creak_2_15C2CEFE.wem</CachePath>
+				</File>
+				<File Id="370590470" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Item Pick Up 1.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Item Pick Up 1_70D53CF4.wem</CachePath>
+				</File>
+				<File Id="376073963" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Soundly Audio\Metal, Movement, Metal Sign, Rattle, Quiet   Calm, Small Movements SND129198 1.wav</ShortName>
+					<CachePath>SFX/Soundly Audio/Metal, Movement, Metal Sign, Rattle, Quiet   Calm, Small Movements SND129198 1_4ED8CD2A.wem</CachePath>
+				</File>
+				<File Id="396367671" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Item Pick Up 3.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Item Pick Up 3_E238D614.wem</CachePath>
+				</File>
+				<File Id="397850430" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Stone - SNK\Stone-1.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Stone - SNK/Stone-1_00225573.wem</CachePath>
+				</File>
+				<File Id="411523467" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Paper Enter.wav</ShortName>
+					<CachePath>SFX/Paper Enter_818F3B66.wem</CachePath>
+				</File>
+				<File Id="412958173" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Grass\Grass-6.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Grass/Grass-6_818F3B66.wem</CachePath>
+				</File>
+				<File Id="428349445" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Stone - SNK\Stone-4.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Stone - SNK/Stone-4_00225573.wem</CachePath>
+				</File>
+				<File Id="434289978" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Soundly Audio\Animals, Bat, Mexican Free Tail Bat, Chatter SND61997.wav</ShortName>
+					<CachePath>SFX/Soundly Audio/Animals, Bat, Mexican Free Tail Bat, Chatter SND61997_DCF0CABF.wem</CachePath>
+				</File>
+				<File Id="440057137" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>4.12.26\OceanWaves.wav</ShortName>
+					<CachePath>SFX/4.12.26/OceanWaves_30EF12F3.wem</CachePath>
+				</File>
+				<File Id="440238639" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Ambience, Insect, Crickets, Village, Night, Peaceful, Summer Night (30) (LCR) SND37134 1.wav</ShortName>
+					<CachePath>SFX/Ambience, Insect, Crickets, Village, Night, Peaceful, Summer Night (30) (LCR) SND37134 1_5DD44C57.wem</CachePath>
+				</File>
+				<File Id="443053519" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Paper Down.wav</ShortName>
+					<CachePath>SFX/Paper Down_818F3B66.wem</CachePath>
+				</File>
+				<File Id="476067684" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Soundly Audio\Animals, Bat, Mexican Free Tail Bat, Chatter SND61997.wav</ShortName>
+					<CachePath>SFX/Soundly Audio/Animals, Bat, Mexican Free Tail Bat, Chatter SND61997_2E73E00A.wem</CachePath>
+				</File>
+				<File Id="478435977" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>4.12.26\PlayerHouse_Creak\PlayerHouse_Creak_5.wav</ShortName>
+					<CachePath>SFX/4.12.26/PlayerHouse_Creak/PlayerHouse_Creak_5_048BED15.wem</CachePath>
+				</File>
+				<File Id="481181567" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Dirt - SNK\Dirt-5.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Dirt - SNK/Dirt-5_73865736.wem</CachePath>
+				</File>
+				<File Id="484174853" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Dirt - SNK\Dirt-3.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Dirt - SNK/Dirt-3_818F3B66.wem</CachePath>
+				</File>
+				<File Id="485969829" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Dirt - SNK\Dirt-1.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Dirt - SNK/Dirt-1_818F3B66.wem</CachePath>
+				</File>
+				<File Id="490759001" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Mug\Mug Drink 04.wav</ShortName>
+					<CachePath>SFX/Mug/Mug Drink 04_1CA65D4E.wem</CachePath>
+				</File>
+				<File Id="493420085" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Wood - SNK\Wood-3.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Wood - SNK/Wood-3_818F3B66.wem</CachePath>
+				</File>
+				<File Id="494505907" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>4.12.26\PlayerHouse_Creak\PlayerHouse_Creak_3.wav</ShortName>
+					<CachePath>SFX/4.12.26/PlayerHouse_Creak/PlayerHouse_Creak_3_048BED15.wem</CachePath>
+				</File>
+				<File Id="506537613" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Paper 1.wav</ShortName>
+					<CachePath>SFX/Paper 1_818F3B66.wem</CachePath>
+				</File>
+				<File Id="508518139" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Stone - SNK\Stone-6.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Stone - SNK/Stone-6_00225573.wem</CachePath>
+				</File>
+				<File Id="529024052" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>4.12.26\PlayerHouse_Creak\PlayerHouse_Creak_4.wav</ShortName>
+					<CachePath>SFX/4.12.26/PlayerHouse_Creak/PlayerHouse_Creak_4_048BED15.wem</CachePath>
+				</File>
+				<File Id="535648432" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\recon_timer_ticking.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/recon_timer_ticking_11A93380.wem</CachePath>
+				</File>
+				<File Id="536773767" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>4.12.26\Wedding_RTLP.wav</ShortName>
+					<CachePath>SFX/4.12.26/Wedding_RTLP_30EF12F3.wem</CachePath>
+				</File>
+				<File Id="541567705" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Dirt - SNK\Dirt-1.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Dirt - SNK/Dirt-1_0F40F7A9.wem</CachePath>
+				</File>
+				<File Id="543049121" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Wind, General, Gusts, Snow, Rustling, Howling 02 SND11624 2.wav</ShortName>
+					<CachePath>SFX/Wind, General, Gusts, Snow, Rustling, Howling 02 SND11624 2_2CC58E1D.wem</CachePath>
+				</File>
+				<File Id="549204138" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Pill Bottle\Pill Bottle (Heavy) 02.wav</ShortName>
+					<CachePath>SFX/Pill Bottle/Pill Bottle (Heavy) 02_DF13A791.wem</CachePath>
+				</File>
+				<File Id="552256699" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Paper 2.wav</ShortName>
+					<CachePath>SFX/Paper 2_818F3B66.wem</CachePath>
+				</File>
+				<File Id="555749960" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>MapTwoOpen.wav</ShortName>
+					<CachePath>SFX/MapTwoOpen_818F3B66.wem</CachePath>
+				</File>
+				<File Id="556868249" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Owl Cleaned Up.wav</ShortName>
+					<CachePath>SFX/Owl Cleaned Up_DC73EF54.wem</CachePath>
+				</File>
+				<File Id="570680781" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Dirt - SNK\Dirt-5.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Dirt - SNK/Dirt-5_818F3B66.wem</CachePath>
+				</File>
+				<File Id="574255775" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Wood - SNK\Wood-6.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Wood - SNK/Wood-6_818F3B66.wem</CachePath>
+				</File>
+				<File Id="578450807" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Metal - BOOT\Metal-5.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Metal - BOOT/Metal-5_818F3B66.wem</CachePath>
+				</File>
+				<File Id="593116682" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Soundly Audio\Metal, Movement, Metal Sign, Rattle, Quiet   Calm, Small Movements SND129198 1.wav</ShortName>
+					<CachePath>SFX/Soundly Audio/Metal, Movement, Metal Sign, Rattle, Quiet   Calm, Small Movements SND129198 1_476E39E5.wem</CachePath>
+				</File>
+				<File Id="608319785" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Paper 3.wav</ShortName>
+					<CachePath>SFX/Paper 3_818F3B66.wem</CachePath>
+				</File>
+				<File Id="621696556" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Soundly Audio\Musical, Chime, Wind Chimes, Up, Down, Long 02 SND45598.wav</ShortName>
+					<CachePath>SFX/Soundly Audio/Musical, Chime, Wind Chimes, Up, Down, Long 02 SND45598_0DD6F7F5.wem</CachePath>
+				</File>
+				<File Id="630464976" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Soundly Audio\Wind, Vegetation, Forest, Leaves 01  SND0247.wav</ShortName>
+					<CachePath>SFX/Soundly Audio/Wind, Vegetation, Forest, Leaves 01  SND0247_EC769481.wem</CachePath>
+				</File>
+				<File Id="641851743" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Soundly Audio\Animals, Bat, Mexican Free Tail Bat, Chatter SND61997.wav</ShortName>
+					<CachePath>SFX/Soundly Audio/Animals, Bat, Mexican Free Tail Bat, Chatter SND61997_E42FB2A1.wem</CachePath>
+				</File>
+				<File Id="650243767" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Soundly Audio\Ambience, Birdsong, Singing Birds, Early Morning SND11282.wav</ShortName>
+					<CachePath>SFX/Soundly Audio/Ambience, Birdsong, Singing Birds, Early Morning SND11282_965EA873.wem</CachePath>
+				</File>
+				<File Id="655332947" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Grass\Grass-2.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Grass/Grass-2_818F3B66.wem</CachePath>
+				</File>
+				<File Id="667213475" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Soundly Audio\Aircraft, Military, Fighter Jet, F 35, Flybys, MKH40 01 SND145592.wav</ShortName>
+					<CachePath>SFX/Soundly Audio/Aircraft, Military, Fighter Jet, F 35, Flybys, MKH40 01 SND145592_5002ACA2.wem</CachePath>
+				</File>
+				<File Id="668445724" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>4.12.26\PlayerHouse_Creak\PlayerHouse_Creak_1.wav</ShortName>
+					<CachePath>SFX/4.12.26/PlayerHouse_Creak/PlayerHouse_Creak_1_048BED15.wem</CachePath>
+				</File>
+				<File Id="675993333" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Soundly Audio\Ambience, Birdsong, Singing Birds, Early Morning SND11282.wav</ShortName>
+					<CachePath>SFX/Soundly Audio/Ambience, Birdsong, Singing Birds, Early Morning SND11282_50F8F737.wem</CachePath>
+				</File>
+				<File Id="686583825" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Phone Ring (NO BUZZ).wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Phone Ring (NO BUZZ)_FBC78EF0.wem</CachePath>
+				</File>
+				<File Id="694698294" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Soundly Audio\Birds, Crow, Raven, Squawk, Call, Light Wind SND129211 4.wav</ShortName>
+					<CachePath>SFX/Soundly Audio/Birds, Crow, Raven, Squawk, Call, Light Wind SND129211 4_48E70A42.wem</CachePath>
+				</File>
+				<File Id="698629590" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Soundly Audio\Explosions, Real, Boom, Distant Explosion, Low, Muffled 01 SND46332 3.wav</ShortName>
+					<CachePath>SFX/Soundly Audio/Explosions, Real, Boom, Distant Explosion, Low, Muffled 01 SND46332 3_3373CC57.wem</CachePath>
+				</File>
+				<File Id="703621488" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>4.12.26\Hospital_HallwayWallaAmb_LP.wav</ShortName>
+					<CachePath>SFX/4.12.26/Hospital_HallwayWallaAmb_LP_30EF12F3.wem</CachePath>
+				</File>
+				<File Id="712245873" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Soundly Audio\Animals, Bat, Mexican Free Tail Bat, Chatter SND61997.wav</ShortName>
+					<CachePath>SFX/Soundly Audio/Animals, Bat, Mexican Free Tail Bat, Chatter SND61997_8301081A.wem</CachePath>
+				</File>
+				<File Id="716183659" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Item Spawn 1.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Item Spawn 1_818F3B66.wem</CachePath>
+				</File>
+				<File Id="720565276" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Soundly Audio\Musical, Chime, Wind Chimes, Ringing SND0729 7.wav</ShortName>
+					<CachePath>SFX/Soundly Audio/Musical, Chime, Wind Chimes, Ringing SND0729 7_7A1C66DE.wem</CachePath>
+				</File>
+				<File Id="724368513" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Title.wav</ShortName>
+					<CachePath>SFX/Title_FBC78EF0.wem</CachePath>
+				</File>
+				<File Id="725525927" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Soundly Audio\Ambience, Birdsong, Singing Birds, Early Morning SND11282.wav</ShortName>
+					<CachePath>SFX/Soundly Audio/Ambience, Birdsong, Singing Birds, Early Morning SND11282_1E70A432.wem</CachePath>
+				</File>
+				<File Id="731165589" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Soundly Audio\Paper, Handle, Sheets, Many, Crumpled, Compress, Movement SND18033 2.wav</ShortName>
+					<CachePath>SFX/Soundly Audio/Paper, Handle, Sheets, Many, Crumpled, Compress, Movement SND18033 2_AD27ED8D.wem</CachePath>
+				</File>
+				<File Id="737733773" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Soundly Audio\Animals, Bat, Mexican Free Tail Bat, Chatter SND61997.wav</ShortName>
+					<CachePath>SFX/Soundly Audio/Animals, Bat, Mexican Free Tail Bat, Chatter SND61997_2D1E9EC6.wem</CachePath>
+				</File>
+				<File Id="741618255" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Water Running.wav</ShortName>
+					<CachePath>SFX/Water Running_CA803487.wem</CachePath>
+				</File>
+				<File Id="767069845" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>4.12.26\Street_RTLP.wav</ShortName>
+					<CachePath>SFX/4.12.26/Street_RTLP_46A51E94.wem</CachePath>
+				</File>
+				<File Id="777262149" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Owl Cleaned Up.wav</ShortName>
+					<CachePath>SFX/Owl Cleaned Up_3D285160.wem</CachePath>
+				</File>
+				<File Id="781502698" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Item Pick Up 2.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Item Pick Up 2_7097BF2A.wem</CachePath>
+				</File>
+				<File Id="792051615" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Grass\Grass-4.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Grass/Grass-4_818F3B66.wem</CachePath>
+				</File>
+				<File Id="825444884" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>4.12.26\PlayerHouse_ClockTickLP.wav</ShortName>
+					<CachePath>SFX/4.12.26/PlayerHouse_ClockTickLP_30EF12F3.wem</CachePath>
+				</File>
+				<File Id="841367300" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Metal - BOOT\Metal-4.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Metal - BOOT/Metal-4_818F3B66.wem</CachePath>
+				</File>
+				<File Id="873220779" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Grass\Grass-1.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Grass/Grass-1_818F3B66.wem</CachePath>
+				</File>
+				<File Id="875258862" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>MapOneOpen.wav</ShortName>
+					<CachePath>SFX/MapOneOpen_818F3B66.wem</CachePath>
+				</File>
+				<File Id="876670537" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Soundly Audio\Birds, Crow, Raven, Squawk, Call, Light Wind SND129211.wav</ShortName>
+					<CachePath>SFX/Soundly Audio/Birds, Crow, Raven, Squawk, Call, Light Wind SND129211_5E8A5A38.wem</CachePath>
+				</File>
+				<File Id="880744553" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Soundly Audio\Explosions, Real, Boom, Distant Explosion, Low, Muffled 01 SND46332 3.wav</ShortName>
+					<CachePath>SFX/Soundly Audio/Explosions, Real, Boom, Distant Explosion, Low, Muffled 01 SND46332 3_03A42103.wem</CachePath>
+				</File>
+				<File Id="882016101" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>787669__securesubset__gun-reload.wav</ShortName>
+					<CachePath>SFX/787669__securesubset__gun-reload_7654F260.wem</CachePath>
+				</File>
+				<File Id="891933558" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Message Send.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Message Send_818F3B66.wem</CachePath>
+				</File>
+				<File Id="901501956" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Mug\Mug Drink 01.wav</ShortName>
+					<CachePath>SFX/Mug/Mug Drink 01_AB14D3BE.wem</CachePath>
+				</File>
+				<File Id="915147561" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Wood - SNK\Wood-4.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Wood - SNK/Wood-4_818F3B66.wem</CachePath>
+				</File>
+				<File Id="917444722" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Soundly Audio\Wind, General, Gusts, Snow, Rustling, Howling 02 SND11624.wav</ShortName>
+					<CachePath>SFX/Soundly Audio/Wind, General, Gusts, Snow, Rustling, Howling 02 SND11624_C6CF79A1.wem</CachePath>
+				</File>
+				<File Id="938764412" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Soundly Audio\Ambience, Birdsong, Singing Birds, Early Morning SND11282.wav</ShortName>
+					<CachePath>SFX/Soundly Audio/Ambience, Birdsong, Singing Birds, Early Morning SND11282_F184FA63.wem</CachePath>
+				</File>
+				<File Id="940505135" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>4.12.26\PlayerHouse_RTLP.wav</ShortName>
+					<CachePath>SFX/4.12.26/PlayerHouse_RTLP_30EF12F3.wem</CachePath>
+				</File>
+				<File Id="953513443" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Metal - BOOT\Metal-3.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Metal - BOOT/Metal-3_818F3B66.wem</CachePath>
+				</File>
+				<File Id="965850272" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Soundly Audio\Aircraft, Military, Fighter Jet, Lockheed F 104 Starfighter, Flyby, MKH40 SND145616.wav</ShortName>
+					<CachePath>SFX/Soundly Audio/Aircraft, Military, Fighter Jet, Lockheed F 104 Starfighter, Flyby, MKH40 SND145616_0D665554.wem</CachePath>
+				</File>
+				<File Id="970819885" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Wood - SNK\Wood-2.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Wood - SNK/Wood-2_818F3B66.wem</CachePath>
+				</File>
+				<File Id="971241108" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Owl Cleaned Up.wav</ShortName>
+					<CachePath>SFX/Owl Cleaned Up_EEDB25EC.wem</CachePath>
+				</File>
+				<File Id="975478453" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Soundly Audio\Birds, Crow, Raven, Squawk, Call, Light Wind SND129211.wav</ShortName>
+					<CachePath>SFX/Soundly Audio/Birds, Crow, Raven, Squawk, Call, Light Wind SND129211_9F17C1D5.wem</CachePath>
+				</File>
+				<File Id="981992303" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Ambience, Room Tone, Wooden Cabin, Night, Very Quiet, Air SND138993.wav</ShortName>
+					<CachePath>SFX/Ambience, Room Tone, Wooden Cabin, Night, Very Quiet, Air SND138993_7BFB4653.wem</CachePath>
+				</File>
+				<File Id="995527268" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Stone - SNK\Stone-3.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Stone - SNK/Stone-3_00225573.wem</CachePath>
+				</File>
+				<File Id="1034667357" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Soundly Audio\Birds, Crow, Raven, Squawk, Call, Light Wind SND129211.wav</ShortName>
+					<CachePath>SFX/Soundly Audio/Birds, Crow, Raven, Squawk, Call, Light Wind SND129211_46407F3D.wem</CachePath>
+				</File>
+				<File Id="1038693362" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>reconciled amb bed v2.wav</ShortName>
+					<CachePath>SFX/reconciled amb bed v2_9891B661.wem</CachePath>
+				</File>
+				<File Id="1047848170" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>MapTwoClose.wav</ShortName>
+					<CachePath>SFX/MapTwoClose_818F3B66.wem</CachePath>
+				</File>
+				<File Id="1048162343" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Soundly Audio\Bells, Handbell, Movement, Brigjht SND143124.wav</ShortName>
+					<CachePath>SFX/Soundly Audio/Bells, Handbell, Movement, Brigjht SND143124_B2785581.wem</CachePath>
+				</File>
+				<File Id="1049879557" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Metal - BOOT\Metal-1.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Metal - BOOT/Metal-1_818F3B66.wem</CachePath>
+				</File>
+				<File Id="1062826730" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Dirt - SNK\Dirt-3.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Dirt - SNK/Dirt-3_0BD498E8.wem</CachePath>
+				</File>
+				<File Id="1069135987" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>4.12.26\Hospital_PulseBeepLP.wav</ShortName>
+					<CachePath>SFX/4.12.26/Hospital_PulseBeepLP_5C48BE6C.wem</CachePath>
+				</File>
+			</Media>
+			<Plugins>
+				<Custom>
+					<Plugin Id="121377276" Name="Silence" GUID="{D60B2B89-CB9D-46DB-87E4-9DE4B2F81253}" LibName="Wwise Silence" LibId="6619138"/>
+					<Plugin Id="130990925" Name="Silence" GUID="{E211A794-79F2-489C-BD22-3F955F984545}" LibName="Wwise Silence" LibId="6619138"/>
+					<Plugin Id="391211421" Name="Silence" GUID="{8CE4421E-6B9B-4E61-B8E7-A8BAF29B148A}" LibName="Wwise Silence" LibId="6619138"/>
+					<Plugin Id="491266841" Name="Silence" GUID="{965EA1AD-5D54-4879-920E-5C539F7D7847}" LibName="Wwise Silence" LibId="6619138"/>
+					<Plugin Id="572075639" Name="Silence" GUID="{A3894CE7-5642-4DF9-81AD-F87B8931EAB4}" LibName="Wwise Silence" LibId="6619138"/>
+					<Plugin Id="927830057" Name="Silence" GUID="{7F32EDAB-813F-42B7-B7AE-4BBF8F495940}" LibName="Wwise Silence" LibId="6619138"/>
+				</Custom>
+				<ShareSets>
+					<Plugin Id="48620415" Name="Have_U_Ever_Been_Outside" GUID="{FE29AE8D-FD86-4652-A95D-68D32F5760EC}" LibName="Wwise RoomVerb" LibId="7733251"/>
+					<Plugin Id="1110677034" Name="Underwater_Echoes" GUID="{3C6B127B-9DAE-4879-A4ED-75DF209310EC}" LibName="Wwise Stereo Delay" LibId="8847363"/>
+					<Plugin Id="2995775460" Name="Room_Small" GUID="{577F1466-A63B-47F7-98BD-C56E433F8B5D}" LibName="Wwise RoomVerb" LibId="7733251"/>
+					<Plugin Id="3216246379" Name="Space_Dreaming" GUID="{4FF7C4B2-37B0-4DFF-8E8A-1420102AE2DD}" LibName="Wwise RoomVerb" LibId="7733251"/>
+					<Plugin Id="3900114836" Name="Metal_Hangar" GUID="{C4A4605C-42EF-476A-B53C-E31C7A442C24}" LibName="Wwise RoomVerb" LibId="7733251"/>
+				</ShareSets>
+			</Plugins>
+			<Events>
+				<Event Id="3587600583" Name="amb_bed" GUID="{BF32685F-4B5C-44CF-B554-FB9010A367EC}" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="1038693362"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="61676720" Name="amb_bed_night" GUID="{26894052-9A9F-41E4-8D52-8683460EB47D}" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="981992303"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="1129358760" Name="amb_hospital_HallwayWallaLP" GUID="{B5937699-5ABD-4792-9DE4-1EB2F103DEBF}" MaxAttenuation="25" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="703621488"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="1427742734" Name="amb_hospital_pulsebeep" GUID="{87BC8372-842A-4D8A-AB6D-26A3F9102EF1}" MaxAttenuation="25" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="158085481"/>
+						<MediaRef Id="1069135987"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="2735573785" Name="amb_hospital_RTLP" GUID="{7A3D5B1F-51CC-442F-99A1-57DE0FCABFDC}" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="108230715"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="1305275098" Name="amb_night_insects" GUID="{6F7EF2C4-C33C-4214-BA8E-56D2F296F7ED}" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="440238639"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="1665301958" Name="amb_oceanwaves" GUID="{D8F710DC-62B6-47E2-82C1-5A92D1EA064E}" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="440057137"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="188339144" Name="amb_playerhouse_RTLP" GUID="{CA5A209C-712F-4A1E-A705-25CD1CF618B8}" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="940505135"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="2154256363" Name="amb_playerhouseclock" GUID="{83497816-CF0A-4194-BB81-20406DD2A231}" MaxAttenuation="25" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="825444884"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="710205036" Name="amb_PlayerHouseCreaks" GUID="{2FAB5B62-AC0F-48DC-BE99-099AA42A94BB}" MaxAttenuation="25" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="354254966"/>
+						<MediaRef Id="478435977"/>
+						<MediaRef Id="494505907"/>
+						<MediaRef Id="529024052"/>
+						<MediaRef Id="668445724"/>
+					</MediaRefs>
+					<PluginRefs>
+						<Custom>
+							<PluginRef Id="491266841"/>
+						</Custom>
+					</PluginRefs>
+				</Event>
+				<Event Id="1288303153" Name="amb_reverseClockTick" GUID="{697019A3-A5A3-49B8-870B-47156E745CFE}" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="268889924"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="3113636726" Name="amb_tree" GUID="{02757E94-19A0-4102-B378-12E5CD1A392C}" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="21816582"/>
+						<MediaRef Id="37551296"/>
+						<MediaRef Id="48194156"/>
+						<MediaRef Id="85367466"/>
+						<MediaRef Id="137656265"/>
+						<MediaRef Id="163733945"/>
+						<MediaRef Id="171826125"/>
+						<MediaRef Id="194177673"/>
+						<MediaRef Id="254117256"/>
+						<MediaRef Id="260019495"/>
+						<MediaRef Id="347355325"/>
+						<MediaRef Id="349373469"/>
+						<MediaRef Id="376073963"/>
+						<MediaRef Id="434289978"/>
+						<MediaRef Id="476067684"/>
+						<MediaRef Id="543049121"/>
+						<MediaRef Id="556868249"/>
+						<MediaRef Id="593116682"/>
+						<MediaRef Id="621696556"/>
+						<MediaRef Id="630464976"/>
+						<MediaRef Id="641851743"/>
+						<MediaRef Id="650243767"/>
+						<MediaRef Id="675993333"/>
+						<MediaRef Id="694698294"/>
+						<MediaRef Id="712245873"/>
+						<MediaRef Id="720565276"/>
+						<MediaRef Id="725525927"/>
+						<MediaRef Id="737733773"/>
+						<MediaRef Id="777262149"/>
+						<MediaRef Id="876670537"/>
+						<MediaRef Id="917444722"/>
+						<MediaRef Id="938764412"/>
+						<MediaRef Id="971241108"/>
+						<MediaRef Id="975478453"/>
+						<MediaRef Id="1034667357"/>
+						<MediaRef Id="1048162343"/>
+					</MediaRefs>
+					<PluginRefs>
+						<Custom>
+							<PluginRef Id="121377276"/>
+							<PluginRef Id="130990925"/>
+							<PluginRef Id="391211421"/>
+							<PluginRef Id="572075639"/>
+						</Custom>
+						<ShareSets>
+							<PluginRef Id="48620415"/>
+							<PluginRef Id="1110677034"/>
+							<PluginRef Id="3216246379"/>
+						</ShareSets>
+					</PluginRefs>
+					<AuxBusRefs>
+						<AuxBusRef Id="4154576717" Name="Amb_Verb" GUID="{1B3A8063-F568-4CA9-9AF9-3A245E619121}"/>
+					</AuxBusRefs>
+				</Event>
+				<Event Id="4181869077" Name="amb_tree_night" GUID="{A24E4CEA-99C8-45F4-88D9-C126CE88FB8D}" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="37551296"/>
+						<MediaRef Id="85367466"/>
+						<MediaRef Id="137656265"/>
+						<MediaRef Id="194177673"/>
+						<MediaRef Id="347355325"/>
+						<MediaRef Id="434289978"/>
+						<MediaRef Id="476067684"/>
+						<MediaRef Id="543049121"/>
+						<MediaRef Id="556868249"/>
+						<MediaRef Id="621696556"/>
+						<MediaRef Id="630464976"/>
+						<MediaRef Id="641851743"/>
+						<MediaRef Id="712245873"/>
+						<MediaRef Id="737733773"/>
+						<MediaRef Id="777262149"/>
+						<MediaRef Id="917444722"/>
+						<MediaRef Id="971241108"/>
+						<MediaRef Id="1048162343"/>
+					</MediaRefs>
+					<PluginRefs>
+						<Custom>
+							<PluginRef Id="121377276"/>
+							<PluginRef Id="572075639"/>
+						</Custom>
+						<ShareSets>
+							<PluginRef Id="48620415"/>
+							<PluginRef Id="1110677034"/>
+							<PluginRef Id="3216246379"/>
+						</ShareSets>
+					</PluginRefs>
+					<AuxBusRefs>
+						<AuxBusRef Id="4154576717" Name="Amb_Verb" GUID="{1B3A8063-F568-4CA9-9AF9-3A245E619121}"/>
+					</AuxBusRefs>
+				</Event>
+				<Event Id="3316054348" Name="amb_war" GUID="{42BE8166-F793-4015-924B-8ABBACD1F820}" MaxAttenuation="10" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="35119013"/>
+						<MediaRef Id="667213475"/>
+						<MediaRef Id="698629590"/>
+						<MediaRef Id="880744553"/>
+						<MediaRef Id="965850272"/>
+					</MediaRefs>
+					<PluginRefs>
+						<Custom>
+							<PluginRef Id="927830057"/>
+						</Custom>
+						<ShareSets>
+							<PluginRef Id="3900114836"/>
+						</ShareSets>
+					</PluginRefs>
+				</Event>
+				<Event Id="1654598460" Name="amb_weddingRTLP" GUID="{23DD4277-09DC-4D8D-9758-B8520C2E3F95}" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="536773767"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="535830432" Name="door_open" GUID="{451842C8-031E-4ECC-8EBD-A8C04223ED91}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+				<Event Id="2637953892" Name="drink_sip" GUID="{CCEAE9E5-FA06-4B76-932B-9EB53F5964C7}" DurationType="OneShot" DurationMin="0.36660394" DurationMax="0.48752844">
+					<MediaRefs>
+						<MediaRef Id="90926387"/>
+						<MediaRef Id="97626045"/>
+						<MediaRef Id="490759001"/>
+						<MediaRef Id="901501956"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="3798161224" Name="item_spawn" GUID="{3C73D2B7-8E33-484E-8884-91B02D79754D}" DurationType="OneShot" DurationMin="0.25" DurationMax="0.28883818">
+					<MediaRefs>
+						<MediaRef Id="115677031"/>
+						<MediaRef Id="276616100"/>
+						<MediaRef Id="716183659"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="1455535776" Name="item_up" GUID="{C313B3C6-4891-4437-8336-9A54E443646D}" DurationType="OneShot" DurationMin="0.16752875" DurationMax="0.21910712">
+					<MediaRefs>
+						<MediaRef Id="370590470"/>
+						<MediaRef Id="396367671"/>
+						<MediaRef Id="781502698"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="580682347" Name="key_play" GUID="{AD5252CF-3B2F-425C-8649-6769A211D0F2}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+				<Event Id="831022004" Name="map_openclose" GUID="{17307010-1B10-46AD-9BF8-38B557200D0B}" DurationType="OneShot" DurationMin="0.375" DurationMax="1">
+					<SwitchContainers>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="1177793757" Id="2323396735" GUID="{4054FF57-284A-47EA-86FC-1A6FFAD7C8FD}"/>
+							<MediaRefs>
+								<MediaRef Id="146124239"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="1177793757" Id="1936672669" GUID="{91C6BD60-661D-4267-BD87-62206914905F}" Default="true"/>
+							<MediaRefs>
+								<MediaRef Id="1047848170"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="1177793757" Id="2323396735" GUID="{4054FF57-284A-47EA-86FC-1A6FFAD7C8FD}"/>
+							<MediaRefs>
+								<MediaRef Id="875258862"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="1177793757" Id="1936672669" GUID="{91C6BD60-661D-4267-BD87-62206914905F}" Default="true"/>
+							<MediaRefs>
+								<MediaRef Id="555749960"/>
+							</MediaRefs>
+						</SwitchContainer>
+					</SwitchContainers>
+				</Event>
+				<Event Id="4090627927" Name="mes_send" GUID="{94DF677D-9D5F-4EB9-8E73-79DE6505BE84}" DurationType="OneShot" DurationMin="0.375" DurationMax="0.375">
+					<MediaRefs>
+						<MediaRef Id="891933558"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="3092587493" Name="Pause" GUID="{C2BF9A53-9D24-4664-866E-4B8177218DBE}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0">
+					<ActionSetState>
+						<ActionSetStateEntry GroupId="253445270" Id="319258907" Name="Paused" GUID="{7E399DF0-DDC6-493B-B112-E0F80DD22C5D}"/>
+					</ActionSetState>
+				</Event>
+				<Event Id="979341015" Name="pc_footstep" GUID="{8C84EA86-D250-4288-A932-26CF786E6336}" DurationType="OneShot" DurationMin="0.074068114" DurationMax="0.5297316">
+					<SwitchContainers>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="4274333454" Id="2195636714" GUID="{D8C27601-437A-415E-88E0-2EB8EA31D643}" Default="true"/>
+							<MediaRefs>
+								<MediaRef Id="112472524"/>
+								<MediaRef Id="484174853"/>
+								<MediaRef Id="485969829"/>
+								<MediaRef Id="570680781"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="4274333454" Id="1216965916" GUID="{C8A6D63C-9AE8-4C66-A270-F0AF0BB4D17F}"/>
+							<MediaRefs>
+								<MediaRef Id="173069506"/>
+								<MediaRef Id="299069138"/>
+								<MediaRef Id="397850430"/>
+								<MediaRef Id="428349445"/>
+								<MediaRef Id="508518139"/>
+								<MediaRef Id="995527268"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="4274333454" Id="2058049674" GUID="{CBE77A8A-E82C-4FF6-BB63-3906B86272BF}"/>
+							<MediaRefs>
+								<MediaRef Id="106093536"/>
+								<MediaRef Id="292976887"/>
+								<MediaRef Id="493420085"/>
+								<MediaRef Id="574255775"/>
+								<MediaRef Id="915147561"/>
+								<MediaRef Id="970819885"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="4274333454" Id="4248645337" GUID="{95CF5C96-F14E-4E5B-B14B-3150A73BDE11}"/>
+							<MediaRefs>
+								<MediaRef Id="52575897"/>
+								<MediaRef Id="171473709"/>
+								<MediaRef Id="205369667"/>
+								<MediaRef Id="412958173"/>
+								<MediaRef Id="481181567"/>
+								<MediaRef Id="541567705"/>
+								<MediaRef Id="655332947"/>
+								<MediaRef Id="792051615"/>
+								<MediaRef Id="873220779"/>
+								<MediaRef Id="1062826730"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="4274333454" Id="2473969246" GUID="{49B9E6F1-A8E5-49EC-AE85-AFF2C45AE9C8}"/>
+							<MediaRefs>
+								<MediaRef Id="128395977"/>
+								<MediaRef Id="578450807"/>
+								<MediaRef Id="841367300"/>
+								<MediaRef Id="953513443"/>
+								<MediaRef Id="1049879557"/>
+							</MediaRefs>
+						</SwitchContainer>
+					</SwitchContainers>
+				</Event>
+				<Event Id="866644614" Name="phone_pickup" GUID="{8F8A01C6-1DB6-4964-9C47-E616F26AE021}" DurationType="OneShot" DurationMin="0.36144364" DurationMax="0.36144364">
+					<MediaRefs>
+						<MediaRef Id="882016101"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="3401439988" Name="phone_ring" GUID="{E8F1B52F-2837-4240-9886-0E5CD4E26491}" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="686583825"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="2549633701" Name="piano_play" GUID="{20FF6079-8F85-493D-8F68-45B44205C89A}" MaxAttenuation="25" DurationType="OneShot" DurationMin="43.885715" DurationMax="43.885715">
+					<MediaRefs>
+						<MediaRef Id="304342604"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="2391343273" Name="pill_interact" GUID="{9246EA10-93F7-4BBB-A7C8-F9DD4D419D5D}" DurationType="OneShot" DurationMin="0.46698686" DurationMax="0.79634756">
+					<MediaRefs>
+						<MediaRef Id="142534857"/>
+						<MediaRef Id="250874097"/>
+						<MediaRef Id="549204138"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="1256202815" Name="Play" GUID="{7A920923-304E-46AC-B02C-FA01C247E748}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0">
+					<ActionSetState>
+						<ActionSetStateEntry GroupId="253445270" Id="1852808225" Name="Playing" GUID="{AFCBE0A6-6321-4477-B340-D5DF456C4776}"/>
+					</ActionSetState>
+				</Event>
+				<Event Id="2451061482" Name="play_poi_jingle" GUID="{EE2473FB-179A-4ED7-8CE9-B0D45966597D}" DurationType="OneShot" DurationMin="3.8868937" DurationMax="3.8868937">
+					<MediaRefs>
+						<MediaRef Id="103026209"/>
+						<MediaRef Id="228319950"/>
+						<MediaRef Id="731165589"/>
+					</MediaRefs>
+					<PluginRefs>
+						<ShareSets>
+							<PluginRef Id="2995775460"/>
+						</ShareSets>
+					</PluginRefs>
+				</Event>
+				<Event Id="2604896900" Name="play_title_music" GUID="{BF650159-A0A8-4524-95B0-A5C8A4BE1DE7}" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="724368513"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="3086540886" Name="StopAll" GUID="{5299644B-320A-495E-9B75-EB4E7F0F5F22}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+				<Event Id="401243365" Name="Street_RTLP" GUID="{FE182BCA-52D7-48D6-9162-A3E037AD1B8A}" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="767069845"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="114855865" Name="timer_click" GUID="{99DAD29F-3E7C-4E52-8C4A-37B1A4AEF36C}" DurationType="OneShot" DurationMin="0.28964064" DurationMax="0.28964064">
+					<MediaRefs>
+						<MediaRef Id="89501386"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="2168748669" Name="timer_ring" GUID="{58803889-33B0-4445-AE9D-6426D8DCB581}" DurationType="OneShot" DurationMin="0.6832585" DurationMax="0.7669317">
+					<MediaRefs>
+						<MediaRef Id="260389859"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="796052088" Name="timer_tick" GUID="{177A901D-E5BB-480E-B301-34768A198614}" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="535648432"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="2024222415" Name="ui_back" GUID="{0632CD9B-7B02-414B-A929-9CBE698468DB}" DurationType="OneShot" DurationMin="0.43304163" DurationMax="0.48607287">
+					<MediaRefs>
+						<MediaRef Id="443053519"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="1402340918" Name="ui_highlight" GUID="{EC9B4E7E-1F76-4511-8909-19F6FE32BDBC}" DurationType="OneShot" DurationMin="0.1857895" DurationMax="0.29195833">
+					<MediaRefs>
+						<MediaRef Id="506537613"/>
+						<MediaRef Id="552256699"/>
+						<MediaRef Id="608319785"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="2774129122" Name="ui_select" GUID="{8055328B-5A6B-4EAD-9163-FF9428284ED6}" DurationType="OneShot" DurationMin="0.625625" DurationMax="0.625625">
+					<MediaRefs>
+						<MediaRef Id="411523467"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="2594811980" Name="water_run" GUID="{3A9353BD-F92D-4B21-B6F2-6EE7394F6783}" MaxAttenuation="25" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="741618255"/>
+					</MediaRefs>
+				</Event>
+			</Events>
+			<GameParameters>
+				<GameParameter Id="3137397720" Name="HospitalEmergencyLevel" GUID="{CC507695-E9F7-49C8-AF03-D65DCF231FE0}"/>
+			</GameParameters>
+			<StateGroups>
+				<StateGroup Id="253445270" Name="Pause_Play" GUID="{B0CDA361-659A-4BE4-8B29-6AE22E93AD0C}">
+					<States>
+						<State Id="319258907" Name="Paused" GUID="{7E399DF0-DDC6-493B-B112-E0F80DD22C5D}"/>
+						<State Id="748895195" Name="None" GUID="{1FC2AED3-1424-4205-8297-936A2B45E891}"/>
+						<State Id="1852808225" Name="Playing" GUID="{AFCBE0A6-6321-4477-B340-D5DF456C4776}"/>
+					</States>
+				</StateGroup>
+			</StateGroups>
+			<SwitchGroups>
+				<SwitchGroup Id="1177793757" Name="MapType" GUID="{85A20742-3B21-413C-A62E-D13A56764ABF}">
+					<Switches>
+						<Switch Id="1936672669" Name="MapTwo" GUID="{91C6BD60-661D-4267-BD87-62206914905F}"/>
+						<Switch Id="2323396735" Name="MapOne" GUID="{4054FF57-284A-47EA-86FC-1A6FFAD7C8FD}"/>
+					</Switches>
+				</SwitchGroup>
+				<SwitchGroup Id="2085770324" Name="ItemPickupType" GUID="{DC07056D-67FD-4225-8DA3-D75C3D50C652}">
+					<Switches>
+						<Switch Id="660835419" Name="Plastic" GUID="{BAD1991E-B3B3-4795-9E30-20351269AD8A}"/>
+						<Switch Id="2473969246" Name="Metal" GUID="{6DB9B8C3-02FB-4280-8819-D0941A4053C4}"/>
+						<Switch Id="3126687001" Name="Paper" GUID="{FB981DE4-9965-4455-8EA2-A9F5746E12D9}"/>
+					</Switches>
+				</SwitchGroup>
+				<SwitchGroup Id="4274333454" Name="FloorMaterial" GUID="{A43E7BCC-6D3A-48E7-A1E9-D1506A02D96A}">
+					<Switches>
+						<Switch Id="1216965916" Name="Stone" GUID="{C8A6D63C-9AE8-4C66-A270-F0AF0BB4D17F}"/>
+						<Switch Id="2058049674" Name="Wood" GUID="{CBE77A8A-E82C-4FF6-BB63-3906B86272BF}"/>
+						<Switch Id="2195636714" Name="Dirt" GUID="{D8C27601-437A-415E-88E0-2EB8EA31D643}"/>
+						<Switch Id="2473969246" Name="Metal" GUID="{49B9E6F1-A8E5-49EC-AE85-AFF2C45AE9C8}"/>
+						<Switch Id="4248645337" Name="Grass" GUID="{95CF5C96-F14E-4E5B-B14B-3150A73BDE11}"/>
+					</Switches>
+				</SwitchGroup>
+			</SwitchGroups>
+		</SoundBank>
+		<SoundBank Id="4142189312" Type="User" GUID="{67F4C62B-BF6E-4039-B1A9-37D96EEAF94E}" Language="SFX" Hash="{1DFE6768-B5DB-BA57-DEBF-15F2F7D840A0}">
+			<ShortName>Street</ShortName>
+			<Path>Street.bnk</Path>
+			<Media>
+				<File Id="52575897" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Dirt - SNK\Dirt-4.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Dirt - SNK/Dirt-4_326E223B.wem</CachePath>
+				</File>
+				<File Id="106093536" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Wood - SNK\Wood-5.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Wood - SNK/Wood-5_818F3B66.wem</CachePath>
+				</File>
+				<File Id="112472524" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Dirt - SNK\Dirt-4.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Dirt - SNK/Dirt-4_818F3B66.wem</CachePath>
+				</File>
+				<File Id="128395977" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Metal - BOOT\Metal-2.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Metal - BOOT/Metal-2_818F3B66.wem</CachePath>
+				</File>
+				<File Id="146124239" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>MapOneClose.wav</ShortName>
+					<CachePath>SFX/MapOneClose_818F3B66.wem</CachePath>
+				</File>
+				<File Id="171473709" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Grass\Grass-3.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Grass/Grass-3_818F3B66.wem</CachePath>
+				</File>
+				<File Id="173069506" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Stone - SNK\Stone-5.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Stone - SNK/Stone-5_00225573.wem</CachePath>
+				</File>
+				<File Id="205369667" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Grass\Grass-5.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Grass/Grass-5_818F3B66.wem</CachePath>
+				</File>
+				<File Id="292976887" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Wood - SNK\Wood-1.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Wood - SNK/Wood-1_818F3B66.wem</CachePath>
+				</File>
+				<File Id="299069138" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Stone - SNK\Stone-2.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Stone - SNK/Stone-2_00225573.wem</CachePath>
+				</File>
+				<File Id="370590470" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Item Pick Up 1.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Item Pick Up 1_70D53CF4.wem</CachePath>
+				</File>
+				<File Id="396367671" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Item Pick Up 3.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Item Pick Up 3_E238D614.wem</CachePath>
+				</File>
+				<File Id="397850430" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Stone - SNK\Stone-1.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Stone - SNK/Stone-1_00225573.wem</CachePath>
+				</File>
+				<File Id="411523467" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Paper Enter.wav</ShortName>
+					<CachePath>SFX/Paper Enter_818F3B66.wem</CachePath>
+				</File>
+				<File Id="412958173" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Grass\Grass-6.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Grass/Grass-6_818F3B66.wem</CachePath>
+				</File>
+				<File Id="428349445" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Stone - SNK\Stone-4.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Stone - SNK/Stone-4_00225573.wem</CachePath>
+				</File>
+				<File Id="443053519" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Paper Down.wav</ShortName>
+					<CachePath>SFX/Paper Down_818F3B66.wem</CachePath>
+				</File>
+				<File Id="481181567" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Dirt - SNK\Dirt-5.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Dirt - SNK/Dirt-5_73865736.wem</CachePath>
+				</File>
+				<File Id="484174853" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Dirt - SNK\Dirt-3.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Dirt - SNK/Dirt-3_818F3B66.wem</CachePath>
+				</File>
+				<File Id="485969829" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Dirt - SNK\Dirt-1.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Dirt - SNK/Dirt-1_818F3B66.wem</CachePath>
+				</File>
+				<File Id="493420085" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Wood - SNK\Wood-3.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Wood - SNK/Wood-3_818F3B66.wem</CachePath>
+				</File>
+				<File Id="506537613" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Paper 1.wav</ShortName>
+					<CachePath>SFX/Paper 1_818F3B66.wem</CachePath>
+				</File>
+				<File Id="508518139" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Stone - SNK\Stone-6.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Stone - SNK/Stone-6_00225573.wem</CachePath>
+				</File>
+				<File Id="541567705" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Dirt - SNK\Dirt-1.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Dirt - SNK/Dirt-1_0F40F7A9.wem</CachePath>
+				</File>
+				<File Id="552256699" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Paper 2.wav</ShortName>
+					<CachePath>SFX/Paper 2_818F3B66.wem</CachePath>
+				</File>
+				<File Id="555749960" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>MapTwoOpen.wav</ShortName>
+					<CachePath>SFX/MapTwoOpen_818F3B66.wem</CachePath>
+				</File>
+				<File Id="570680781" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Dirt - SNK\Dirt-5.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Dirt - SNK/Dirt-5_818F3B66.wem</CachePath>
+				</File>
+				<File Id="574255775" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Wood - SNK\Wood-6.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Wood - SNK/Wood-6_818F3B66.wem</CachePath>
+				</File>
+				<File Id="578450807" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Metal - BOOT\Metal-5.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Metal - BOOT/Metal-5_818F3B66.wem</CachePath>
+				</File>
+				<File Id="608319785" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Paper 3.wav</ShortName>
+					<CachePath>SFX/Paper 3_818F3B66.wem</CachePath>
+				</File>
+				<File Id="655332947" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Grass\Grass-2.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Grass/Grass-2_818F3B66.wem</CachePath>
+				</File>
+				<File Id="767069845" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>4.12.26\Street_RTLP.wav</ShortName>
+					<CachePath>SFX/4.12.26/Street_RTLP_46A51E94.wem</CachePath>
+				</File>
+				<File Id="781502698" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Item Pick Up 2.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Item Pick Up 2_7097BF2A.wem</CachePath>
+				</File>
+				<File Id="792051615" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Grass\Grass-4.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Grass/Grass-4_818F3B66.wem</CachePath>
+				</File>
+				<File Id="841367300" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Metal - BOOT\Metal-4.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Metal - BOOT/Metal-4_818F3B66.wem</CachePath>
+				</File>
+				<File Id="873220779" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Grass\Grass-1.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Grass/Grass-1_818F3B66.wem</CachePath>
+				</File>
+				<File Id="875258862" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>MapOneOpen.wav</ShortName>
+					<CachePath>SFX/MapOneOpen_818F3B66.wem</CachePath>
+				</File>
+				<File Id="915147561" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Wood - SNK\Wood-4.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Wood - SNK/Wood-4_818F3B66.wem</CachePath>
+				</File>
+				<File Id="953513443" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Metal - BOOT\Metal-3.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Metal - BOOT/Metal-3_818F3B66.wem</CachePath>
+				</File>
+				<File Id="970819885" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Wood - SNK\Wood-2.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Wood - SNK/Wood-2_818F3B66.wem</CachePath>
+				</File>
+				<File Id="995527268" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Stone - SNK\Stone-3.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Stone - SNK/Stone-3_00225573.wem</CachePath>
+				</File>
+				<File Id="1047848170" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>MapTwoClose.wav</ShortName>
+					<CachePath>SFX/MapTwoClose_818F3B66.wem</CachePath>
+				</File>
+				<File Id="1049879557" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Metal - BOOT\Metal-1.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Metal - BOOT/Metal-1_818F3B66.wem</CachePath>
+				</File>
+				<File Id="1062826730" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Assets ready for implementation\Footsteps\Dirt - SNK\Dirt-3.wav</ShortName>
+					<CachePath>SFX/Assets ready for implementation/Footsteps/Dirt - SNK/Dirt-3_0BD498E8.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="1455535776" Name="item_up" GUID="{C313B3C6-4891-4437-8336-9A54E443646D}" DurationType="OneShot" DurationMin="0.16752875" DurationMax="0.21910712">
+					<MediaRefs>
+						<MediaRef Id="370590470"/>
+						<MediaRef Id="396367671"/>
+						<MediaRef Id="781502698"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="831022004" Name="map_openclose" GUID="{17307010-1B10-46AD-9BF8-38B557200D0B}" DurationType="OneShot" DurationMin="0.375" DurationMax="1">
+					<SwitchContainers>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="1177793757" Id="2323396735" GUID="{4054FF57-284A-47EA-86FC-1A6FFAD7C8FD}"/>
+							<MediaRefs>
+								<MediaRef Id="146124239"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="1177793757" Id="1936672669" GUID="{91C6BD60-661D-4267-BD87-62206914905F}" Default="true"/>
+							<MediaRefs>
+								<MediaRef Id="1047848170"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="1177793757" Id="2323396735" GUID="{4054FF57-284A-47EA-86FC-1A6FFAD7C8FD}"/>
+							<MediaRefs>
+								<MediaRef Id="875258862"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="1177793757" Id="1936672669" GUID="{91C6BD60-661D-4267-BD87-62206914905F}" Default="true"/>
+							<MediaRefs>
+								<MediaRef Id="555749960"/>
+							</MediaRefs>
+						</SwitchContainer>
+					</SwitchContainers>
+				</Event>
+				<Event Id="3092587493" Name="Pause" GUID="{C2BF9A53-9D24-4664-866E-4B8177218DBE}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0">
+					<ActionSetState>
+						<ActionSetStateEntry GroupId="253445270" Id="319258907" Name="Paused" GUID="{7E399DF0-DDC6-493B-B112-E0F80DD22C5D}"/>
+					</ActionSetState>
+				</Event>
+				<Event Id="979341015" Name="pc_footstep" GUID="{8C84EA86-D250-4288-A932-26CF786E6336}" DurationType="OneShot" DurationMin="0.074068114" DurationMax="0.5297316">
+					<SwitchContainers>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="4274333454" Id="2195636714" GUID="{D8C27601-437A-415E-88E0-2EB8EA31D643}" Default="true"/>
+							<MediaRefs>
+								<MediaRef Id="112472524"/>
+								<MediaRef Id="484174853"/>
+								<MediaRef Id="485969829"/>
+								<MediaRef Id="570680781"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="4274333454" Id="1216965916" GUID="{C8A6D63C-9AE8-4C66-A270-F0AF0BB4D17F}"/>
+							<MediaRefs>
+								<MediaRef Id="173069506"/>
+								<MediaRef Id="299069138"/>
+								<MediaRef Id="397850430"/>
+								<MediaRef Id="428349445"/>
+								<MediaRef Id="508518139"/>
+								<MediaRef Id="995527268"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="4274333454" Id="2058049674" GUID="{CBE77A8A-E82C-4FF6-BB63-3906B86272BF}"/>
+							<MediaRefs>
+								<MediaRef Id="106093536"/>
+								<MediaRef Id="292976887"/>
+								<MediaRef Id="493420085"/>
+								<MediaRef Id="574255775"/>
+								<MediaRef Id="915147561"/>
+								<MediaRef Id="970819885"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="4274333454" Id="4248645337" GUID="{95CF5C96-F14E-4E5B-B14B-3150A73BDE11}"/>
+							<MediaRefs>
+								<MediaRef Id="52575897"/>
+								<MediaRef Id="171473709"/>
+								<MediaRef Id="205369667"/>
+								<MediaRef Id="412958173"/>
+								<MediaRef Id="481181567"/>
+								<MediaRef Id="541567705"/>
+								<MediaRef Id="655332947"/>
+								<MediaRef Id="792051615"/>
+								<MediaRef Id="873220779"/>
+								<MediaRef Id="1062826730"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="4274333454" Id="2473969246" GUID="{49B9E6F1-A8E5-49EC-AE85-AFF2C45AE9C8}"/>
+							<MediaRefs>
+								<MediaRef Id="128395977"/>
+								<MediaRef Id="578450807"/>
+								<MediaRef Id="841367300"/>
+								<MediaRef Id="953513443"/>
+								<MediaRef Id="1049879557"/>
+							</MediaRefs>
+						</SwitchContainer>
+					</SwitchContainers>
+				</Event>
+				<Event Id="1256202815" Name="Play" GUID="{7A920923-304E-46AC-B02C-FA01C247E748}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0">
+					<ActionSetState>
+						<ActionSetStateEntry GroupId="253445270" Id="1852808225" Name="Playing" GUID="{AFCBE0A6-6321-4477-B340-D5DF456C4776}"/>
+					</ActionSetState>
+				</Event>
+				<Event Id="3086540886" Name="StopAll" GUID="{5299644B-320A-495E-9B75-EB4E7F0F5F22}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+				<Event Id="401243365" Name="Street_RTLP" GUID="{FE182BCA-52D7-48D6-9162-A3E037AD1B8A}" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="767069845"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="2024222415" Name="ui_back" GUID="{0632CD9B-7B02-414B-A929-9CBE698468DB}" DurationType="OneShot" DurationMin="0.43304163" DurationMax="0.48607287">
+					<MediaRefs>
+						<MediaRef Id="443053519"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="1402340918" Name="ui_highlight" GUID="{EC9B4E7E-1F76-4511-8909-19F6FE32BDBC}" DurationType="OneShot" DurationMin="0.1857895" DurationMax="0.29195833">
+					<MediaRefs>
+						<MediaRef Id="506537613"/>
+						<MediaRef Id="552256699"/>
+						<MediaRef Id="608319785"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="2774129122" Name="ui_select" GUID="{8055328B-5A6B-4EAD-9163-FF9428284ED6}" DurationType="OneShot" DurationMin="0.625625" DurationMax="0.625625">
+					<MediaRefs>
+						<MediaRef Id="411523467"/>
+					</MediaRefs>
+				</Event>
+			</Events>
+			<StateGroups>
+				<StateGroup Id="253445270" Name="Pause_Play" GUID="{B0CDA361-659A-4BE4-8B29-6AE22E93AD0C}">
+					<States>
+						<State Id="319258907" Name="Paused" GUID="{7E399DF0-DDC6-493B-B112-E0F80DD22C5D}"/>
+						<State Id="748895195" Name="None" GUID="{1FC2AED3-1424-4205-8297-936A2B45E891}"/>
+						<State Id="1852808225" Name="Playing" GUID="{AFCBE0A6-6321-4477-B340-D5DF456C4776}"/>
+					</States>
+				</StateGroup>
+			</StateGroups>
+			<SwitchGroups>
+				<SwitchGroup Id="1177793757" Name="MapType" GUID="{85A20742-3B21-413C-A62E-D13A56764ABF}">
+					<Switches>
+						<Switch Id="1936672669" Name="MapTwo" GUID="{91C6BD60-661D-4267-BD87-62206914905F}"/>
+						<Switch Id="2323396735" Name="MapOne" GUID="{4054FF57-284A-47EA-86FC-1A6FFAD7C8FD}"/>
+					</Switches>
+				</SwitchGroup>
+				<SwitchGroup Id="2085770324" Name="ItemPickupType" GUID="{DC07056D-67FD-4225-8DA3-D75C3D50C652}">
+					<Switches>
+						<Switch Id="660835419" Name="Plastic" GUID="{BAD1991E-B3B3-4795-9E30-20351269AD8A}"/>
+						<Switch Id="2473969246" Name="Metal" GUID="{6DB9B8C3-02FB-4280-8819-D0941A4053C4}"/>
+						<Switch Id="3126687001" Name="Paper" GUID="{FB981DE4-9965-4455-8EA2-A9F5746E12D9}"/>
+					</Switches>
+				</SwitchGroup>
+				<SwitchGroup Id="4274333454" Name="FloorMaterial" GUID="{A43E7BCC-6D3A-48E7-A1E9-D1506A02D96A}">
+					<Switches>
+						<Switch Id="1216965916" Name="Stone" GUID="{C8A6D63C-9AE8-4C66-A270-F0AF0BB4D17F}"/>
+						<Switch Id="2058049674" Name="Wood" GUID="{CBE77A8A-E82C-4FF6-BB63-3906B86272BF}"/>
+						<Switch Id="2195636714" Name="Dirt" GUID="{D8C27601-437A-415E-88E0-2EB8EA31D643}"/>
+						<Switch Id="2473969246" Name="Metal" GUID="{49B9E6F1-A8E5-49EC-AE85-AFF2C45AE9C8}"/>
+						<Switch Id="4248645337" Name="Grass" GUID="{95CF5C96-F14E-4E5B-B14B-3150A73BDE11}"/>
+					</Switches>
+				</SwitchGroup>
+			</SwitchGroups>
+		</SoundBank>
+	</SoundBanks>
+	<FileHash>{0FFAEECA-75BF-C02D-BF3D-D1E2404B709A}</FileHash>
+</SoundBanksInfo>

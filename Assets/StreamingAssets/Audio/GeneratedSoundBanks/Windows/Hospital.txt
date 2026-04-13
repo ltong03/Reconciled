@@ -1,0 +1,39 @@
+Event	ID	Name			Wwise Object Path	Notes
+	831022004	map_openclose			\SFX\UI\map_openclose	
+	1129358760	amb_hospital_HallwayWallaLP			\Ambiences\Ambiences\3D\Hospital\amb_hospital_HallwayWallaLP	
+	1256202815	Play			\Parameters\Parameters\Play	
+	1288303153	amb_reverseClockTick			\Ambiences\Ambiences\2D\Hospital\amb_reverseClockTick	
+	1402340918	ui_highlight			\SFX\UI\ui_highlight	
+	1427742734	amb_hospital_pulsebeep			\Ambiences\Ambiences\3D\Hospital\amb_hospital_pulsebeep	
+	2024222415	ui_back			\SFX\UI\ui_back	
+	2735573785	amb_hospital_RTLP			\Ambiences\Ambiences\2D\Hospital\amb_hospital_RTLP	
+	2774129122	ui_select			\SFX\UI\ui_select	
+	3086540886	StopAll			\Parameters\Parameters\StopAll	
+	3092587493	Pause			\Parameters\Parameters\Pause	
+
+Switch Group	ID	Name			Wwise Object Path	Notes
+	1177793757	MapType			\Default Work Unit\MapType	
+
+Switch	ID	Name	Switch Group			Notes
+	1936672669	MapTwo	MapType			
+	2323396735	MapOne	MapType			
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	3137397720	HospitalEmergencyLevel			\Default Work Unit\HospitalEmergencyLevel	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	108230715	Hospital_RTLP	C:\Users\bandi\OneDrive\Documents\Game Dev\Reconciled\Wwise Project\Reconciled\.cache\Windows\SFX\4.12.26\Hospital_RTLP_30EF12F3.wem		\Actor-Mixer Hierarchy\Actor-Mixer_MAIN\Diegetic\Ambiences\2D Beds\Hospital\Hospital_RTLP		821832
+	146124239	MapOneClose	C:\Users\bandi\OneDrive\Documents\Game Dev\Reconciled\Wwise Project\Reconciled\.cache\Windows\SFX\MapOneClose_818F3B66.wem		\Actor-Mixer Hierarchy\Actor-Mixer_MAIN\Non-Diegetic\UI\UI\UI_MapOpenClose\MapClose\MapOneClose		72096
+	158085481	Hospital_PulseBeepEmergencyLP	C:\Users\bandi\OneDrive\Documents\Game Dev\Reconciled\Wwise Project\Reconciled\.cache\Windows\SFX\4.12.26\Hospital_PulseBeepEmergencyLP_30EF12F3.wem		\Actor-Mixer Hierarchy\Actor-Mixer_MAIN\Diegetic\Ambiences\3D Objects\Hospital\Hospital Ambiences 3D\Hospital_PulseBeepBlend&Switch\Hospital_PulseBeepEmergencyLP		21227
+	268889924	ClockTicking_Reverse	C:\Users\bandi\OneDrive\Documents\Game Dev\Reconciled\Wwise Project\Reconciled\.cache\Windows\SFX\4.12.26\ClockTicking_Reverse_30EF12F3.wem		\Actor-Mixer Hierarchy\Actor-Mixer_MAIN\Diegetic\Ambiences\2D Beds\Hospital\ClockTicking_Reverse		70249
+	411523467	UI_Paper Enter	C:\Users\bandi\OneDrive\Documents\Game Dev\Reconciled\Wwise Project\Reconciled\.cache\Windows\SFX\Paper Enter_818F3B66.wem		\Actor-Mixer Hierarchy\Actor-Mixer_MAIN\Non-Diegetic\UI\UI\UI_Paper Enter		120216
+	443053519	UI_Paper Down	C:\Users\bandi\OneDrive\Documents\Game Dev\Reconciled\Wwise Project\Reconciled\.cache\Windows\SFX\Paper Down_818F3B66.wem		\Actor-Mixer Hierarchy\Actor-Mixer_MAIN\Non-Diegetic\UI\UI\UI_Paper Down		88184
+	506537613	Paper 1	C:\Users\bandi\OneDrive\Documents\Game Dev\Reconciled\Wwise Project\Reconciled\.cache\Windows\SFX\Paper 1_818F3B66.wem		\Actor-Mixer Hierarchy\Actor-Mixer_MAIN\Non-Diegetic\UI\UI\UI_UI Highlight Paper\Paper 1		56152
+	552256699	Paper 2	C:\Users\bandi\OneDrive\Documents\Game Dev\Reconciled\Wwise Project\Reconciled\.cache\Windows\SFX\Paper 2_818F3B66.wem		\Actor-Mixer Hierarchy\Actor-Mixer_MAIN\Non-Diegetic\UI\UI\UI_UI Highlight Paper\Paper 2		48144
+	555749960	MapTwoOpen	C:\Users\bandi\OneDrive\Documents\Game Dev\Reconciled\Wwise Project\Reconciled\.cache\Windows\SFX\MapTwoOpen_818F3B66.wem		\Actor-Mixer Hierarchy\Actor-Mixer_MAIN\Non-Diegetic\UI\UI\UI_MapOpenClose\MapOpen\MapTwoOpen		144096
+	608319785	Paper 3	C:\Users\bandi\OneDrive\Documents\Game Dev\Reconciled\Wwise Project\Reconciled\.cache\Windows\SFX\Paper 3_818F3B66.wem		\Actor-Mixer Hierarchy\Actor-Mixer_MAIN\Non-Diegetic\UI\UI\UI_UI Highlight Paper\Paper 3		40136
+	703621488	Hospital_HallwayWallaAmb_LP	C:\Users\bandi\OneDrive\Documents\Game Dev\Reconciled\Wwise Project\Reconciled\.cache\Windows\SFX\4.12.26\Hospital_HallwayWallaAmb_LP_30EF12F3.wem		\Actor-Mixer Hierarchy\Actor-Mixer_MAIN\Diegetic\Ambiences\3D Objects\Hospital\Hospital Ambiences 3D\Hospital_HallwayWallaAmb_LP		553484
+	875258862	MapOneOpen	C:\Users\bandi\OneDrive\Documents\Game Dev\Reconciled\Wwise Project\Reconciled\.cache\Windows\SFX\MapOneOpen_818F3B66.wem		\Actor-Mixer Hierarchy\Actor-Mixer_MAIN\Non-Diegetic\UI\UI\UI_MapOpenClose\MapOpen\MapOneOpen		72096
+	1047848170	MapTwoClose	C:\Users\bandi\OneDrive\Documents\Game Dev\Reconciled\Wwise Project\Reconciled\.cache\Windows\SFX\MapTwoClose_818F3B66.wem		\Actor-Mixer Hierarchy\Actor-Mixer_MAIN\Non-Diegetic\UI\UI\UI_MapOpenClose\MapClose\MapTwoClose		192096
+	1069135987	Hospital_PulseBeepLP	C:\Users\bandi\OneDrive\Documents\Game Dev\Reconciled\Wwise Project\Reconciled\.cache\Windows\SFX\4.12.26\Hospital_PulseBeepLP_5C48BE6C.wem		\Actor-Mixer Hierarchy\Actor-Mixer_MAIN\Diegetic\Ambiences\3D Objects\Hospital\Hospital Ambiences 3D\Hospital_PulseBeepBlend&Switch\Hospital_PulseBeepLP		19563
+

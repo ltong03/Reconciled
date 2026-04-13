@@ -337,8 +337,36 @@ MonoBehaviour:
     ParentPath: SoundBanks\Default Work Unit
     guid: 455a18ce1cf01a4cabcf6fbc9621b04b
     GuidInternal: 
-    m_lastTime: -8584393726458080520
+    m_lastTime: -8584255607858546683
     List:
+    - name: GardenScene
+      guid: ef089952fdcf974a84cee6b3bed39d74
+      id: 2324544614
+      PathAndIcons:
+      - ElementName: SoundBanks
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: 455a18ce1cf01a4cabcf6fbc9621b04b
+      - ElementName: GardenScene
+        ObjectType: 7
+        guid: ef089952fdcf974a84cee6b3bed39d74
+      Path: SoundBanks\Default Work Unit\GardenScene
+    - name: Hospital
+      guid: ea704e21529c1043bb92c663eab1597d
+      id: 1640084191
+      PathAndIcons:
+      - ElementName: SoundBanks
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: 455a18ce1cf01a4cabcf6fbc9621b04b
+      - ElementName: Hospital
+        ObjectType: 7
+        guid: ea704e21529c1043bb92c663eab1597d
+      Path: SoundBanks\Default Work Unit\Hospital
     - name: Main
       guid: 90bcb4add312df448196da5cd14bafa9
       id: 3161908922
@@ -353,6 +381,34 @@ MonoBehaviour:
         ObjectType: 7
         guid: 90bcb4add312df448196da5cd14bafa9
       Path: SoundBanks\Default Work Unit\Main
+    - name: PlayerHouse
+      guid: 0ce99b58eb65d246b3b54531f80f06ca
+      id: 46385610
+      PathAndIcons:
+      - ElementName: SoundBanks
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: 455a18ce1cf01a4cabcf6fbc9621b04b
+      - ElementName: PlayerHouse
+        ObjectType: 7
+        guid: 0ce99b58eb65d246b3b54531f80f06ca
+      Path: SoundBanks\Default Work Unit\PlayerHouse
+    - name: Street
+      guid: 2bc6f4676ebf3940b1a937d96eeaf94e
+      id: 4142189312
+      PathAndIcons:
+      - ElementName: SoundBanks
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: 455a18ce1cf01a4cabcf6fbc9621b04b
+      - ElementName: Street
+        ObjectType: 7
+        guid: 2bc6f4676ebf3940b1a937d96eeaf94e
+      Path: SoundBanks\Default Work Unit\Street
   EventWwu:
   - PhysicalPath: Events\Ambiences.wwu
     PathAndIcons:
@@ -365,7 +421,7 @@ MonoBehaviour:
     ParentPath: Events\Ambiences
     guid: 7e3e149385708341a7ae7ccdb5eb3f42
     GuidInternal: 
-    m_lastTime: -8584288390489205048
+    m_lastTime: -8584255610659873878
     List:
     - name: 2D
       guid: 6eb0150a37fa3f4f9f905fe5ec7839ed
@@ -423,10 +479,13 @@ MonoBehaviour:
       - ElementName: 2D
         ObjectType: 4
         guid: 6eb0150a37fa3f4f9f905fe5ec7839ed
+      - ElementName: Garden
+        ObjectType: 4
+        guid: 1d423c0dd82b6c43a469e7b3d2659d18
       - ElementName: amb_bed
         ObjectType: 3
         guid: 5f6832bf5c4bcf44b554fb9010a367ec
-      Path: Events\Ambiences\Ambiences\2D\amb_bed
+      Path: Events\Ambiences\Ambiences\2D\Garden\amb_bed
       maxAttenuation: 0
       maxDuration: -1
       minDuration: -1
@@ -446,10 +505,91 @@ MonoBehaviour:
       - ElementName: 2D
         ObjectType: 4
         guid: 6eb0150a37fa3f4f9f905fe5ec7839ed
+      - ElementName: Garden
+        ObjectType: 4
+        guid: 1d423c0dd82b6c43a469e7b3d2659d18
       - ElementName: amb_bed_night
         ObjectType: 3
         guid: 524089269f9ae4418d528683460eb47d
-      Path: Events\Ambiences\Ambiences\2D\amb_bed_night
+      Path: Events\Ambiences\Ambiences\2D\Garden\amb_bed_night
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: amb_hospital_HallwayWallaLP
+      guid: 997693b5bd5a92479de41eb2f103debf
+      id: 1129358760
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Ambiences
+        ObjectType: 12
+        guid: 7e3e149385708341a7ae7ccdb5eb3f42
+      - ElementName: Ambiences
+        ObjectType: 4
+        guid: e6dacbcfbc234440bbbceba7135c7a7c
+      - ElementName: 3D
+        ObjectType: 4
+        guid: 3db7b78a28dc314aaa7bf47c0d23df35
+      - ElementName: Hospital
+        ObjectType: 4
+        guid: 90f8346f9f83294bb8c494e0381f7df2
+      - ElementName: amb_hospital_HallwayWallaLP
+        ObjectType: 3
+        guid: 997693b5bd5a92479de41eb2f103debf
+      Path: Events\Ambiences\Ambiences\3D\Hospital\amb_hospital_HallwayWallaLP
+      maxAttenuation: 25
+      maxDuration: -1
+      minDuration: -1
+    - name: amb_hospital_pulsebeep
+      guid: 7283bc872a848a4dab6d26a3f9102ef1
+      id: 1427742734
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Ambiences
+        ObjectType: 12
+        guid: 7e3e149385708341a7ae7ccdb5eb3f42
+      - ElementName: Ambiences
+        ObjectType: 4
+        guid: e6dacbcfbc234440bbbceba7135c7a7c
+      - ElementName: 3D
+        ObjectType: 4
+        guid: 3db7b78a28dc314aaa7bf47c0d23df35
+      - ElementName: Hospital
+        ObjectType: 4
+        guid: 90f8346f9f83294bb8c494e0381f7df2
+      - ElementName: amb_hospital_pulsebeep
+        ObjectType: 3
+        guid: 7283bc872a848a4dab6d26a3f9102ef1
+      Path: Events\Ambiences\Ambiences\3D\Hospital\amb_hospital_pulsebeep
+      maxAttenuation: 25
+      maxDuration: -1
+      minDuration: -1
+    - name: amb_hospital_RTLP
+      guid: 1f5b3d7acc512f4499a157de0fcabfdc
+      id: 2735573785
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Ambiences
+        ObjectType: 12
+        guid: 7e3e149385708341a7ae7ccdb5eb3f42
+      - ElementName: Ambiences
+        ObjectType: 4
+        guid: e6dacbcfbc234440bbbceba7135c7a7c
+      - ElementName: 2D
+        ObjectType: 4
+        guid: 6eb0150a37fa3f4f9f905fe5ec7839ed
+      - ElementName: Hospital
+        ObjectType: 4
+        guid: 2197d977405de54ca627f4ba315073fa
+      - ElementName: amb_hospital_RTLP
+        ObjectType: 3
+        guid: 1f5b3d7acc512f4499a157de0fcabfdc
+      Path: Events\Ambiences\Ambiences\2D\Hospital\amb_hospital_RTLP
       maxAttenuation: 0
       maxDuration: -1
       minDuration: -1
@@ -469,10 +609,140 @@ MonoBehaviour:
       - ElementName: 2D
         ObjectType: 4
         guid: 6eb0150a37fa3f4f9f905fe5ec7839ed
+      - ElementName: Garden
+        ObjectType: 4
+        guid: 1d423c0dd82b6c43a469e7b3d2659d18
       - ElementName: amb_night_insects
         ObjectType: 3
         guid: c4f27e6f3cc31442ba8e56d2f296f7ed
-      Path: Events\Ambiences\Ambiences\2D\amb_night_insects
+      Path: Events\Ambiences\Ambiences\2D\Garden\amb_night_insects
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: amb_oceanwaves
+      guid: dc10f7d8b662e24782c15a92d1ea064e
+      id: 1665301958
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Ambiences
+        ObjectType: 12
+        guid: 7e3e149385708341a7ae7ccdb5eb3f42
+      - ElementName: Ambiences
+        ObjectType: 4
+        guid: e6dacbcfbc234440bbbceba7135c7a7c
+      - ElementName: 3D
+        ObjectType: 4
+        guid: 3db7b78a28dc314aaa7bf47c0d23df35
+      - ElementName: amb_oceanwaves
+        ObjectType: 3
+        guid: dc10f7d8b662e24782c15a92d1ea064e
+      Path: Events\Ambiences\Ambiences\3D\amb_oceanwaves
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: amb_playerhouse_RTLP
+      guid: 9c205aca2f711e4aa70525cd1cf618b8
+      id: 188339144
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Ambiences
+        ObjectType: 12
+        guid: 7e3e149385708341a7ae7ccdb5eb3f42
+      - ElementName: Ambiences
+        ObjectType: 4
+        guid: e6dacbcfbc234440bbbceba7135c7a7c
+      - ElementName: 2D
+        ObjectType: 4
+        guid: 6eb0150a37fa3f4f9f905fe5ec7839ed
+      - ElementName: Player House
+        ObjectType: 4
+        guid: 5bdefc270404a64cb811a4c423618319
+      - ElementName: amb_playerhouse_RTLP
+        ObjectType: 3
+        guid: 9c205aca2f711e4aa70525cd1cf618b8
+      Path: Events\Ambiences\Ambiences\2D\Player House\amb_playerhouse_RTLP
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: amb_playerhouseclock
+      guid: 167849830acf9441bb8120406dd2a231
+      id: 2154256363
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Ambiences
+        ObjectType: 12
+        guid: 7e3e149385708341a7ae7ccdb5eb3f42
+      - ElementName: Ambiences
+        ObjectType: 4
+        guid: e6dacbcfbc234440bbbceba7135c7a7c
+      - ElementName: 3D
+        ObjectType: 4
+        guid: 3db7b78a28dc314aaa7bf47c0d23df35
+      - ElementName: Player House
+        ObjectType: 4
+        guid: cf14a977c911cd439c5e35c0a4432f47
+      - ElementName: amb_playerhouseclock
+        ObjectType: 3
+        guid: 167849830acf9441bb8120406dd2a231
+      Path: Events\Ambiences\Ambiences\3D\Player House\amb_playerhouseclock
+      maxAttenuation: 25
+      maxDuration: -1
+      minDuration: -1
+    - name: amb_PlayerHouseCreaks
+      guid: 625bab2f0facdc48be99099aa42a94bb
+      id: 710205036
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Ambiences
+        ObjectType: 12
+        guid: 7e3e149385708341a7ae7ccdb5eb3f42
+      - ElementName: Ambiences
+        ObjectType: 4
+        guid: e6dacbcfbc234440bbbceba7135c7a7c
+      - ElementName: 3D
+        ObjectType: 4
+        guid: 3db7b78a28dc314aaa7bf47c0d23df35
+      - ElementName: Player House
+        ObjectType: 4
+        guid: cf14a977c911cd439c5e35c0a4432f47
+      - ElementName: amb_PlayerHouseCreaks
+        ObjectType: 3
+        guid: 625bab2f0facdc48be99099aa42a94bb
+      Path: Events\Ambiences\Ambiences\3D\Player House\amb_PlayerHouseCreaks
+      maxAttenuation: 25
+      maxDuration: -1
+      minDuration: -1
+    - name: amb_reverseClockTick
+      guid: a3197069a3a5b849870b47156e745cfe
+      id: 1288303153
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Ambiences
+        ObjectType: 12
+        guid: 7e3e149385708341a7ae7ccdb5eb3f42
+      - ElementName: Ambiences
+        ObjectType: 4
+        guid: e6dacbcfbc234440bbbceba7135c7a7c
+      - ElementName: 2D
+        ObjectType: 4
+        guid: 6eb0150a37fa3f4f9f905fe5ec7839ed
+      - ElementName: Hospital
+        ObjectType: 4
+        guid: 2197d977405de54ca627f4ba315073fa
+      - ElementName: amb_reverseClockTick
+        ObjectType: 3
+        guid: a3197069a3a5b849870b47156e745cfe
+      Path: Events\Ambiences\Ambiences\2D\Hospital\amb_reverseClockTick
       maxAttenuation: 0
       maxDuration: -1
       minDuration: -1
@@ -492,11 +762,14 @@ MonoBehaviour:
       - ElementName: 3D
         ObjectType: 4
         guid: 3db7b78a28dc314aaa7bf47c0d23df35
+      - ElementName: Garden
+        ObjectType: 4
+        guid: 96eec24123456845a93153333464b897
       - ElementName: amb_tree
         ObjectType: 3
         guid: 947e7502a0190241b37812e5cd1a392c
-      Path: Events\Ambiences\Ambiences\3D\amb_tree
-      maxAttenuation: 25
+      Path: Events\Ambiences\Ambiences\3D\Garden\amb_tree
+      maxAttenuation: 0
       maxDuration: -1
       minDuration: -1
     - name: amb_tree_night
@@ -515,11 +788,14 @@ MonoBehaviour:
       - ElementName: 3D
         ObjectType: 4
         guid: 3db7b78a28dc314aaa7bf47c0d23df35
+      - ElementName: Garden
+        ObjectType: 4
+        guid: 96eec24123456845a93153333464b897
       - ElementName: amb_tree_night
         ObjectType: 3
         guid: ea4c4ea2c899f44588d9c126ce88fb8d
-      Path: Events\Ambiences\Ambiences\3D\amb_tree_night
-      maxAttenuation: 25
+      Path: Events\Ambiences\Ambiences\3D\Garden\amb_tree_night
+      maxAttenuation: 0
       maxDuration: -1
       minDuration: -1
     - name: amb_war
@@ -538,11 +814,40 @@ MonoBehaviour:
       - ElementName: 3D
         ObjectType: 4
         guid: 3db7b78a28dc314aaa7bf47c0d23df35
+      - ElementName: Garden
+        ObjectType: 4
+        guid: 96eec24123456845a93153333464b897
       - ElementName: amb_war
         ObjectType: 3
         guid: 6681be4293f71540924b8abbacd1f820
-      Path: Events\Ambiences\Ambiences\3D\amb_war
+      Path: Events\Ambiences\Ambiences\3D\Garden\amb_war
       maxAttenuation: 10
+      maxDuration: -1
+      minDuration: -1
+    - name: amb_weddingRTLP
+      guid: 7742dd23dc098d4d9758b8520c2e3f95
+      id: 1654598460
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Ambiences
+        ObjectType: 12
+        guid: 7e3e149385708341a7ae7ccdb5eb3f42
+      - ElementName: Ambiences
+        ObjectType: 4
+        guid: e6dacbcfbc234440bbbceba7135c7a7c
+      - ElementName: 2D
+        ObjectType: 4
+        guid: 6eb0150a37fa3f4f9f905fe5ec7839ed
+      - ElementName: Garden
+        ObjectType: 4
+        guid: 1d423c0dd82b6c43a469e7b3d2659d18
+      - ElementName: amb_weddingRTLP
+        ObjectType: 3
+        guid: 7742dd23dc098d4d9758b8520c2e3f95
+      Path: Events\Ambiences\Ambiences\2D\Garden\amb_weddingRTLP
+      maxAttenuation: 0
       maxDuration: -1
       minDuration: -1
     - name: Ambiences
@@ -562,6 +867,216 @@ MonoBehaviour:
       maxAttenuation: 0
       maxDuration: -1
       minDuration: -1
+    - name: Garden
+      guid: 1d423c0dd82b6c43a469e7b3d2659d18
+      id: 278887670
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Ambiences
+        ObjectType: 12
+        guid: 7e3e149385708341a7ae7ccdb5eb3f42
+      - ElementName: Ambiences
+        ObjectType: 4
+        guid: e6dacbcfbc234440bbbceba7135c7a7c
+      - ElementName: 2D
+        ObjectType: 4
+        guid: 6eb0150a37fa3f4f9f905fe5ec7839ed
+      - ElementName: Garden
+        ObjectType: 4
+        guid: 1d423c0dd82b6c43a469e7b3d2659d18
+      Path: Events\Ambiences\Ambiences\2D\Garden
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: Garden
+      guid: 96eec24123456845a93153333464b897
+      id: 278887670
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Ambiences
+        ObjectType: 12
+        guid: 7e3e149385708341a7ae7ccdb5eb3f42
+      - ElementName: Ambiences
+        ObjectType: 4
+        guid: e6dacbcfbc234440bbbceba7135c7a7c
+      - ElementName: 3D
+        ObjectType: 4
+        guid: 3db7b78a28dc314aaa7bf47c0d23df35
+      - ElementName: Garden
+        ObjectType: 4
+        guid: 96eec24123456845a93153333464b897
+      Path: Events\Ambiences\Ambiences\3D\Garden
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: Hospital
+      guid: 90f8346f9f83294bb8c494e0381f7df2
+      id: 1640084191
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Ambiences
+        ObjectType: 12
+        guid: 7e3e149385708341a7ae7ccdb5eb3f42
+      - ElementName: Ambiences
+        ObjectType: 4
+        guid: e6dacbcfbc234440bbbceba7135c7a7c
+      - ElementName: 3D
+        ObjectType: 4
+        guid: 3db7b78a28dc314aaa7bf47c0d23df35
+      - ElementName: Hospital
+        ObjectType: 4
+        guid: 90f8346f9f83294bb8c494e0381f7df2
+      Path: Events\Ambiences\Ambiences\3D\Hospital
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: Hospital
+      guid: 2197d977405de54ca627f4ba315073fa
+      id: 1640084191
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Ambiences
+        ObjectType: 12
+        guid: 7e3e149385708341a7ae7ccdb5eb3f42
+      - ElementName: Ambiences
+        ObjectType: 4
+        guid: e6dacbcfbc234440bbbceba7135c7a7c
+      - ElementName: 2D
+        ObjectType: 4
+        guid: 6eb0150a37fa3f4f9f905fe5ec7839ed
+      - ElementName: Hospital
+        ObjectType: 4
+        guid: 2197d977405de54ca627f4ba315073fa
+      Path: Events\Ambiences\Ambiences\2D\Hospital
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: Player House
+      guid: 5bdefc270404a64cb811a4c423618319
+      id: 1759939262
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Ambiences
+        ObjectType: 12
+        guid: 7e3e149385708341a7ae7ccdb5eb3f42
+      - ElementName: Ambiences
+        ObjectType: 4
+        guid: e6dacbcfbc234440bbbceba7135c7a7c
+      - ElementName: 2D
+        ObjectType: 4
+        guid: 6eb0150a37fa3f4f9f905fe5ec7839ed
+      - ElementName: Player House
+        ObjectType: 4
+        guid: 5bdefc270404a64cb811a4c423618319
+      Path: Events\Ambiences\Ambiences\2D\Player House
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: Player House
+      guid: cf14a977c911cd439c5e35c0a4432f47
+      id: 1759939262
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Ambiences
+        ObjectType: 12
+        guid: 7e3e149385708341a7ae7ccdb5eb3f42
+      - ElementName: Ambiences
+        ObjectType: 4
+        guid: e6dacbcfbc234440bbbceba7135c7a7c
+      - ElementName: 3D
+        ObjectType: 4
+        guid: 3db7b78a28dc314aaa7bf47c0d23df35
+      - ElementName: Player House
+        ObjectType: 4
+        guid: cf14a977c911cd439c5e35c0a4432f47
+      Path: Events\Ambiences\Ambiences\3D\Player House
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: Street
+      guid: 2af85ce5c9852a40833451cac7489207
+      id: 4142189312
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Ambiences
+        ObjectType: 12
+        guid: 7e3e149385708341a7ae7ccdb5eb3f42
+      - ElementName: Ambiences
+        ObjectType: 4
+        guid: e6dacbcfbc234440bbbceba7135c7a7c
+      - ElementName: 2D
+        ObjectType: 4
+        guid: 6eb0150a37fa3f4f9f905fe5ec7839ed
+      - ElementName: Street
+        ObjectType: 4
+        guid: 2af85ce5c9852a40833451cac7489207
+      Path: Events\Ambiences\Ambiences\2D\Street
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: Street
+      guid: 14032fc384d9bd40a58e613a8ced3f7e
+      id: 4142189312
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Ambiences
+        ObjectType: 12
+        guid: 7e3e149385708341a7ae7ccdb5eb3f42
+      - ElementName: Ambiences
+        ObjectType: 4
+        guid: e6dacbcfbc234440bbbceba7135c7a7c
+      - ElementName: 3D
+        ObjectType: 4
+        guid: 3db7b78a28dc314aaa7bf47c0d23df35
+      - ElementName: Street
+        ObjectType: 4
+        guid: 14032fc384d9bd40a58e613a8ced3f7e
+      Path: Events\Ambiences\Ambiences\3D\Street
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: Street_RTLP
+      guid: ca2b18fed752d6489162a3e037ad1b8a
+      id: 401243365
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Ambiences
+        ObjectType: 12
+        guid: 7e3e149385708341a7ae7ccdb5eb3f42
+      - ElementName: Ambiences
+        ObjectType: 4
+        guid: e6dacbcfbc234440bbbceba7135c7a7c
+      - ElementName: 2D
+        ObjectType: 4
+        guid: 6eb0150a37fa3f4f9f905fe5ec7839ed
+      - ElementName: Street
+        ObjectType: 4
+        guid: 2af85ce5c9852a40833451cac7489207
+      - ElementName: Street_RTLP
+        ObjectType: 3
+        guid: ca2b18fed752d6489162a3e037ad1b8a
+      Path: Events\Ambiences\Ambiences\2D\Street\Street_RTLP
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
     - name: water_run
       guid: bd53933a2df9214bb6f26ee7394f6783
       id: 2594811980
@@ -578,10 +1093,13 @@ MonoBehaviour:
       - ElementName: 3D
         ObjectType: 4
         guid: 3db7b78a28dc314aaa7bf47c0d23df35
+      - ElementName: Garden
+        ObjectType: 4
+        guid: 96eec24123456845a93153333464b897
       - ElementName: water_run
         ObjectType: 3
         guid: bd53933a2df9214bb6f26ee7394f6783
-      Path: Events\Ambiences\Ambiences\3D\water_run
+      Path: Events\Ambiences\Ambiences\3D\Garden\water_run
       maxAttenuation: 25
       maxDuration: -1
       minDuration: -1
@@ -609,7 +1127,7 @@ MonoBehaviour:
     ParentPath: Events\Music Cues
     guid: be3ca93f6b75a64688124ce16d631b84
     GuidInternal: 
-    m_lastTime: -8584361871833620854
+    m_lastTime: -8584258183734957056
     List:
     - name: play_poi_jingle
       guid: fb7324ee9a17d74e8ce9b0d45966597d
@@ -656,7 +1174,7 @@ MonoBehaviour:
     ParentPath: Events\Parameters
     guid: f54d4a9d8feaeb49892e37747585f32f
     GuidInternal: 
-    m_lastTime: -8584393726640140226
+    m_lastTime: -8584255612348472262
     List:
     - name: Parameters
       guid: 1b19a97fbc2cc245807445d5272210d6
@@ -715,6 +1233,26 @@ MonoBehaviour:
       maxAttenuation: 0
       maxDuration: 0
       minDuration: 0
+    - name: StopAll
+      guid: 4b6499520a325e499b75eb4e7f0f5f22
+      id: 3086540886
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Parameters
+        ObjectType: 12
+        guid: f54d4a9d8feaeb49892e37747585f32f
+      - ElementName: Parameters
+        ObjectType: 4
+        guid: 1b19a97fbc2cc245807445d5272210d6
+      - ElementName: StopAll
+        ObjectType: 3
+        guid: 4b6499520a325e499b75eb4e7f0f5f22
+      Path: Events\Parameters\Parameters\StopAll
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
   - PhysicalPath: Events\Player.wwu
     PathAndIcons:
     - ElementName: Events
@@ -726,7 +1264,7 @@ MonoBehaviour:
     ParentPath: Events\Player
     guid: d65f1d128e7d1742a309e4b5732e3ebb
     GuidInternal: 
-    m_lastTime: -8584393726640099507
+    m_lastTime: -8584258183734132950
     List:
     - name: item_up
       guid: c6b313c39148374483369a54e443646d
@@ -796,7 +1334,7 @@ MonoBehaviour:
     ParentPath: Events\SFX
     guid: 2cc9f7de768ed0438ccdeb90754e6c75
     GuidInternal: 
-    m_lastTime: -8584288390489185034
+    m_lastTime: -8584255632789079703
     List:
     - name: door_open
       guid: c84218451e03cc4e8ebda8c04223ed91
@@ -816,8 +1354,8 @@ MonoBehaviour:
         guid: c84218451e03cc4e8ebda8c04223ed91
       Path: Events\SFX\Specifics\door_open
       maxAttenuation: 0
-      maxDuration: 0.7511875
-      minDuration: 0.6501803
+      maxDuration: 0
+      minDuration: 0
     - name: drink_sip
       guid: e5e9eacc06fa764b932b9eb53f5964c7
       id: 2637953892
@@ -876,8 +1414,8 @@ MonoBehaviour:
         guid: cf5252ad2f3b5c4286496769a211d0f2
       Path: Events\SFX\Specifics\key_play
       maxAttenuation: 0
-      maxDuration: 212.32349
-      minDuration: 212.32349
+      maxDuration: 0
+      minDuration: 0
     - name: map_openclose
       guid: 10703017101bad469bf838b557200d0b
       id: 831022004
@@ -896,8 +1434,8 @@ MonoBehaviour:
         guid: 10703017101bad469bf838b557200d0b
       Path: Events\SFX\UI\map_openclose
       maxAttenuation: 0
-      maxDuration: -1
-      minDuration: -1
+      maxDuration: 1
+      minDuration: 0.375
     - name: mes_send
       guid: 7d67df945f9db94e8e7379de6505be84
       id: 4090627927
@@ -1164,8 +1702,22 @@ MonoBehaviour:
     ParentPath: Game Parameters\Default Work Unit
     guid: c4f644c376b1a042ac47edbd0b46b1a0
     GuidInternal: 
-    m_lastTime: -8584393726640004027
-    List: []
+    m_lastTime: -8584255630402289267
+    List:
+    - name: HospitalEmergencyLevel
+      guid: 957650ccf7e9c849af03d65dcf231fe0
+      id: 3137397720
+      PathAndIcons:
+      - ElementName: Game Parameters
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: c4f644c376b1a042ac47edbd0b46b1a0
+      - ElementName: HospitalEmergencyLevel
+        ObjectType: 13
+        guid: 957650ccf7e9c849af03d65dcf231fe0
+      Path: Game Parameters\Default Work Unit\HospitalEmergencyLevel
   StateWwu:
   - PhysicalPath: States\Default Work Unit.wwu
     PathAndIcons:
@@ -1390,11 +1942,11 @@ MonoBehaviour:
     ParentPath: Switches\Default Work Unit
     guid: adb05593017a7144a61abc89c6266ef6
     GuidInternal: 
-    m_lastTime: -8584288390401235729
+    m_lastTime: -8584255652509784006
     List:
-    - name: Floor_Material
+    - name: FloorMaterial
       guid: cc7b3ea43a6de748a1e9d1506a02d96a
-      id: 3964766495
+      id: 4274333454
       PathAndIcons:
       - ElementName: Switches
         ObjectType: 5
@@ -1402,10 +1954,10 @@ MonoBehaviour:
       - ElementName: Default Work Unit
         ObjectType: 12
         guid: adb05593017a7144a61abc89c6266ef6
-      - ElementName: Floor_Material
+      - ElementName: FloorMaterial
         ObjectType: 11
         guid: cc7b3ea43a6de748a1e9d1506a02d96a
-      Path: Switches\Default Work Unit\Floor_Material
+      Path: Switches\Default Work Unit\FloorMaterial
       values:
       - name: Dirt
         guid: 0176c2d87a435e4188e02eb8ea31d643
@@ -1417,7 +1969,7 @@ MonoBehaviour:
         - ElementName: Default Work Unit
           ObjectType: 12
           guid: adb05593017a7144a61abc89c6266ef6
-        - ElementName: Floor_Material
+        - ElementName: FloorMaterial
           ObjectType: 11
           guid: cc7b3ea43a6de748a1e9d1506a02d96a
         - ElementName: Dirt
@@ -1433,7 +1985,7 @@ MonoBehaviour:
         - ElementName: Default Work Unit
           ObjectType: 12
           guid: adb05593017a7144a61abc89c6266ef6
-        - ElementName: Floor_Material
+        - ElementName: FloorMaterial
           ObjectType: 11
           guid: cc7b3ea43a6de748a1e9d1506a02d96a
         - ElementName: Grass
@@ -1449,7 +2001,7 @@ MonoBehaviour:
         - ElementName: Default Work Unit
           ObjectType: 12
           guid: adb05593017a7144a61abc89c6266ef6
-        - ElementName: Floor_Material
+        - ElementName: FloorMaterial
           ObjectType: 11
           guid: cc7b3ea43a6de748a1e9d1506a02d96a
         - ElementName: Metal
@@ -1465,7 +2017,7 @@ MonoBehaviour:
         - ElementName: Default Work Unit
           ObjectType: 12
           guid: adb05593017a7144a61abc89c6266ef6
-        - ElementName: Floor_Material
+        - ElementName: FloorMaterial
           ObjectType: 11
           guid: cc7b3ea43a6de748a1e9d1506a02d96a
         - ElementName: Stone
@@ -1481,7 +2033,7 @@ MonoBehaviour:
         - ElementName: Default Work Unit
           ObjectType: 12
           guid: adb05593017a7144a61abc89c6266ef6
-        - ElementName: Floor_Material
+        - ElementName: FloorMaterial
           ObjectType: 11
           guid: cc7b3ea43a6de748a1e9d1506a02d96a
         - ElementName: Wood
@@ -1490,9 +2042,9 @@ MonoBehaviour:
       ValueGuids: []
       ValueIcons: []
       valuesInternal: []
-    - name: Item_Pickup_Type
+    - name: ItemPickupType
       guid: 6d0507dcfd6725428da3d75c3d50c652
-      id: 2980950266
+      id: 2085770324
       PathAndIcons:
       - ElementName: Switches
         ObjectType: 5
@@ -1500,10 +2052,10 @@ MonoBehaviour:
       - ElementName: Default Work Unit
         ObjectType: 12
         guid: adb05593017a7144a61abc89c6266ef6
-      - ElementName: Item_Pickup_Type
+      - ElementName: ItemPickupType
         ObjectType: 11
         guid: 6d0507dcfd6725428da3d75c3d50c652
-      Path: Switches\Default Work Unit\Item_Pickup_Type
+      Path: Switches\Default Work Unit\ItemPickupType
       values:
       - name: Metal
         guid: c3b8b96dfb0280428819d0941a4053c4
@@ -1515,7 +2067,7 @@ MonoBehaviour:
         - ElementName: Default Work Unit
           ObjectType: 12
           guid: adb05593017a7144a61abc89c6266ef6
-        - ElementName: Item_Pickup_Type
+        - ElementName: ItemPickupType
           ObjectType: 11
           guid: 6d0507dcfd6725428da3d75c3d50c652
         - ElementName: Metal
@@ -1531,7 +2083,7 @@ MonoBehaviour:
         - ElementName: Default Work Unit
           ObjectType: 12
           guid: adb05593017a7144a61abc89c6266ef6
-        - ElementName: Item_Pickup_Type
+        - ElementName: ItemPickupType
           ObjectType: 11
           guid: 6d0507dcfd6725428da3d75c3d50c652
         - ElementName: Paper
@@ -1547,7 +2099,7 @@ MonoBehaviour:
         - ElementName: Default Work Unit
           ObjectType: 12
           guid: adb05593017a7144a61abc89c6266ef6
-        - ElementName: Item_Pickup_Type
+        - ElementName: ItemPickupType
           ObjectType: 11
           guid: 6d0507dcfd6725428da3d75c3d50c652
         - ElementName: Plastic
@@ -1556,9 +2108,9 @@ MonoBehaviour:
       ValueGuids: []
       ValueIcons: []
       valuesInternal: []
-    - name: Map_Type
+    - name: MapType
       guid: 4207a285213b3c41a62ed13a56764abf
-      id: 2725745592
+      id: 1177793757
       PathAndIcons:
       - ElementName: Switches
         ObjectType: 5
@@ -1566,10 +2118,10 @@ MonoBehaviour:
       - ElementName: Default Work Unit
         ObjectType: 12
         guid: adb05593017a7144a61abc89c6266ef6
-      - ElementName: Map_Type
+      - ElementName: MapType
         ObjectType: 11
         guid: 4207a285213b3c41a62ed13a56764abf
-      Path: Switches\Default Work Unit\Map_Type
+      Path: Switches\Default Work Unit\MapType
       values:
       - name: MapOne
         guid: 57ff54404a28ea4786fc1a6ffad7c8fd
@@ -1581,7 +2133,7 @@ MonoBehaviour:
         - ElementName: Default Work Unit
           ObjectType: 12
           guid: adb05593017a7144a61abc89c6266ef6
-        - ElementName: Map_Type
+        - ElementName: MapType
           ObjectType: 11
           guid: 4207a285213b3c41a62ed13a56764abf
         - ElementName: MapOne
@@ -1597,7 +2149,7 @@ MonoBehaviour:
         - ElementName: Default Work Unit
           ObjectType: 12
           guid: adb05593017a7144a61abc89c6266ef6
-        - ElementName: Map_Type
+        - ElementName: MapType
           ObjectType: 11
           guid: 4207a285213b3c41a62ed13a56764abf
         - ElementName: MapTwo
@@ -1621,7 +2173,7 @@ MonoBehaviour:
     m_lastTime: -8584393726458025250
     List: []
   ExpandedFileSystemItemIds: 
-  ExpandedWaapiItemIds: 1800000019000000
+  ExpandedWaapiItemIds: 010000001300000014000000160000001800000019000000
   AutoSyncSelection: 0
   autoPopulateEnabled: 1
   currentDataSource: 0

@@ -1,0 +1,42 @@
+State Group	ID	Name			Wwise Object Path	Notes
+	253445270	Pause_Play			\Default Work Unit\Pause_Play	
+	2666809638	Day_Night			\Default Work Unit\Day_Night	
+	3589756548	Int_Ext			\Default Work Unit\Int_Ext	
+
+State	ID	Name	State Group			Notes
+	319258907	Paused	Pause_Play			
+	748895195	None	Pause_Play			
+	1852808225	Playing	Pause_Play			
+	311764537	Day	Day_Night			
+	748895195	None	Day_Night			
+	1011622525	Night	Day_Night			
+	748895195	None	Int_Ext			
+	1132214669	Interior	Int_Ext			
+	2213992659	Exterior	Int_Ext			
+
+Audio Bus	ID	Name			Wwise Object Path	Notes
+	95583227	2DBeds			\Default Work Unit\Master Audio Bus\Ambiences_MSTR\2DBeds	
+	429829542	MusicCues			\Default Work Unit\Master Audio Bus\Music_MSTR\MusicCues	
+	540284219	Specs			\Default Work Unit\Master Audio Bus\SFX_MSTR\Specs	
+	907372660	Dialogue_MSTR			\Default Work Unit\Master Audio Bus\Dialogue_MSTR	
+	1375983526	Player_Locomotion			\Default Work Unit\Master Audio Bus\Player_MSTR\Player_Locomotion	
+	1551306167	UI			\Default Work Unit\Master Audio Bus\SFX_MSTR\UI	
+	1730208058	Player_Footsteps			\Default Work Unit\Master Audio Bus\Player_MSTR\Player_Locomotion\Player_Footsteps	
+	1763809259	Music_MSTR			\Default Work Unit\Master Audio Bus\Music_MSTR	
+	2279675871	Player_MSTR			\Default Work Unit\Master Audio Bus\Player_MSTR	
+	2300499853	Ambiences_MSTR			\Default Work Unit\Master Audio Bus\Ambiences_MSTR	
+	2422403844	3DObjects			\Default Work Unit\Master Audio Bus\Ambiences_MSTR\3DObjects	
+	2902955843	SFX_MSTR			\Default Work Unit\Master Audio Bus\SFX_MSTR	
+	3633148295	Player_Cloth			\Default Work Unit\Master Audio Bus\Player_MSTR\Player_Locomotion\Player_Cloth	
+	3803692087	Master Audio Bus			\Default Work Unit\Master Audio Bus	
+
+Auxiliary Bus	ID	Name			Wwise Object Path	Notes
+	4154576717	Amb_Verb			\Default Work Unit\Master Audio Bus\Ambiences_MSTR\Amb_Verb	
+
+Effect plug-ins	ID	Name	Type				Notes
+	1551236760	Small_Wooden_Room1	Wwise Matrix Reverb			
+
+Audio Devices	ID	Name	Type				Notes
+	2317455096	No_Output	No Output			
+	3859886410	System	System			
+

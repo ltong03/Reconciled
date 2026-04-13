@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f5e0ba9bf4d9a1d4bb2bde8a11046b1a, type: 3}
   m_Name: A43E7BCC-6D3A-48E7-A1E9-D1506A02D96A
   m_EditorClassIdentifier: 
-  objectName: Floor_Material
-  id: 3964766495
+  objectName: FloorMaterial
+  id: 4274333454
   guid: A43E7BCC-6D3A-48E7-A1E9-D1506A02D96A
