@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bb6b4284623ef11499542457f791fd64
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2655988077585873504
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150502
+  packageName: 3D Birds Prototype Pack
+  packageVersion: 1.0
+  assetPath: Assets/3D Birds Prototype Pack/Meshes/FBXImporter.preset
+  uploadId: 331648
