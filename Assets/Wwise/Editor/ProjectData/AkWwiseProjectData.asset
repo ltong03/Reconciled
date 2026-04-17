@@ -337,7 +337,7 @@ MonoBehaviour:
     ParentPath: SoundBanks\Default Work Unit
     guid: 455a18ce1cf01a4cabcf6fbc9621b04b
     GuidInternal: 
-    m_lastTime: -8584255607858546683
+    m_lastTime: -8584252229347459550
     List:
     - name: GardenScene
       guid: ef089952fdcf974a84cee6b3bed39d74
@@ -421,7 +421,7 @@ MonoBehaviour:
     ParentPath: Events\Ambiences
     guid: 7e3e149385708341a7ae7ccdb5eb3f42
     GuidInternal: 
-    m_lastTime: -8584255610659873878
+    m_lastTime: -8584252229357060075
     List:
     - name: 2D
       guid: 6eb0150a37fa3f4f9f905fe5ec7839ed
@@ -769,7 +769,7 @@ MonoBehaviour:
         ObjectType: 3
         guid: 947e7502a0190241b37812e5cd1a392c
       Path: Events\Ambiences\Ambiences\3D\Garden\amb_tree
-      maxAttenuation: 15
+      maxAttenuation: 0
       maxDuration: -1
       minDuration: -1
     - name: amb_tree_night
@@ -1100,7 +1100,7 @@ MonoBehaviour:
         ObjectType: 3
         guid: bd53933a2df9214bb6f26ee7394f6783
       Path: Events\Ambiences\Ambiences\3D\Garden\water_run
-      maxAttenuation: 15
+      maxAttenuation: 25
       maxDuration: -1
       minDuration: -1
   - PhysicalPath: Events\Default Work Unit.wwu
@@ -1127,7 +1127,7 @@ MonoBehaviour:
     ParentPath: Events\Music Cues
     guid: be3ca93f6b75a64688124ce16d631b84
     GuidInternal: 
-    m_lastTime: -8584258183734957056
+    m_lastTime: -8584252229357060075
     List:
     - name: play_poi_jingle
       guid: fb7324ee9a17d74e8ce9b0d45966597d
@@ -1174,7 +1174,7 @@ MonoBehaviour:
     ParentPath: Events\Parameters
     guid: f54d4a9d8feaeb49892e37747585f32f
     GuidInternal: 
-    m_lastTime: -8584255612348472262
+    m_lastTime: -8584252229356902557
     List:
     - name: Parameters
       guid: 1b19a97fbc2cc245807445d5272210d6
@@ -1264,7 +1264,7 @@ MonoBehaviour:
     ParentPath: Events\Player
     guid: d65f1d128e7d1742a309e4b5732e3ebb
     GuidInternal: 
-    m_lastTime: -8584258183734132950
+    m_lastTime: -8584252229356897391
     List:
     - name: item_up
       guid: c6b313c39148374483369a54e443646d
@@ -1305,7 +1305,7 @@ MonoBehaviour:
       Path: Events\Player\Player\pc_footstep
       maxAttenuation: 0
       maxDuration: 0.5297316
-      minDuration: 0.21941143
+      minDuration: 0.074068114
     - name: Player
       guid: c92c6974617b1c4a9bc5cd540e657af3
       id: 1069431850
@@ -1334,7 +1334,7 @@ MonoBehaviour:
     ParentPath: Events\SFX
     guid: 2cc9f7de768ed0438ccdeb90754e6c75
     GuidInternal: 
-    m_lastTime: -8584255632789079703
+    m_lastTime: -8584252229356862309
     List:
     - name: door_open
       guid: c84218451e03cc4e8ebda8c04223ed91
@@ -1354,8 +1354,8 @@ MonoBehaviour:
         guid: c84218451e03cc4e8ebda8c04223ed91
       Path: Events\SFX\Specifics\door_open
       maxAttenuation: 0
-      maxDuration: 0.7511875
-      minDuration: 0.6501803
+      maxDuration: 0
+      minDuration: 0
     - name: drink_sip
       guid: e5e9eacc06fa764b932b9eb53f5964c7
       id: 2637953892
@@ -1414,8 +1414,8 @@ MonoBehaviour:
         guid: cf5252ad2f3b5c4286496769a211d0f2
       Path: Events\SFX\Specifics\key_play
       maxAttenuation: 0
-      maxDuration: 212.32349
-      minDuration: 212.32349
+      maxDuration: 0
+      minDuration: 0
     - name: map_openclose
       guid: 10703017101bad469bf838b557200d0b
       id: 831022004
@@ -1702,7 +1702,7 @@ MonoBehaviour:
     ParentPath: Game Parameters\Default Work Unit
     guid: c4f644c376b1a042ac47edbd0b46b1a0
     GuidInternal: 
-    m_lastTime: -8584255630402289267
+    m_lastTime: -8584252229356862309
     List:
     - name: HospitalEmergencyLevel
       guid: 957650ccf7e9c849af03d65dcf231fe0
@@ -1942,7 +1942,7 @@ MonoBehaviour:
     ParentPath: Switches\Default Work Unit
     guid: adb05593017a7144a61abc89c6266ef6
     GuidInternal: 
-    m_lastTime: -8584255652509784006
+    m_lastTime: -8584252229347459550
     List:
     - name: FloorMaterial
       guid: cc7b3ea43a6de748a1e9d1506a02d96a
@@ -2174,7 +2174,7 @@ MonoBehaviour:
     List: []
   ExpandedFileSystemItemIds: 
   ExpandedWaapiItemIds: 010000001300000014000000160000001800000019000000
-  AutoSyncSelection: 0
+  AutoSyncSelection: 1
   autoPopulateEnabled: 1
   currentDataSource: 0
   CurrentPluginConfig: 
