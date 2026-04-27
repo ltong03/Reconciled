@@ -1,11 +1,14 @@
 Event	ID	Name			Wwise Object Path	Notes
 	831022004	map_openclose			\SFX\UI\map_openclose	
+	979341015	pc_footstep			\Player\Player\pc_footstep	
 	1129358760	amb_hospital_HallwayWallaLP			\Ambiences\Ambiences\3D\Hospital\amb_hospital_HallwayWallaLP	
 	1256202815	Play			\Parameters\Parameters\Play	
 	1288303153	amb_reverseClockTick			\Ambiences\Ambiences\2D\Hospital\amb_reverseClockTick	
 	1402340918	ui_highlight			\SFX\UI\ui_highlight	
 	1427742734	amb_hospital_pulsebeep			\Ambiences\Ambiences\3D\Hospital\amb_hospital_pulsebeep	
+	1455535776	item_up			\Player\Player\item_up	
 	2024222415	ui_back			\SFX\UI\ui_back	
+	2364016171	play_hospital_ambience_music			\Music Cues\Hospital\play_hospital_ambience_music	
 	2735573785	amb_hospital_RTLP			\Ambiences\Ambiences\2D\Hospital\amb_hospital_RTLP	
 	2774129122	ui_select			\SFX\UI\ui_select	
 	3086540886	StopAll			\Parameters\Parameters\StopAll	
@@ -13,27 +16,72 @@ Event	ID	Name			Wwise Object Path	Notes
 
 Switch Group	ID	Name			Wwise Object Path	Notes
 	1177793757	MapType			\Default Work Unit\MapType	
+	2085770324	ItemPickupType			\Default Work Unit\ItemPickupType	
+	4274333454	FloorMaterial			\Default Work Unit\FloorMaterial	
 
 Switch	ID	Name	Switch Group			Notes
 	1936672669	MapTwo	MapType			
 	2323396735	MapOne	MapType			
+	660835419	Plastic	ItemPickupType			
+	2473969246	Metal	ItemPickupType			
+	3126687001	Paper	ItemPickupType			
+	1216965916	Stone	FloorMaterial			
+	2058049674	Wood	FloorMaterial			
+	2195636714	Dirt	FloorMaterial			
+	2473969246	Metal	FloorMaterial			
+	4248645337	Grass	FloorMaterial			
 
 Game Parameter	ID	Name			Wwise Object Path	Notes
 	3137397720	HospitalEmergencyLevel			\Default Work Unit\HospitalEmergencyLevel	
 
 In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	52575897	Dirt-4	C:\Users\bandi\OneDrive\Documents\Game Dev\Reconciled\Wwise Project\Reconciled\.cache\Windows\SFX\Assets ready for implementation\Footsteps\Dirt - SNK\Dirt-4_326E223B.wem		\Actor-Mixer Hierarchy\Actor-Mixer_MAIN\Diegetic\Foley\Player\Player\Player_Foot_Switch\Grass-Dirt-Layer\Dirt-4		10060
+	106093536	Wood-5	C:\Users\bandi\OneDrive\Documents\Game Dev\Reconciled\Wwise Project\Reconciled\.cache\Windows\SFX\Assets ready for implementation\Footsteps\Wood - SNK\Wood-5_818F3B66.wem		\Actor-Mixer Hierarchy\Actor-Mixer_MAIN\Diegetic\Foley\Player\Player\Player_Foot_Switch\Wood - SNK\Wood-5		22540
 	108230715	Hospital_RTLP	C:\Users\bandi\OneDrive\Documents\Game Dev\Reconciled\Wwise Project\Reconciled\.cache\Windows\SFX\4.12.26\Hospital_RTLP_30EF12F3.wem		\Actor-Mixer Hierarchy\Actor-Mixer_MAIN\Diegetic\Ambiences\2D Beds\Hospital\Hospital_RTLP		821832
+	112472524	Dirt-4	C:\Users\bandi\OneDrive\Documents\Game Dev\Reconciled\Wwise Project\Reconciled\.cache\Windows\SFX\Assets ready for implementation\Footsteps\Dirt - SNK\Dirt-4_818F3B66.wem		\Actor-Mixer Hierarchy\Actor-Mixer_MAIN\Diegetic\Foley\Player\Player\Player_Foot_Switch\Dirt\Dirt-4		40548
+	128395977	Metal-2	C:\Users\bandi\OneDrive\Documents\Game Dev\Reconciled\Wwise Project\Reconciled\.cache\Windows\SFX\Assets ready for implementation\Footsteps\Metal - BOOT\Metal-2_818F3B66.wem		\Actor-Mixer Hierarchy\Actor-Mixer_MAIN\Diegetic\Foley\Player\Player\Player_Foot_Switch\Metal - BOOT\Metal-2		31128
 	146124239	MapOneClose	C:\Users\bandi\OneDrive\Documents\Game Dev\Reconciled\Wwise Project\Reconciled\.cache\Windows\SFX\MapOneClose_818F3B66.wem		\Actor-Mixer Hierarchy\Actor-Mixer_MAIN\Non-Diegetic\UI\UI\UI_MapOpenClose\MapClose\MapOneClose		72096
 	158085481	Hospital_PulseBeepEmergencyLP	C:\Users\bandi\OneDrive\Documents\Game Dev\Reconciled\Wwise Project\Reconciled\.cache\Windows\SFX\4.12.26\Hospital_PulseBeepEmergencyLP_30EF12F3.wem		\Actor-Mixer Hierarchy\Actor-Mixer_MAIN\Diegetic\Ambiences\3D Objects\Hospital\Hospital Ambiences 3D\Hospital_PulseBeepBlend&Switch\Hospital_PulseBeepEmergencyLP		21227
+	163959359	Hospital anbience(Dream wanderer)BPM66	C:\Users\bandi\OneDrive\Documents\Game Dev\Reconciled\Wwise Project\Reconciled\.cache\Windows\SFX\Hospital anbience(Dream wanderer)BPM66_FBC78EF0.wem		\Interactive Music Hierarchy\Music\Hospital Ambience Playlist Container\Hospital Theme\Hospital anbience(Dream wanderer)BPM66		15593460
+	171473709	Grass-3	C:\Users\bandi\OneDrive\Documents\Game Dev\Reconciled\Wwise Project\Reconciled\.cache\Windows\SFX\Assets ready for implementation\Footsteps\Grass\Grass-3_818F3B66.wem		\Actor-Mixer Hierarchy\Actor-Mixer_MAIN\Diegetic\Foley\Player\Player\Player_Foot_Switch\Grass\Grass-3		68380
+	173069506	Stone-5	C:\Users\bandi\OneDrive\Documents\Game Dev\Reconciled\Wwise Project\Reconciled\.cache\Windows\SFX\Assets ready for implementation\Footsteps\Stone - SNK\Stone-5_00225573.wem		\Actor-Mixer Hierarchy\Actor-Mixer_MAIN\Diegetic\Foley\Player\Player\Player_Foot_Switch\Stone - SNK\Stone-5		48096
+	205369667	Grass-5	C:\Users\bandi\OneDrive\Documents\Game Dev\Reconciled\Wwise Project\Reconciled\.cache\Windows\SFX\Assets ready for implementation\Footsteps\Grass\Grass-5_818F3B66.wem		\Actor-Mixer Hierarchy\Actor-Mixer_MAIN\Diegetic\Foley\Player\Player\Player_Foot_Switch\Grass\Grass-5		65236
 	268889924	ClockTicking_Reverse	C:\Users\bandi\OneDrive\Documents\Game Dev\Reconciled\Wwise Project\Reconciled\.cache\Windows\SFX\4.12.26\ClockTicking_Reverse_30EF12F3.wem		\Actor-Mixer Hierarchy\Actor-Mixer_MAIN\Diegetic\Ambiences\2D Beds\Hospital\ClockTicking_Reverse		70249
+	292976887	Wood-1	C:\Users\bandi\OneDrive\Documents\Game Dev\Reconciled\Wwise Project\Reconciled\.cache\Windows\SFX\Assets ready for implementation\Footsteps\Wood - SNK\Wood-1_818F3B66.wem		\Actor-Mixer Hierarchy\Actor-Mixer_MAIN\Diegetic\Foley\Player\Player\Player_Foot_Switch\Wood - SNK\Wood-1		22412
+	299069138	Stone-2	C:\Users\bandi\OneDrive\Documents\Game Dev\Reconciled\Wwise Project\Reconciled\.cache\Windows\SFX\Assets ready for implementation\Footsteps\Stone - SNK\Stone-2_00225573.wem		\Actor-Mixer Hierarchy\Actor-Mixer_MAIN\Diegetic\Foley\Player\Player\Player_Foot_Switch\Stone - SNK\Stone-2		48096
+	370590470	Item Pick Up 1	C:\Users\bandi\OneDrive\Documents\Game Dev\Reconciled\Wwise Project\Reconciled\.cache\Windows\SFX\Assets ready for implementation\Item Pick Up 1_70D53CF4.wem		\Actor-Mixer Hierarchy\Actor-Mixer_MAIN\Diegetic\Foley\Player\Player\Item_Pickup_Handling_Switch\Item Pickup\Item Pick Up 1		34780
+	396367671	Item Pick Up 3	C:\Users\bandi\OneDrive\Documents\Game Dev\Reconciled\Wwise Project\Reconciled\.cache\Windows\SFX\Assets ready for implementation\Item Pick Up 3_E238D614.wem		\Actor-Mixer Hierarchy\Actor-Mixer_MAIN\Diegetic\Foley\Player\Player\Item_Pickup_Handling_Switch\Item Pickup\Item Pick Up 3		39804
+	397850430	Stone-1	C:\Users\bandi\OneDrive\Documents\Game Dev\Reconciled\Wwise Project\Reconciled\.cache\Windows\SFX\Assets ready for implementation\Footsteps\Stone - SNK\Stone-1_00225573.wem		\Actor-Mixer Hierarchy\Actor-Mixer_MAIN\Diegetic\Foley\Player\Player\Player_Foot_Switch\Stone - SNK\Stone-1		48096
 	411523467	UI_Paper Enter	C:\Users\bandi\OneDrive\Documents\Game Dev\Reconciled\Wwise Project\Reconciled\.cache\Windows\SFX\Paper Enter_818F3B66.wem		\Actor-Mixer Hierarchy\Actor-Mixer_MAIN\Non-Diegetic\UI\UI\UI_Paper Enter		120216
+	412958173	Grass-6	C:\Users\bandi\OneDrive\Documents\Game Dev\Reconciled\Wwise Project\Reconciled\.cache\Windows\SFX\Assets ready for implementation\Footsteps\Grass\Grass-6_818F3B66.wem		\Actor-Mixer Hierarchy\Actor-Mixer_MAIN\Diegetic\Foley\Player\Player\Player_Foot_Switch\Grass\Grass-6		78940
+	428349445	Stone-4	C:\Users\bandi\OneDrive\Documents\Game Dev\Reconciled\Wwise Project\Reconciled\.cache\Windows\SFX\Assets ready for implementation\Footsteps\Stone - SNK\Stone-4_00225573.wem		\Actor-Mixer Hierarchy\Actor-Mixer_MAIN\Diegetic\Foley\Player\Player\Player_Foot_Switch\Stone - SNK\Stone-4		48096
 	443053519	UI_Paper Down	C:\Users\bandi\OneDrive\Documents\Game Dev\Reconciled\Wwise Project\Reconciled\.cache\Windows\SFX\Paper Down_818F3B66.wem		\Actor-Mixer Hierarchy\Actor-Mixer_MAIN\Non-Diegetic\UI\UI\UI_Paper Down		88184
+	481181567	Dirt-5	C:\Users\bandi\OneDrive\Documents\Game Dev\Reconciled\Wwise Project\Reconciled\.cache\Windows\SFX\Assets ready for implementation\Footsteps\Dirt - SNK\Dirt-5_73865736.wem		\Actor-Mixer Hierarchy\Actor-Mixer_MAIN\Diegetic\Foley\Player\Player\Player_Foot_Switch\Grass-Dirt-Layer\Dirt-5		11730
+	484174853	Dirt-3	C:\Users\bandi\OneDrive\Documents\Game Dev\Reconciled\Wwise Project\Reconciled\.cache\Windows\SFX\Assets ready for implementation\Footsteps\Dirt - SNK\Dirt-3_818F3B66.wem		\Actor-Mixer Hierarchy\Actor-Mixer_MAIN\Diegetic\Foley\Player\Player\Player_Foot_Switch\Dirt\Dirt-3		38496
+	485969829	Dirt-1	C:\Users\bandi\OneDrive\Documents\Game Dev\Reconciled\Wwise Project\Reconciled\.cache\Windows\SFX\Assets ready for implementation\Footsteps\Dirt - SNK\Dirt-1_818F3B66.wem		\Actor-Mixer Hierarchy\Actor-Mixer_MAIN\Diegetic\Foley\Player\Player\Player_Foot_Switch\Dirt\Dirt-1		40032
+	493420085	Wood-3	C:\Users\bandi\OneDrive\Documents\Game Dev\Reconciled\Wwise Project\Reconciled\.cache\Windows\SFX\Assets ready for implementation\Footsteps\Wood - SNK\Wood-3_818F3B66.wem		\Actor-Mixer Hierarchy\Actor-Mixer_MAIN\Diegetic\Foley\Player\Player\Player_Foot_Switch\Wood - SNK\Wood-3		25540
 	506537613	Paper 1	C:\Users\bandi\OneDrive\Documents\Game Dev\Reconciled\Wwise Project\Reconciled\.cache\Windows\SFX\Paper 1_818F3B66.wem		\Actor-Mixer Hierarchy\Actor-Mixer_MAIN\Non-Diegetic\UI\UI\UI_UI Highlight Paper\Paper 1		56152
+	508518139	Stone-6	C:\Users\bandi\OneDrive\Documents\Game Dev\Reconciled\Wwise Project\Reconciled\.cache\Windows\SFX\Assets ready for implementation\Footsteps\Stone - SNK\Stone-6_00225573.wem		\Actor-Mixer Hierarchy\Actor-Mixer_MAIN\Diegetic\Foley\Player\Player\Player_Foot_Switch\Stone - SNK\Stone-6		48096
+	541567705	Dirt-1	C:\Users\bandi\OneDrive\Documents\Game Dev\Reconciled\Wwise Project\Reconciled\.cache\Windows\SFX\Assets ready for implementation\Footsteps\Dirt - SNK\Dirt-1_0F40F7A9.wem		\Actor-Mixer Hierarchy\Actor-Mixer_MAIN\Diegetic\Foley\Player\Player\Player_Foot_Switch\Grass-Dirt-Layer\Dirt-1		8078
 	552256699	Paper 2	C:\Users\bandi\OneDrive\Documents\Game Dev\Reconciled\Wwise Project\Reconciled\.cache\Windows\SFX\Paper 2_818F3B66.wem		\Actor-Mixer Hierarchy\Actor-Mixer_MAIN\Non-Diegetic\UI\UI\UI_UI Highlight Paper\Paper 2		48144
 	555749960	MapTwoOpen	C:\Users\bandi\OneDrive\Documents\Game Dev\Reconciled\Wwise Project\Reconciled\.cache\Windows\SFX\MapTwoOpen_818F3B66.wem		\Actor-Mixer Hierarchy\Actor-Mixer_MAIN\Non-Diegetic\UI\UI\UI_MapOpenClose\MapOpen\MapTwoOpen		144096
+	570680781	Dirt-5	C:\Users\bandi\OneDrive\Documents\Game Dev\Reconciled\Wwise Project\Reconciled\.cache\Windows\SFX\Assets ready for implementation\Footsteps\Dirt - SNK\Dirt-5_818F3B66.wem		\Actor-Mixer Hierarchy\Actor-Mixer_MAIN\Diegetic\Foley\Player\Player\Player_Foot_Switch\Dirt\Dirt-5		40544
+	574255775	Wood-6	C:\Users\bandi\OneDrive\Documents\Game Dev\Reconciled\Wwise Project\Reconciled\.cache\Windows\SFX\Assets ready for implementation\Footsteps\Wood - SNK\Wood-6_818F3B66.wem		\Actor-Mixer Hierarchy\Actor-Mixer_MAIN\Diegetic\Foley\Player\Player\Player_Foot_Switch\Wood - SNK\Wood-6		28486
+	578450807	Metal-5	C:\Users\bandi\OneDrive\Documents\Game Dev\Reconciled\Wwise Project\Reconciled\.cache\Windows\SFX\Assets ready for implementation\Footsteps\Metal - BOOT\Metal-5_818F3B66.wem		\Actor-Mixer Hierarchy\Actor-Mixer_MAIN\Diegetic\Foley\Player\Player\Player_Foot_Switch\Metal - BOOT\Metal-5		26090
 	608319785	Paper 3	C:\Users\bandi\OneDrive\Documents\Game Dev\Reconciled\Wwise Project\Reconciled\.cache\Windows\SFX\Paper 3_818F3B66.wem		\Actor-Mixer Hierarchy\Actor-Mixer_MAIN\Non-Diegetic\UI\UI\UI_UI Highlight Paper\Paper 3		40136
+	655332947	Grass-2	C:\Users\bandi\OneDrive\Documents\Game Dev\Reconciled\Wwise Project\Reconciled\.cache\Windows\SFX\Assets ready for implementation\Footsteps\Grass\Grass-2_818F3B66.wem		\Actor-Mixer Hierarchy\Actor-Mixer_MAIN\Diegetic\Foley\Player\Player\Player_Foot_Switch\Grass\Grass-2		50028
 	703621488	Hospital_HallwayWallaAmb_LP	C:\Users\bandi\OneDrive\Documents\Game Dev\Reconciled\Wwise Project\Reconciled\.cache\Windows\SFX\4.12.26\Hospital_HallwayWallaAmb_LP_30EF12F3.wem		\Actor-Mixer Hierarchy\Actor-Mixer_MAIN\Diegetic\Ambiences\3D Objects\Hospital\Hospital Ambiences 3D\Hospital_HallwayWallaAmb_LP		553484
+	781502698	Item Pick Up 2	C:\Users\bandi\OneDrive\Documents\Game Dev\Reconciled\Wwise Project\Reconciled\.cache\Windows\SFX\Assets ready for implementation\Item Pick Up 2_7097BF2A.wem		\Actor-Mixer Hierarchy\Actor-Mixer_MAIN\Diegetic\Foley\Player\Player\Item_Pickup_Handling_Switch\Item Pickup\Item Pick Up 2		34176
+	792051615	Grass-4	C:\Users\bandi\OneDrive\Documents\Game Dev\Reconciled\Wwise Project\Reconciled\.cache\Windows\SFX\Assets ready for implementation\Footsteps\Grass\Grass-4_818F3B66.wem		\Actor-Mixer Hierarchy\Actor-Mixer_MAIN\Diegetic\Foley\Player\Player\Player_Foot_Switch\Grass\Grass-4		78932
+	841367300	Metal-4	C:\Users\bandi\OneDrive\Documents\Game Dev\Reconciled\Wwise Project\Reconciled\.cache\Windows\SFX\Assets ready for implementation\Footsteps\Metal - BOOT\Metal-4_818F3B66.wem		\Actor-Mixer Hierarchy\Actor-Mixer_MAIN\Diegetic\Foley\Player\Player\Player_Foot_Switch\Metal - BOOT\Metal-4		25932
+	873220779	Grass-1	C:\Users\bandi\OneDrive\Documents\Game Dev\Reconciled\Wwise Project\Reconciled\.cache\Windows\SFX\Assets ready for implementation\Footsteps\Grass\Grass-1_818F3B66.wem		\Actor-Mixer Hierarchy\Actor-Mixer_MAIN\Diegetic\Foley\Player\Player\Player_Foot_Switch\Grass\Grass-1		61248
 	875258862	MapOneOpen	C:\Users\bandi\OneDrive\Documents\Game Dev\Reconciled\Wwise Project\Reconciled\.cache\Windows\SFX\MapOneOpen_818F3B66.wem		\Actor-Mixer Hierarchy\Actor-Mixer_MAIN\Non-Diegetic\UI\UI\UI_MapOpenClose\MapOpen\MapOneOpen		72096
+	915147561	Wood-4	C:\Users\bandi\OneDrive\Documents\Game Dev\Reconciled\Wwise Project\Reconciled\.cache\Windows\SFX\Assets ready for implementation\Footsteps\Wood - SNK\Wood-4_818F3B66.wem		\Actor-Mixer Hierarchy\Actor-Mixer_MAIN\Diegetic\Foley\Player\Player\Player_Foot_Switch\Wood - SNK\Wood-4		24132
+	953513443	Metal-3	C:\Users\bandi\OneDrive\Documents\Game Dev\Reconciled\Wwise Project\Reconciled\.cache\Windows\SFX\Assets ready for implementation\Footsteps\Metal - BOOT\Metal-3_818F3B66.wem		\Actor-Mixer Hierarchy\Actor-Mixer_MAIN\Diegetic\Foley\Player\Player\Player_Foot_Switch\Metal - BOOT\Metal-3		25974
+	970819885	Wood-2	C:\Users\bandi\OneDrive\Documents\Game Dev\Reconciled\Wwise Project\Reconciled\.cache\Windows\SFX\Assets ready for implementation\Footsteps\Wood - SNK\Wood-2_818F3B66.wem		\Actor-Mixer Hierarchy\Actor-Mixer_MAIN\Diegetic\Foley\Player\Player\Player_Foot_Switch\Wood - SNK\Wood-2		25166
+	995527268	Stone-3	C:\Users\bandi\OneDrive\Documents\Game Dev\Reconciled\Wwise Project\Reconciled\.cache\Windows\SFX\Assets ready for implementation\Footsteps\Stone - SNK\Stone-3_00225573.wem		\Actor-Mixer Hierarchy\Actor-Mixer_MAIN\Diegetic\Foley\Player\Player\Player_Foot_Switch\Stone - SNK\Stone-3		48096
 	1047848170	MapTwoClose	C:\Users\bandi\OneDrive\Documents\Game Dev\Reconciled\Wwise Project\Reconciled\.cache\Windows\SFX\MapTwoClose_818F3B66.wem		\Actor-Mixer Hierarchy\Actor-Mixer_MAIN\Non-Diegetic\UI\UI\UI_MapOpenClose\MapClose\MapTwoClose		192096
+	1049879557	Metal-1	C:\Users\bandi\OneDrive\Documents\Game Dev\Reconciled\Wwise Project\Reconciled\.cache\Windows\SFX\Assets ready for implementation\Footsteps\Metal - BOOT\Metal-1_818F3B66.wem		\Actor-Mixer Hierarchy\Actor-Mixer_MAIN\Diegetic\Foley\Player\Player\Player_Foot_Switch\Metal - BOOT\Metal-1		28556
+	1062826730	Dirt-3	C:\Users\bandi\OneDrive\Documents\Game Dev\Reconciled\Wwise Project\Reconciled\.cache\Windows\SFX\Assets ready for implementation\Footsteps\Dirt - SNK\Dirt-3_0BD498E8.wem		\Actor-Mixer Hierarchy\Actor-Mixer_MAIN\Diegetic\Foley\Player\Player\Player_Foot_Switch\Grass-Dirt-Layer\Dirt-3		9894
 	1069135987	Hospital_PulseBeepLP	C:\Users\bandi\OneDrive\Documents\Game Dev\Reconciled\Wwise Project\Reconciled\.cache\Windows\SFX\4.12.26\Hospital_PulseBeepLP_5C48BE6C.wem		\Actor-Mixer Hierarchy\Actor-Mixer_MAIN\Diegetic\Ambiences\3D Objects\Hospital\Hospital Ambiences 3D\Hospital_PulseBeepBlend&Switch\Hospital_PulseBeepLP		19563
 
