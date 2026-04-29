@@ -769,7 +769,7 @@ MonoBehaviour:
         ObjectType: 3
         guid: 947e7502a0190241b37812e5cd1a392c
       Path: Events\Ambiences\Ambiences\3D\Garden\amb_tree
-      maxAttenuation: 0
+      maxAttenuation: 15
       maxDuration: -1
       minDuration: -1
     - name: amb_tree_night
@@ -1126,7 +1126,7 @@ MonoBehaviour:
         ObjectType: 3
         guid: bd53933a2df9214bb6f26ee7394f6783
       Path: Events\Ambiences\Ambiences\3D\Garden\water_run
-      maxAttenuation: 25
+      maxAttenuation: 15
       maxDuration: -1
       minDuration: -1
   - PhysicalPath: Events\Default Work Unit.wwu
@@ -1442,7 +1442,7 @@ MonoBehaviour:
       Path: Events\Player\Player\pc_footstep
       maxAttenuation: 0
       maxDuration: 0.5297316
-      minDuration: 0.074068114
+      minDuration: 0.21941143
     - name: Player
       guid: c92c6974617b1c4a9bc5cd540e657af3
       id: 1069431850
@@ -1491,8 +1491,8 @@ MonoBehaviour:
         guid: c84218451e03cc4e8ebda8c04223ed91
       Path: Events\SFX\Specifics\door_open
       maxAttenuation: 0
-      maxDuration: 0
-      minDuration: 0
+      maxDuration: 0.7511875
+      minDuration: 0.6501803
     - name: drink_sip
       guid: e5e9eacc06fa764b932b9eb53f5964c7
       id: 2637953892
@@ -1551,8 +1551,8 @@ MonoBehaviour:
         guid: cf5252ad2f3b5c4286496769a211d0f2
       Path: Events\SFX\Specifics\key_play
       maxAttenuation: 0
-      maxDuration: 0
-      minDuration: 0
+      maxDuration: 212.32349
+      minDuration: 212.32349
     - name: map_openclose
       guid: 10703017101bad469bf838b557200d0b
       id: 831022004
